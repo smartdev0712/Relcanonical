@@ -1,0 +1,47 @@
+{% load static %}
+
+<a href="" class="nav-label px-10" data-toggle="modal" data-target="#viewedMate">
+    <span class="nav-title text-dark font-weight-bolder font-size-h2 mb-1"><span
+            class="text-muted font-weight-bolder font-size-h6 mr-1"></span>00</span>
+    <span class="nav-desc text-muted font-weight-bold font-size-sm">VIEWED MATES</span>
+</a>
+
+<div class="modal fade" id="viewedMate" tabindex="-1" role="dialog" aria-labelledby="staticBackdrop" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-body p-20">
+                <div data-scroll="true" data-height="auto">
+                    <div class="text-center">
+                        <div class="symbol symbol-50 symbol-circle symbol-xl-50">
+                            <div class="symbol-label"
+                                style="background-image:url( '/static/assets/media/a-team/13.jpg')">
+                            </div>
+                            <i class="symbol-badge bg-warning"></i>
+                        </div>
+                        <div class="mt-3">
+                            <span class="text-dark font-weight-bolder font-size-h4">FName
+                            </span>
+                        </div>
+                        <div class="text-dark-50 font-weight-bold font-size-lg">
+                            $username</div>
+                        <div class="text-dark-50 font-weight-bold font-size-h4 mt-4">
+                            Your <mark>Viewed Mates</mark> are the total number of mates that have viewed
+                            or visited your Invited Page. Kindly note that this is not one of the primary factors that determine
+                            your <code>social credit score</code>, which qualifies you for
+                            <code>social basic income</code> and <code>social rapid loans</code> on KreditRoom.
+                        </div>
+                    </div>
+                    <div class="row justify-content-center my-2">
+                        <div class="card-stretch text-center">
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <a href="/account/invite/" target="_blank"
+                            class="btn btn-dark font-weight-boldest font-size-lg px-8 py-5" type="submit">BOOST YOUR
+                            SCORE</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

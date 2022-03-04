@@ -1,0 +1,194 @@
+name,language,person,people,currency
+Afghan,Pashto and Dari,An Afghan,Afghans,AFN
+Albanian,Albanian,An Albanian,Albanians,ALL
+Algerian,Arabic and Berber,An Algerian,Algerians,DZD
+Andorran,Catalan,An Andorran,Andorrans,EUR
+Angolan,Portuguese,An Angolan,Angolans,AOA
+Barbudan,English,A Barbudan,Barbudans,XCD
+Antiguan,English,An Antiguan,Antiguans,XCD
+Argentinean,Spanish,An Argentinean,Argentineans,ARS
+Armenian,Armenian,An Armenian,Armenians,AMD
+Australian,English,An Australian,Australians,AUD
+Austrian,German,An Austrian,Austrians,EUR
+Azerbaijani,Azerbaijani,An Azerbaijani,Azerbaijanis,AZN
+Bahamian,English,A Bahamian,Bahamians,BSD
+Bahraini,Arabic,A Bahraini,Bahrainis,BHD
+Bangladeshi,Bengali,A Bangladeshi,Bangladeshis,BDT
+Barbadian,English,A Barbadian,Barbadians,BBD
+Batswana,English,A Batswana,Batswanas,BWP
+Belarusian,Russian and Belarussian,A Belarusian,Belarusians,BYN
+Belgian,"French, Dutch, and German",A Belgian,Belgians,EUR
+Belizean,English,A Belizean,Belizeans,BZD
+Beninese,French,A Beninese,Beninese,XOF
+Bhutanese,Dzongkha,A Bhutanese,Bhutanesi,BTN
+Bolivian,Spanish,A Bolivian,Bolivians,BOB
+Bosnian,"Bosnian, Serbian, and Croatian",A Bosnian,Bosnians,BAM
+Herzegovinian,"Bosnian, Serbian, and Croatian",A Herzegovinian,Herzegovinians,BAM
+Motswana,English and Tswana,A Motswana,Motswanas,BWP
+Brazilian,Portuguese,A Brazilian,Brazilians,BRL
+Bruneian,Malay and English,A Bruneian,Bruneians,BND
+Bulgarian,Bulgarian,A Bulgarian,Bulgarians,BGN
+Burkinabe,French,A Burkinabe,Burkinabes,XOF
+Burundian,"Kirundi, French, and English",A Burundian,Burundians,BIF
+Cambodian,Khmer,A Cambodian,Cambodians,KHR
+Cameroonian,French and English,A Cameroonian,Cameroonians,XAF
+Canadian,French and English,A Canadian,Canadians,CAD
+Cape Verdean,Portuguese,A Cape Verdean,Cape Verdeans,CVE
+Central African,French and Sango,A Central African,Central Africans,XAF
+Chadian,French and Arabic,A Chadian,Chadians,XAF
+Chilean,Spanish,A Chilean,Chileans,CLP
+Chinese,Chinese,A Chinese,Chinese,CNY
+Colombian,Spanish,A Colombian,Colombians,COP
+Comoran,"French, Arabic, and Comorian",A Comoran,Comorans,KMF
+Congolese,French,A Congolese,Congolese,XAF
+Costa Rican,Spanish,A Costa Rican,Costa Ricans,CRC
+Croatian,Croatian,A Croatian,Croatians,HRK
+Cuban,Spanish,A Cuban,Cubans,CUP
+Cypriot,Greek and Turkish,A Cypriot,Cypriots,EUR
+Czech,Czech and Slovak,A Czech,Czechs,CZK
+Danish,Danish,A Danish,Danishes,DKK
+Djibouti,Arabic and French,A Djiboutian,Djiboutians,DJF
+Dominican,Spanish,A Dominican,Dominicans,DOP
+Ecuadorean,Spanish,An Ecuadorean,Ecuadoreans,USD
+Egyptian,Arabic,An Egyptian,Egyptians,EGP
+Salvadoran,Spanish,A Salvadoran,Salvadorans,USD
+Equatorial Guinean,"Spanish, French, and Portuguese",An Equatorial Guinean,Equatorial Guineans,XAF
+Eritrean,Tigrinya,An Eritrean,Eritreans,ERN
+Estonian,Estonian,An Estonian,Estonians,EUR
+Ethiopian,"Amharic, Somali, Tigrigna, Oromo, and Afar",An Ethiopian,Ethiopians,ETB
+Micronesian,English,A Micronesian,Micronesians,USD
+Fijian,"Hindi, English, and Fijian",A Fijian,Fijians,FJD
+Finnish,Swedish and Finnish,A Finnish,Finnishs,EUR
+French,French,A French,French,EUR
+Gabonese,French,A Gabonese,Gabonese,XAF
+Gambian,English,A Gambian,Gambians,GMD
+Georgian,Georgian and Abkhaz,A Georgian,Georgians,GEL
+German,German,A German,Germans,EUR
+Ghanaian,English,A Ghanaian,Ghanaians,GHS
+Greek,Greek,A Greek,Greeks,EUR
+Grenadian,English,A Grenadian,Grenadians,XCD
+Guatemalan,Spanish,A Guatemalan,Guatemalans,GTQ
+Guinean,French,A Guinean,Guineans,GNF
+Guinea-Bissauan,Portuguese,A Guinea-Bissauan,Guinea-Bissauans,XOF
+Guyanese,English,A Guyanese,Guyanese,GYD
+Haitian,French and Creole,A Haitian,Haitians,HTG
+Honduran,Spanish,A Honduran,Hondurans,HNL
+Hungarian,Hungarian,A Hungarian,Hungarians,HUF
+Icelander,Icelandic,An Icelander,Icelanders,IKR
+Indian,Hindi and English,An Indian,Indians,INR
+Indonesian,Indonesian,An Indonesian,Indonesians,IDR
+Iranian,Persian,An Iranian,Iranians,IRR
+Iraqi,Arabic and Kurdish,An Iraqi,Iraqis,IQD
+Irish,Irish and English,An Irish,Irishs,EUR
+Israeli,Hebrew and Arabic,An Israeli,Israelis,ILS
+Italian,Italian,An Italian,Italians,EUR
+Ivorian,French,An Ivorian,Ivorians,CFA
+Jamaican,English,A Jamaican,Jamaicans,JMD
+Japanese,Japanese,A Japanese,Japanese,JPY
+Jordanian,Arabic,A Jordanian,Jordanians,JOD
+Kazakhstani,Russian and Kazakh,A Kazakhstani,Kazakhstanis,KZT
+Kenyan,Swahili and English,A Kenyan,Kenyans,KES
+Kiribatian,English and Kiribati,A Kiribatian,Kiribatians,AUD
+Kuwaiti,Arabic,A Kuwaiti,Kuwaitis,KWD
+Kyrgyz,Russian and Kyrgyz,A Kyrgyz,Kirghiz,KGS
+Laotian,Lao,A Laotian,Laotians,LAK
+Latvian,Latvian,A Latvian,Latvians,EUR
+Lebanese,Arabic,A Lebanese,Lebanese,LBP
+Mosotho,English and Sotho,A Mosotho,Mosotho,LSL
+Liberian,English,A Liberian,Liberians,LRD
+Libyan,Arabic,A Libyan,Libyans,LYD
+Liechtensteiner,German,A Liechtensteiner,Liechtensteiners,CHF
+Lithuanian,Lithuanian,A Lithuanian,Lithuanians,EUR
+Luxembourger,"Luxembourgish, German, and French",A Luxembourger,Luxembourgers,EUR
+Malagasy,French and Malagasy,A Malagasy,Malagasies,MGA
+Malawian,English and Chewa,A Malawian,Malawians,MWK
+Malaysian,Malaysian,A Malaysian,Malaysians,MYR
+Maldivian,Divehi,A Maldivian,Maldivians,MVR
+Malian,French,A Malian,Malians,XOF
+Maltese,Maltese and English,A Maltese,Maltese,EUR
+Marshallese,Marshallese and English,A Marshallese,Marshallese,USD
+Mauritanian,Arabic,A Mauritanian,Mauritanians,MRU
+Mauritian,French and English,A Mauritian,Mauritians,MUR
+Mexican,Spanish,A Mexican,Mexicans,MXN
+Moldovan,Romanian,A Moldovan,Moldovans,MDL
+Monacan,French,A Monacan,Monacans,EUR
+Mongolian,Mongolian,A Mongolian,Mongolians,MNT
+Moroccan,Arabic and Amazigh,A Moroccan,Moroccans,MAD
+Mozambican,Portuguese,A Mozambican,Mozambicans,MZN
+Burmese,Burmese,A Burmese,Burmese,MMK
+Namibian,English,A Namibian,Namibians,NAD
+Nauruan,Nauruan and English,A Nauruan,Nauruans,AUD
+Nepalese,Nepali,A Nepalese,Nepalese,NPR
+Dutch,Dutch,A Dutch,Dutches,EUR
+New Zealander,English and Maori,A New Zealander,New Zealanders,NZD
+Nicaraguan,Spanish,A Nicaraguan,Nicaraguans,NIO
+Nigerien,French,A Nigerien,Nigeriens,XOF
+Nigerian,"English, Yoruba, Igbo, and Hausa",A Nigerian,Nigerians,NGN
+North Korean,Korean,A North Korean,North Koreans,KPW
+Irish,English,An Irish,Irish,GBP
+Norwegian,"Norwegian, Bokmål, Nynorsk, and Sami",A Norwegian,Norwegians,NOK
+Omani,Arabic,An Omani,Omanis,OMR
+Pakistani,Urdu and English,A Pakistani,Pakistanis,PKR
+Palauan,"English, Palauan, Tobian, and Sonsorolese",A Palauan,Palauans,USD
+Panamanian,Spanish,A Panamanian,Panamanians,PAB
+PapuNew Guinean,"Tok Pisin, English, and Hiri Motu",A Papua New Guinean,Papua New Guineans,PGK
+Paraguayan,Spanish and Guarani,A Paraguayan,Paraguayans,PYG
+Peruvian,"Spanish, Aymara, and Quechuan",A Peruvian,Peruvians,PEN
+Filipino,English and Filipino,A Filipino,Filipinos,PHP
+Polish,Polish,A Polish,Polish,PLN
+Portuguese,Portuguese,A Portuguese,Portuguese,EUR
+Qatari,Arabic,A Qatari,Qataris,QAR
+Macedonian,Macedonian and Albanian,A Macedonian,Macedonians,MKD
+Romanian,Romanian,A Romanian,Romanians,RON
+Russian,Russian,A Russian,Russians,RUB
+Rwandan,"Swahili, English, Kinyarwanda, and French",A Rwandan,Rwandans,RWF
+Saint Lucian,English,A Saint Lucian,Saint Lucians,XCD
+Samoan,Samoan and English,A Samoan,Samoans,WST
+San Marinese,Italian,A SA Marinese,San Marinese,EUR
+Sao Tomean,Portuguese,A Sao Tomean,Sao Tomeans,STD
+Saudi,Arabic,A Saudi,Saudis,SAR
+Senegalese,French,A Senegalese,Senegalese,XOF
+Serbian,Serbian,A Serbian,Serbians,RSD
+Seychellois,French and English,A Seychellois,Seychelloises,SCR
+SierrLeonean,English,A Sierra Leonean,Sierra Leoneans,SLL
+Singaporean,"Malay, English, Tamil, Chinese, English, and Mandarin",A Singaporean,Singaporeans,SGD
+Slovakian,Slovak,A Slovakian,Slovakians,EUR
+Slovenian,Slovene,A Slovenian,Slovenians,EUR
+Solomon Islander,English,A Solomon Islander,Solomon Islanders,SBD
+Somali,Arabic and Somali,A Somali,Somalis,SOS
+South African,"Afrikaans, English, Xhosa, and Zulu",A South African,South Africans,ZAR
+South Korean,Korean,A South Korean,South Koreans,KRW
+Spanish,Spanish,A Spanish,Spanish,EUR
+Sri Lankan,Tamil and Sinhala,A Sri Lankan,Sri Lankans,LKR
+Sudanese,Arabic and English,A Sudanese,Sudanese,SDG
+Surinamer,Dutch,A Surinamer,Surinamers,SRD
+Swazi,English and Swati,A Swazi,Swazis,SZL
+Swedish,Swedish,A Swedish,Swedish,SEK
+Swiss,"German, French, Italian, and Romansh",A Swiss,Swiss,CHF
+Syrian,Arabic,A Syrian,Syrians,SYP
+Taiwanese,Chinese,A Taiwanese,Taiwanese,TWD
+Tajik,Tajiki,A Tajik,Tajiks,TJS
+Tanzanian,Swahili and English,A Tanzanian,Tanzanians,TZS
+Thai,Thai,A Thai,Thais,THB
+East Timorese,Portuguese and Tetun,An East Timorese,East Timorese,USD
+Togolese,French,A Togolese,Togolese,XOF
+Tongan,Tongan and English,A Tongan,Tongans,TOP
+Trinidadian or Tobagonian,English,A Trinidadian or Tobagonian,Trinidadians or Tobagonians,TTD
+Tunisian,Arabic,A Tunisian,Tunisians,TND
+Turkish,Turkish,A Turkish,Turkish,TRY
+Tuvaluan,English and Tuvaluan,A Tuvaluan,Tuvaluans,AUD
+Ugandan,Swahili and English,A Ugandan,Ugandans,UGX
+Ukrainian,Ukrainian,A Ukrainian,Ukrainians,UAH
+Emirian,Arabic,An Emirian,Emirians,AED
+British,English,A British,British,GBP
+Scottish,English,A Scottish,Scottish,GBP
+Welsh,English,A Welsh,Welshs,GBP
+American,English,An American,Americans,USD
+Uruguayan,Spanish,A Uruguayan,Uruguayans,UYU
+Uzbekistani,Uzbek,A Uzbekistani,Uzbekistanis,UZS
+Ni-Vanuatu,"French, Bislama, and English",A Ni-Vanuatu,Ni-Vanuatus,VUV
+Venezuelan,Spanish,A Venezuelan,Venezuelans,VED
+Vietnamese,Vietnamese,A Vietnamese,Vietnamese,VND
+Yemenite,Arabic,A Yemenite,Yemenites,YER
+Zambian,English,A Zambian,Zambians,ZMW
+Zimbabwean,"Shona, English, Tswana, Xhosa, and Sotho",A Zimbabwean,Zimbabweans,ZWD

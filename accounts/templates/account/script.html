@@ -1,0 +1,136 @@
+{% load static %}
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<!-- ===============================================-->
+<!--    header starts here -->
+<!-- ===============================================-->
+
+<head>
+    <base href="../../">
+    <meta charset="utf-8" />
+    <title>Script Manager :: Relcanonical</title>
+    <meta name="description"
+    content="In ~10 seconds, you can build your own Automated API, Business API, and Custom API without limitations. Save money, time, and resources. Generate an API." />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
+    <link href="/static/assets/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css" />
+    <link href="/static/assets/plugins/custom/prismjs/prismjs.bundle.css" rel="stylesheet" type="text/css" />
+    <link href="/static/assets/css/style.bundle.css" rel="stylesheet" type="text/css" />
+    <link href="/static/assets/css/goat.css" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" href="/static/assets/media/logos/logo_primary_letter.png" />
+</head>
+
+<!-- ===============================================-->
+<!--    header ends here -->
+<!-- ===============================================-->
+
+<div class="d-flex flex-column flex-root">
+    <div class="login login-1 login-signin-on d-flex flex-column flex-lg-row flex-column-fluid bg-white" id="kt_login">
+        <div
+            class="login-content flex-row-fluid d-flex flex-column justify-content-center position-relative overflow-hidden p-7 mx-auto">
+            <div class="d-flex flex-column-fluid flex-center  text-center">
+                <div class="login-form login-signup">
+                    <form class="container" id="form">
+                        <div class="login-form">
+                            <div class="image-input image-input-outline" id="kt_user_add_avatar">
+                                <div class="image-input-wrapper"
+                                    style="background-image: url(/static/assets/media/logos/logo_secondary_card.png)"></div>
+                                <label
+                                    class="btn btn-xs btn-icon btn-circle btn-white btn-hover-text-primary btn-shadow"
+                                    data-action="change" data-toggle="tooltip" title=""
+                                    data-original-title="Change avatar">
+                                    <i class="fa fa-pen icon-sm text-muted"></i>
+                                    <input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg" />
+                                    <input type="hidden" name="profile_avatar_remove" />
+                                </label>
+                                <span class="btn btn-xs btn-icon btn-circle btn-white btn-hover-text-primary btn-shadow"
+                                    data-action="cancel" data-toggle="tooltip" title="Cancel avatar">
+                                    <i class="ki ki-bold-close icon-xs text-muted"></i>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="font-size-md font-weight-bold mt-6">
+                            <span class="text-dark-50">firstName, welcome back to Relcanonical. On this page, you
+                                can<br /> manage your <code>main account</code>, <code>team accounts</code>, and
+                                <code>api requests</code>.</span>
+                        </div>
+                        <div class="row mt-6">
+                            <div class="col-xl-6">
+                                <div class="card card-custom gutter-b">
+                                    <div class="card-body text-center py-15">
+                                        <h6 class="text-primary font-weight-bolder font-size-md">00 <span
+                                                class="text-dark font-weight-bolder font-size-h2 mb-2"><span
+                                                    class="text-muted font-size-sm">/</span> 00</span></h6>
+                                        <a href="/account/"
+                                            class="text-muted text-hover-dark-50 font-weight-bolder font-size-sm">ACCOUNTS</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-6">
+                                <div class="card card-custom gutter-b">
+                                    <div class="card-body text-center py-15">
+                                        <h6 class="text-primary font-weight-bolder font-size-md">00 <span
+                                                class="text-dark font-weight-bolder font-size-h2 mb-2"><span
+                                                    class="text-muted font-size-sm">/</span> 00</span></h6>
+                                        <a href="/account/"
+                                            class="text-muted text-hover-dark-50 font-weight-bolder font-size-sm">REQUESTS</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="text-center mb-2">
+                            <a href="/" target="_blank" class="label label-primary label-inline font-weight-bolder">SCRIPT</a>
+                        </div>
+
+                        <div class="container d-flex flex-column flex-md-row justify-content-md-center">
+                            <ul class="breadcrumb breadcrumb-transparent breadcrumb-dot font-weight-bold font-size-sm">
+                                <li class="breadcrumb-item font-weight-bolder text-muted">
+                                    <a href="/" class="text-muted text-hover-primary">
+                                        UPDATE
+                                    </a>
+                                </li>
+                                <li class="breadcrumb-item font-weight-bolder text-muted">
+                                    <a href="/" class="text-muted text-hover-primary">
+                                        EXIT
+                                    </a>
+                                </li>
+                                <li class="breadcrumb-item font-weight-bolder text-muted">
+                                    <a href="/" class="text-muted text-hover-primary">
+                                        SNOOZE
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <!-- ===============================================-->
+                        <!--    footer starts here -->
+                        <!-- ===============================================-->
+
+                        {% include "main/templates/footer.html" %}
+
+                        <!-- ===============================================-->
+                        <!--    footer ends here -->
+                        <!-- ===============================================-->
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ===============================================-->
+<!--    script starts here -->
+<!-- ===============================================-->
+
+{% include "main/templates/script.html" %}
+
+<!-- ===============================================-->
+<!--    script ends here -->
+<!-- ===============================================-->
+
+</html>

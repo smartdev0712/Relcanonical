@@ -1,0 +1,4881 @@
+[
+	{
+		"name": "111 Ear Infection",
+		"treatment": "111 Ear Infection Treatment",
+		"diagnosis": "111 Ear Infection Diagnosis",
+		"test": "111 Ear Infection Test",
+		"cure": "111 Ear Infection Cure"
+	},
+	{
+		"name": "8Th Nerve Deafness",
+		"treatment": "8Th Nerve Deafness Treatment",
+		"diagnosis": "8Th Nerve Deafness Diagnosis",
+		"test": "8Th Nerve Deafness Test",
+		"cure": "8Th Nerve Deafness Cure"
+	},
+	{
+		"name": "AAFP Otitis Media",
+		"treatment": "AAFP Otitis Media Treatment",
+		"diagnosis": "AAFP Otitis Media Diagnosis",
+		"test": "AAFP Otitis Media Test",
+		"cure": "AAFP Otitis Media Cure"
+	},
+	{
+		"name": "Acid Reflux Laryngitis",
+		"treatment": "Acid Reflux Laryngitis Treatment",
+		"diagnosis": "Acid Reflux Laryngitis Diagnosis",
+		"test": "Acid Reflux Laryngitis Test",
+		"cure": "Acid Reflux Laryngitis Cure"
+	},
+	{
+		"name": "Acute Bacterial Otitis Media",
+		"treatment": "Acute Bacterial Otitis Media Treatment",
+		"diagnosis": "Acute Bacterial Otitis Media Diagnosis",
+		"test": "Acute Bacterial Otitis Media Test",
+		"cure": "Acute Bacterial Otitis Media Cure"
+	},
+	{
+		"name": "Acute Bilateral Otitis Media",
+		"treatment": "Acute Bilateral Otitis Media Treatment",
+		"diagnosis": "Acute Bilateral Otitis Media Diagnosis",
+		"test": "Acute Bilateral Otitis Media Test",
+		"cure": "Acute Bilateral Otitis Media Cure"
+	},
+	{
+		"name": "Acute Ear Infection",
+		"treatment": "Acute Ear Infection Treatment",
+		"diagnosis": "Acute Ear Infection Diagnosis",
+		"test": "Acute Ear Infection Test",
+		"cure": "Acute Ear Infection Cure"
+	},
+	{
+		"name": "Acute Eczematoid Otitis Externa",
+		"treatment": "Acute Eczematoid Otitis Externa Treatment",
+		"diagnosis": "Acute Eczematoid Otitis Externa Diagnosis",
+		"test": "Acute Eczematoid Otitis Externa Test",
+		"cure": "Acute Eczematoid Otitis Externa Cure"
+	},
+	{
+		"name": "Acute External Otitis",
+		"treatment": "Acute External Otitis Treatment",
+		"diagnosis": "Acute External Otitis Diagnosis",
+		"test": "Acute External Otitis Test",
+		"cure": "Acute External Otitis Cure"
+	},
+	{
+		"name": "Acute Hearing Loss",
+		"treatment": "Acute Hearing Loss Treatment",
+		"diagnosis": "Acute Hearing Loss Diagnosis",
+		"test": "Acute Hearing Loss Test",
+		"cure": "Acute Hearing Loss Cure"
+	},
+	{
+		"name": "Acute Labyrinthitis",
+		"treatment": "Acute Labyrinthitis Treatment",
+		"diagnosis": "Acute Labyrinthitis Diagnosis",
+		"test": "Acute Labyrinthitis Test",
+		"cure": "Acute Labyrinthitis Cure"
+	},
+	{
+		"name": "Acute Left Otitis Media",
+		"treatment": "Acute Left Otitis Media Treatment",
+		"diagnosis": "Acute Left Otitis Media Diagnosis",
+		"test": "Acute Left Otitis Media Test",
+		"cure": "Acute Left Otitis Media Cure"
+	},
+	{
+		"name": "Acute Middle Ear Infection",
+		"treatment": "Acute Middle Ear Infection Treatment",
+		"diagnosis": "Acute Middle Ear Infection Diagnosis",
+		"test": "Acute Middle Ear Infection Test",
+		"cure": "Acute Middle Ear Infection Cure"
+	},
+	{
+		"name": "Acute Myringitis",
+		"treatment": "Acute Myringitis Treatment",
+		"diagnosis": "Acute Myringitis Diagnosis",
+		"test": "Acute Myringitis Test",
+		"cure": "Acute Myringitis Cure"
+	},
+	{
+		"name": "Acute Nonsuppurative Otitis Media",
+		"treatment": "Acute Nonsuppurative Otitis Media Treatment",
+		"diagnosis": "Acute Nonsuppurative Otitis Media Diagnosis",
+		"test": "Acute Nonsuppurative Otitis Media Test",
+		"cure": "Acute Nonsuppurative Otitis Media Cure"
+	},
+	{
+		"name": "Acute Otitis",
+		"treatment": "Acute Otitis Treatment",
+		"diagnosis": "Acute Otitis Diagnosis",
+		"test": "Acute Otitis Test",
+		"cure": "Acute Otitis Cure"
+	},
+	{
+		"name": "Acute Otitis Externa",
+		"treatment": "Acute Otitis Externa Treatment",
+		"diagnosis": "Acute Otitis Externa Diagnosis",
+		"test": "Acute Otitis Externa Test",
+		"cure": "Acute Otitis Externa Cure"
+	},
+	{
+		"name": "Acute Otitis Media",
+		"treatment": "Acute Otitis Media Treatment",
+		"diagnosis": "Acute Otitis Media Diagnosis",
+		"test": "Acute Otitis Media Test",
+		"cure": "Acute Otitis Media Cure"
+	},
+	{
+		"name": "Acute Right Otitis Media",
+		"treatment": "Acute Right Otitis Media Treatment",
+		"diagnosis": "Acute Right Otitis Media Diagnosis",
+		"test": "Acute Right Otitis Media Test",
+		"cure": "Acute Right Otitis Media Cure"
+	},
+	{
+		"name": "Acute Serous Otitis Media",
+		"treatment": "Acute Serous Otitis Media Treatment",
+		"diagnosis": "Acute Serous Otitis Media Diagnosis",
+		"test": "Acute Serous Otitis Media Test",
+		"cure": "Acute Serous Otitis Media Cure"
+	},
+	{
+		"name": "Acute Serous Otitis Media Bilateral",
+		"treatment": "Acute Serous Otitis Media Bilateral Treatment",
+		"diagnosis": "Acute Serous Otitis Media Bilateral Diagnosis",
+		"test": "Acute Serous Otitis Media Bilateral Test",
+		"cure": "Acute Serous Otitis Media Bilateral Cure"
+	},
+	{
+		"name": "Acute Sore Throat",
+		"treatment": "Acute Sore Throat Treatment",
+		"diagnosis": "Acute Sore Throat Diagnosis",
+		"test": "Acute Sore Throat Test",
+		"cure": "Acute Sore Throat Cure"
+	},
+	{
+		"name": "Acute Strep Throat",
+		"treatment": "Acute Strep Throat Treatment",
+		"diagnosis": "Acute Strep Throat Diagnosis",
+		"test": "Acute Strep Throat Test",
+		"cure": "Acute Strep Throat Cure"
+	},
+	{
+		"name": "Acute Suppurative Otitis Media",
+		"treatment": "Acute Suppurative Otitis Media Treatment",
+		"diagnosis": "Acute Suppurative Otitis Media Diagnosis",
+		"test": "Acute Suppurative Otitis Media Test",
+		"cure": "Acute Suppurative Otitis Media Cure"
+	},
+	{
+		"name": "Acute Throat Infection",
+		"treatment": "Acute Throat Infection Treatment",
+		"diagnosis": "Acute Throat Infection Diagnosis",
+		"test": "Acute Throat Infection Test",
+		"cure": "Acute Throat Infection Cure"
+	},
+	{
+		"name": "Acute Throat Pain",
+		"treatment": "Acute Throat Pain Treatment",
+		"diagnosis": "Acute Throat Pain Diagnosis",
+		"test": "Acute Throat Pain Test",
+		"cure": "Acute Throat Pain Cure"
+	},
+	{
+		"name": "Air Infection",
+		"treatment": "Air Infection Treatment",
+		"diagnosis": "Air Infection Diagnosis",
+		"test": "Air Infection Test",
+		"cure": "Air Infection Cure"
+	},
+	{
+		"name": "Anemia Sore Throat",
+		"treatment": "Anemia Sore Throat Treatment",
+		"diagnosis": "Anemia Sore Throat Diagnosis",
+		"test": "Anemia Sore Throat Test",
+		"cure": "Anemia Sore Throat Cure"
+	},
+	{
+		"name": "Aspergillus Ear Infection",
+		"treatment": "Aspergillus Ear Infection Treatment",
+		"diagnosis": "Aspergillus Ear Infection Diagnosis",
+		"test": "Aspergillus Ear Infection Test",
+		"cure": "Aspergillus Ear Infection Cure"
+	},
+	{
+		"name": "Aspergillus Otitis Externa",
+		"treatment": "Aspergillus Otitis Externa Treatment",
+		"diagnosis": "Aspergillus Otitis Externa Diagnosis",
+		"test": "Aspergillus Otitis Externa Test",
+		"cure": "Aspergillus Otitis Externa Cure"
+	},
+	{
+		"name": "Aspergillus Otomycosis",
+		"treatment": "Aspergillus Otomycosis Treatment",
+		"diagnosis": "Aspergillus Otomycosis Diagnosis",
+		"test": "Aspergillus Otomycosis Test",
+		"cure": "Aspergillus Otomycosis Cure"
+	},
+	{
+		"name": "Auditory Nerve Tumor",
+		"treatment": "Auditory Nerve Tumor Treatment",
+		"diagnosis": "Auditory Nerve Tumor Diagnosis",
+		"test": "Auditory Nerve Tumor Test",
+		"cure": "Auditory Nerve Tumor Cure"
+	},
+	{
+		"name": "Auricular Fistula",
+		"treatment": "Auricular Fistula Treatment",
+		"diagnosis": "Auricular Fistula Diagnosis",
+		"test": "Auricular Fistula Test",
+		"cure": "Auricular Fistula Cure"
+	},
+	{
+		"name": "Auricular Infection",
+		"treatment": "Auricular Infection Treatment",
+		"diagnosis": "Auricular Infection Diagnosis",
+		"test": "Auricular Infection Test",
+		"cure": "Auricular Infection Cure"
+	},
+	{
+		"name": "Autoimmune Ear Disease",
+		"treatment": "Autoimmune Ear Disease Treatment",
+		"diagnosis": "Autoimmune Ear Disease Diagnosis",
+		"test": "Autoimmune Ear Disease Test",
+		"cure": "Autoimmune Ear Disease Cure"
+	},
+	{
+		"name": "Autoimmune Hearing Loss",
+		"treatment": "Autoimmune Hearing Loss Treatment",
+		"diagnosis": "Autoimmune Hearing Loss Diagnosis",
+		"test": "Autoimmune Hearing Loss Test",
+		"cure": "Autoimmune Hearing Loss Cure"
+	},
+	{
+		"name": "Autoimmune Inner Ear Disease",
+		"treatment": "Autoimmune Inner Ear Disease Treatment",
+		"diagnosis": "Autoimmune Inner Ear Disease Diagnosis",
+		"test": "Autoimmune Inner Ear Disease Test",
+		"cure": "Autoimmune Inner Ear Disease Cure"
+	},
+	{
+		"name": "Autoimmune Red Ear Syndrome",
+		"treatment": "Autoimmune Red Ear Syndrome Treatment",
+		"diagnosis": "Autoimmune Red Ear Syndrome Diagnosis",
+		"test": "Autoimmune Red Ear Syndrome Test",
+		"cure": "Autoimmune Red Ear Syndrome Cure"
+	},
+	{
+		"name": "Autoimmune Tinnitus",
+		"treatment": "Autoimmune Tinnitus Treatment",
+		"diagnosis": "Autoimmune Tinnitus Diagnosis",
+		"test": "Autoimmune Tinnitus Test",
+		"cure": "Autoimmune Tinnitus Cure"
+	},
+	{
+		"name": "Bacterial Ear Infection",
+		"treatment": "Bacterial Ear Infection Treatment",
+		"diagnosis": "Bacterial Ear Infection Diagnosis",
+		"test": "Bacterial Ear Infection Test",
+		"cure": "Bacterial Ear Infection Cure"
+	},
+	{
+		"name": "Bacterial Infection Sore Throat",
+		"treatment": "Bacterial Infection Sore Throat Treatment",
+		"diagnosis": "Bacterial Infection Sore Throat Diagnosis",
+		"test": "Bacterial Infection Sore Throat Test",
+		"cure": "Bacterial Infection Sore Throat Cure"
+	},
+	{
+		"name": "Bacterial Laryngitis",
+		"treatment": "Bacterial Laryngitis Treatment",
+		"diagnosis": "Bacterial Laryngitis Diagnosis",
+		"test": "Bacterial Laryngitis Test",
+		"cure": "Bacterial Laryngitis Cure"
+	},
+	{
+		"name": "Bacterial Otitis Externa",
+		"treatment": "Bacterial Otitis Externa Treatment",
+		"diagnosis": "Bacterial Otitis Externa Diagnosis",
+		"test": "Bacterial Otitis Externa Test",
+		"cure": "Bacterial Otitis Externa Cure"
+	},
+	{
+		"name": "Bacterial Otitis Media",
+		"treatment": "Bacterial Otitis Media Treatment",
+		"diagnosis": "Bacterial Otitis Media Diagnosis",
+		"test": "Bacterial Otitis Media Test",
+		"cure": "Bacterial Otitis Media Cure"
+	},
+	{
+		"name": "Bacterial Throat Infection",
+		"treatment": "Bacterial Throat Infection Treatment",
+		"diagnosis": "Bacterial Throat Infection Diagnosis",
+		"test": "Bacterial Throat Infection Test",
+		"cure": "Bacterial Throat Infection Cure"
+	},
+	{
+		"name": "Bacterial Throat Infection Contagious",
+		"treatment": "Bacterial Throat Infection Contagious Treatment",
+		"diagnosis": "Bacterial Throat Infection Contagious Diagnosis",
+		"test": "Bacterial Throat Infection Contagious Test",
+		"cure": "Bacterial Throat Infection Contagious Cure"
+	},
+	{
+		"name": "Bacterial Throat Infection Not Strep",
+		"treatment": "Bacterial Throat Infection Not Strep Treatment",
+		"diagnosis": "Bacterial Throat Infection Not Strep Diagnosis",
+		"test": "Bacterial Throat Infection Not Strep Test",
+		"cure": "Bacterial Throat Infection Not Strep Cure"
+	},
+	{
+		"name": "Bat Disease White Nose",
+		"treatment": "Bat Disease White Nose Treatment",
+		"diagnosis": "Bat Disease White Nose Diagnosis",
+		"test": "Bat Disease White Nose Test",
+		"cure": "Bat Disease White Nose Cure"
+	},
+	{
+		"name": "Bat Nose",
+		"treatment": "Bat Nose Treatment",
+		"diagnosis": "Bat Nose Diagnosis",
+		"test": "Bat Nose Test",
+		"cure": "Bat Nose Cure"
+	},
+	{
+		"name": "Behind Ear Infection",
+		"treatment": "Behind Ear Infection Treatment",
+		"diagnosis": "Behind Ear Infection Diagnosis",
+		"test": "Behind Ear Infection Test",
+		"cure": "Behind Ear Infection Cure"
+	},
+	{
+		"name": "Benign Ear Tumor",
+		"treatment": "Benign Ear Tumor Treatment",
+		"diagnosis": "Benign Ear Tumor Diagnosis",
+		"test": "Benign Ear Tumor Test",
+		"cure": "Benign Ear Tumor Cure"
+	},
+	{
+		"name": "Benign Tumor Behind Ear",
+		"treatment": "Benign Tumor Behind Ear Treatment",
+		"diagnosis": "Benign Tumor Behind Ear Diagnosis",
+		"test": "Benign Tumor Behind Ear Test",
+		"cure": "Benign Tumor Behind Ear Cure"
+	},
+	{
+		"name": "Bilateral Chronic Mastoiditis",
+		"treatment": "Bilateral Chronic Mastoiditis Treatment",
+		"diagnosis": "Bilateral Chronic Mastoiditis Diagnosis",
+		"test": "Bilateral Chronic Mastoiditis Test",
+		"cure": "Bilateral Chronic Mastoiditis Cure"
+	},
+	{
+		"name": "Bilateral Chronic Serous Otitis Media",
+		"treatment": "Bilateral Chronic Serous Otitis Media Treatment",
+		"diagnosis": "Bilateral Chronic Serous Otitis Media Diagnosis",
+		"test": "Bilateral Chronic Serous Otitis Media Test",
+		"cure": "Bilateral Chronic Serous Otitis Media Cure"
+	},
+	{
+		"name": "Bilateral Ear Infection",
+		"treatment": "Bilateral Ear Infection Treatment",
+		"diagnosis": "Bilateral Ear Infection Diagnosis",
+		"test": "Bilateral Ear Infection Test",
+		"cure": "Bilateral Ear Infection Cure"
+	},
+	{
+		"name": "Bilateral Otitis",
+		"treatment": "Bilateral Otitis Treatment",
+		"diagnosis": "Bilateral Otitis Diagnosis",
+		"test": "Bilateral Otitis Test",
+		"cure": "Bilateral Otitis Cure"
+	},
+	{
+		"name": "Bilateral Otitis Media",
+		"treatment": "Bilateral Otitis Media Treatment",
+		"diagnosis": "Bilateral Otitis Media Diagnosis",
+		"test": "Bilateral Otitis Media Test",
+		"cure": "Bilateral Otitis Media Cure"
+	},
+	{
+		"name": "Bilateral Otosclerosis",
+		"treatment": "Bilateral Otosclerosis Treatment",
+		"diagnosis": "Bilateral Otosclerosis Diagnosis",
+		"test": "Bilateral Otosclerosis Test",
+		"cure": "Bilateral Otosclerosis Cure"
+	},
+	{
+		"name": "Bilateral Serous Otitis Media",
+		"treatment": "Bilateral Serous Otitis Media Treatment",
+		"diagnosis": "Bilateral Serous Otitis Media Diagnosis",
+		"test": "Bilateral Serous Otitis Media Test",
+		"cure": "Bilateral Serous Otitis Media Cure"
+	},
+	{
+		"name": "Black Fungal Ear Infection",
+		"treatment": "Black Fungal Ear Infection Treatment",
+		"diagnosis": "Black Fungal Ear Infection Diagnosis",
+		"test": "Black Fungal Ear Infection Test",
+		"cure": "Black Fungal Ear Infection Cure"
+	},
+	{
+		"name": "Bulging Ear Infection",
+		"treatment": "Bulging Ear Infection Treatment",
+		"diagnosis": "Bulging Ear Infection Diagnosis",
+		"test": "Bulging Ear Infection Test",
+		"cure": "Bulging Ear Infection Cure"
+	},
+	{
+		"name": "Bullous Ear Infection",
+		"treatment": "Bullous Ear Infection Treatment",
+		"diagnosis": "Bullous Ear Infection Diagnosis",
+		"test": "Bullous Ear Infection Test",
+		"cure": "Bullous Ear Infection Cure"
+	},
+	{
+		"name": "Bullous Myringitis",
+		"treatment": "Bullous Myringitis Treatment",
+		"diagnosis": "Bullous Myringitis Diagnosis",
+		"test": "Bullous Myringitis Test",
+		"cure": "Bullous Myringitis Cure"
+	},
+	{
+		"name": "Bullous Otitis Media",
+		"treatment": "Bullous Otitis Media Treatment",
+		"diagnosis": "Bullous Otitis Media Diagnosis",
+		"test": "Bullous Otitis Media Test",
+		"cure": "Bullous Otitis Media Cure"
+	},
+	{
+		"name": "Cancer Throat Ulcer",
+		"treatment": "Cancer Throat Ulcer Treatment",
+		"diagnosis": "Cancer Throat Ulcer Diagnosis",
+		"test": "Cancer Throat Ulcer Test",
+		"cure": "Cancer Throat Ulcer Cure"
+	},
+	{
+		"name": "Cancer Uvula",
+		"treatment": "Cancer Uvula Treatment",
+		"diagnosis": "Cancer Uvula Diagnosis",
+		"test": "Cancer Uvula Test",
+		"cure": "Cancer Uvula Cure"
+	},
+	{
+		"name": "Candida Otitis Externa",
+		"treatment": "Candida Otitis Externa Treatment",
+		"diagnosis": "Candida Otitis Externa Diagnosis",
+		"test": "Candida Otitis Externa Test",
+		"cure": "Candida Otitis Externa Cure"
+	},
+	{
+		"name": "Candidal Otitis Externa",
+		"treatment": "Candidal Otitis Externa Treatment",
+		"diagnosis": "Candidal Otitis Externa Diagnosis",
+		"test": "Candidal Otitis Externa Test",
+		"cure": "Candidal Otitis Externa Cure"
+	},
+	{
+		"name": "Cat Ear Tumor",
+		"treatment": "Cat Ear Tumor Treatment",
+		"diagnosis": "Cat Ear Tumor Diagnosis",
+		"test": "Cat Ear Tumor Test",
+		"cure": "Cat Ear Tumor Cure"
+	},
+	{
+		"name": "Cauliflower Ear Infection",
+		"treatment": "Cauliflower Ear Infection Treatment",
+		"diagnosis": "Cauliflower Ear Infection Diagnosis",
+		"test": "Cauliflower Ear Infection Test",
+		"cure": "Cauliflower Ear Infection Cure"
+	},
+	{
+		"name": "Cdc Strep Throat",
+		"treatment": "Cdc Strep Throat Treatment",
+		"diagnosis": "Cdc Strep Throat Diagnosis",
+		"test": "Cdc Strep Throat Test",
+		"cure": "Cdc Strep Throat Cure"
+	},
+	{
+		"name": "Cellulitis Ear Infection",
+		"treatment": "Cellulitis Ear Infection Treatment",
+		"diagnosis": "Cellulitis Ear Infection Diagnosis",
+		"test": "Cellulitis Ear Infection Test",
+		"cure": "Cellulitis Ear Infection Cure"
+	},
+	{
+		"name": "Cholesteatoma Hearing Loss",
+		"treatment": "Cholesteatoma Hearing Loss Treatment",
+		"diagnosis": "Cholesteatoma Hearing Loss Diagnosis",
+		"test": "Cholesteatoma Hearing Loss Test",
+		"cure": "Cholesteatoma Hearing Loss Cure"
+	},
+	{
+		"name": "Chronic Ear Disease",
+		"treatment": "Chronic Ear Disease Treatment",
+		"diagnosis": "Chronic Ear Disease Diagnosis",
+		"test": "Chronic Ear Disease Test",
+		"cure": "Chronic Ear Disease Cure"
+	},
+	{
+		"name": "Chronic Ear Infection",
+		"treatment": "Chronic Ear Infection Treatment",
+		"diagnosis": "Chronic Ear Infection Diagnosis",
+		"test": "Chronic Ear Infection Test",
+		"cure": "Chronic Ear Infection Cure"
+	},
+	{
+		"name": "Chronic Ear Pressure",
+		"treatment": "Chronic Ear Pressure Treatment",
+		"diagnosis": "Chronic Ear Pressure Diagnosis",
+		"test": "Chronic Ear Pressure Test",
+		"cure": "Chronic Ear Pressure Cure"
+	},
+	{
+		"name": "Chronic Earache",
+		"treatment": "Chronic Earache Treatment",
+		"diagnosis": "Chronic Earache Diagnosis",
+		"test": "Chronic Earache Test",
+		"cure": "Chronic Earache Cure"
+	},
+	{
+		"name": "Chronic Eczematous External Otitis",
+		"treatment": "Chronic Eczematous External Otitis Treatment",
+		"diagnosis": "Chronic Eczematous External Otitis Diagnosis",
+		"test": "Chronic Eczematous External Otitis Test",
+		"cure": "Chronic Eczematous External Otitis Cure"
+	},
+	{
+		"name": "Chronic Granular Pharyngitis",
+		"treatment": "Chronic Granular Pharyngitis Treatment",
+		"diagnosis": "Chronic Granular Pharyngitis Diagnosis",
+		"test": "Chronic Granular Pharyngitis Test",
+		"cure": "Chronic Granular Pharyngitis Cure"
+	},
+	{
+		"name": "Chronic Inner Ear Infection",
+		"treatment": "Chronic Inner Ear Infection Treatment",
+		"diagnosis": "Chronic Inner Ear Infection Diagnosis",
+		"test": "Chronic Inner Ear Infection Test",
+		"cure": "Chronic Inner Ear Infection Cure"
+	},
+	{
+		"name": "Chronic Itchy Ears",
+		"treatment": "Chronic Itchy Ears Treatment",
+		"diagnosis": "Chronic Itchy Ears Diagnosis",
+		"test": "Chronic Itchy Ears Test",
+		"cure": "Chronic Itchy Ears Cure"
+	},
+	{
+		"name": "Chronic Itchy Throat",
+		"treatment": "Chronic Itchy Throat Treatment",
+		"diagnosis": "Chronic Itchy Throat Diagnosis",
+		"test": "Chronic Itchy Throat Test",
+		"cure": "Chronic Itchy Throat Cure"
+	},
+	{
+		"name": "Chronic Mastoiditis",
+		"treatment": "Chronic Mastoiditis Treatment",
+		"diagnosis": "Chronic Mastoiditis Diagnosis",
+		"test": "Chronic Mastoiditis Test",
+		"cure": "Chronic Mastoiditis Cure"
+	},
+	{
+		"name": "Chronic Middle Ear Infection",
+		"treatment": "Chronic Middle Ear Infection Treatment",
+		"diagnosis": "Chronic Middle Ear Infection Diagnosis",
+		"test": "Chronic Middle Ear Infection Test",
+		"cure": "Chronic Middle Ear Infection Cure"
+	},
+	{
+		"name": "Chronic Mucoid Otitis Media",
+		"treatment": "Chronic Mucoid Otitis Media Treatment",
+		"diagnosis": "Chronic Mucoid Otitis Media Diagnosis",
+		"test": "Chronic Mucoid Otitis Media Test",
+		"cure": "Chronic Mucoid Otitis Media Cure"
+	},
+	{
+		"name": "Chronic Myringitis",
+		"treatment": "Chronic Myringitis Treatment",
+		"diagnosis": "Chronic Myringitis Diagnosis",
+		"test": "Chronic Myringitis Test",
+		"cure": "Chronic Myringitis Cure"
+	},
+	{
+		"name": "Chronic Otitis",
+		"treatment": "Chronic Otitis Treatment",
+		"diagnosis": "Chronic Otitis Diagnosis",
+		"test": "Chronic Otitis Test",
+		"cure": "Chronic Otitis Cure"
+	},
+	{
+		"name": "Chronic Otitis Externa",
+		"treatment": "Chronic Otitis Externa Treatment",
+		"diagnosis": "Chronic Otitis Externa Diagnosis",
+		"test": "Chronic Otitis Externa Test",
+		"cure": "Chronic Otitis Externa Cure"
+	},
+	{
+		"name": "Chronic Otitis Externa Dog",
+		"treatment": "Chronic Otitis Externa Dog Treatment",
+		"diagnosis": "Chronic Otitis Externa Dog Diagnosis",
+		"test": "Chronic Otitis Externa Dog Test",
+		"cure": "Chronic Otitis Externa Dog Cure"
+	},
+	{
+		"name": "Chronic Otitis Media",
+		"treatment": "Chronic Otitis Media Treatment",
+		"diagnosis": "Chronic Otitis Media Diagnosis",
+		"test": "Chronic Otitis Media Test",
+		"cure": "Chronic Otitis Media Cure"
+	},
+	{
+		"name": "Chronic Pharyngitis",
+		"treatment": "Chronic Pharyngitis Treatment",
+		"diagnosis": "Chronic Pharyngitis Diagnosis",
+		"test": "Chronic Pharyngitis Test",
+		"cure": "Chronic Pharyngitis Cure"
+	},
+	{
+		"name": "Chronic Serous Otitis Media",
+		"treatment": "Chronic Serous Otitis Media Treatment",
+		"diagnosis": "Chronic Serous Otitis Media Diagnosis",
+		"test": "Chronic Serous Otitis Media Test",
+		"cure": "Chronic Serous Otitis Media Cure"
+	},
+	{
+		"name": "Chronic Strep",
+		"treatment": "Chronic Strep Treatment",
+		"diagnosis": "Chronic Strep Diagnosis",
+		"test": "Chronic Strep Test",
+		"cure": "Chronic Strep Cure"
+	},
+	{
+		"name": "Chronic Strep Throat",
+		"treatment": "Chronic Strep Throat Treatment",
+		"diagnosis": "Chronic Strep Throat Diagnosis",
+		"test": "Chronic Strep Throat Test",
+		"cure": "Chronic Strep Throat Cure"
+	},
+	{
+		"name": "Chronic Suppurative Otitis Media",
+		"treatment": "Chronic Suppurative Otitis Media Treatment",
+		"diagnosis": "Chronic Suppurative Otitis Media Diagnosis",
+		"test": "Chronic Suppurative Otitis Media Test",
+		"cure": "Chronic Suppurative Otitis Media Cure"
+	},
+	{
+		"name": "Chronic Throat Infection",
+		"treatment": "Chronic Throat Infection Treatment",
+		"diagnosis": "Chronic Throat Infection Diagnosis",
+		"test": "Chronic Throat Infection Test",
+		"cure": "Chronic Throat Infection Cure"
+	},
+	{
+		"name": "Chronic Throat Pain",
+		"treatment": "Chronic Throat Pain Treatment",
+		"diagnosis": "Chronic Throat Pain Diagnosis",
+		"test": "Chronic Throat Pain Test",
+		"cure": "Chronic Throat Pain Cure"
+	},
+	{
+		"name": "Chronic Tinnitus",
+		"treatment": "Chronic Tinnitus Treatment",
+		"diagnosis": "Chronic Tinnitus Diagnosis",
+		"test": "Chronic Tinnitus Test",
+		"cure": "Chronic Tinnitus Cure"
+	},
+	{
+		"name": "Chronic Tonsil Stones",
+		"treatment": "Chronic Tonsil Stones Treatment",
+		"diagnosis": "Chronic Tonsil Stones Diagnosis",
+		"test": "Chronic Tonsil Stones Test",
+		"cure": "Chronic Tonsil Stones Cure"
+	},
+	{
+		"name": "Chronic Tonsillitis Types",
+		"treatment": "Chronic Tonsillitis Types Treatment",
+		"diagnosis": "Chronic Tonsillitis Types Diagnosis",
+		"test": "Chronic Tonsillitis Types Test",
+		"cure": "Chronic Tonsillitis Types Cure"
+	},
+	{
+		"name": "Chronic Tubotympanic Suppurative Otitis Media",
+		"treatment": "Chronic Tubotympanic Suppurative Otitis Media Treatment",
+		"diagnosis": "Chronic Tubotympanic Suppurative Otitis Media Diagnosis",
+		"test": "Chronic Tubotympanic Suppurative Otitis Media Test",
+		"cure": "Chronic Tubotympanic Suppurative Otitis Media Cure"
+	},
+	{
+		"name": "Circumscribed Otitis Externa",
+		"treatment": "Circumscribed Otitis Externa Treatment",
+		"diagnosis": "Circumscribed Otitis Externa Diagnosis",
+		"test": "Circumscribed Otitis Externa Test",
+		"cure": "Circumscribed Otitis Externa Cure"
+	},
+	{
+		"name": "Cochlear Meniere'S Disease",
+		"treatment": "Cochlear Meniere'S Disease Treatment",
+		"diagnosis": "Cochlear Meniere'S Disease Diagnosis",
+		"test": "Cochlear Meniere'S Disease Test",
+		"cure": "Cochlear Meniere'S Disease Cure"
+	},
+	{
+		"name": "Congenital Auricular Fistula",
+		"treatment": "Congenital Auricular Fistula Treatment",
+		"diagnosis": "Congenital Auricular Fistula Diagnosis",
+		"test": "Congenital Auricular Fistula Test",
+		"cure": "Congenital Auricular Fistula Cure"
+	},
+	{
+		"name": "Congenital Preauricular Fistula",
+		"treatment": "Congenital Preauricular Fistula Treatment",
+		"diagnosis": "Congenital Preauricular Fistula Diagnosis",
+		"test": "Congenital Preauricular Fistula Test",
+		"cure": "Congenital Preauricular Fistula Cure"
+	},
+	{
+		"name": "Constant Strep Throat",
+		"treatment": "Constant Strep Throat Treatment",
+		"diagnosis": "Constant Strep Throat Diagnosis",
+		"test": "Constant Strep Throat Test",
+		"cure": "Constant Strep Throat Cure"
+	},
+	{
+		"name": "Constant Throat Infections",
+		"treatment": "Constant Throat Infections Treatment",
+		"diagnosis": "Constant Throat Infections Diagnosis",
+		"test": "Constant Throat Infections Test",
+		"cure": "Constant Throat Infections Cure"
+	},
+	{
+		"name": "Cough After Strep Throat",
+		"treatment": "Cough After Strep Throat Treatment",
+		"diagnosis": "Cough After Strep Throat Diagnosis",
+		"test": "Cough After Strep Throat Test",
+		"cure": "Cough After Strep Throat Cure"
+	},
+	{
+		"name": "Curing Strep Throat",
+		"treatment": "Curing Strep Throat Treatment",
+		"diagnosis": "Curing Strep Throat Diagnosis",
+		"test": "Curing Strep Throat Test",
+		"cure": "Curing Strep Throat Cure"
+	},
+	{
+		"name": "Deep Ear Infection",
+		"treatment": "Deep Ear Infection Treatment",
+		"diagnosis": "Deep Ear Infection Diagnosis",
+		"test": "Deep Ear Infection Test",
+		"cure": "Deep Ear Infection Cure"
+	},
+	{
+		"name": "Delta Variant Ear Infection",
+		"treatment": "Delta Variant Ear Infection Treatment",
+		"diagnosis": "Delta Variant Ear Infection Diagnosis",
+		"test": "Delta Variant Ear Infection Test",
+		"cure": "Delta Variant Ear Infection Cure"
+	},
+	{
+		"name": "Diabetes Ear Ringing",
+		"treatment": "Diabetes Ear Ringing Treatment",
+		"diagnosis": "Diabetes Ear Ringing Diagnosis",
+		"test": "Diabetes Ear Ringing Test",
+		"cure": "Diabetes Ear Ringing Cure"
+	},
+	{
+		"name": "Diabetic Ear Infection",
+		"treatment": "Diabetic Ear Infection Treatment",
+		"diagnosis": "Diabetic Ear Infection Diagnosis",
+		"test": "Diabetic Ear Infection Test",
+		"cure": "Diabetic Ear Infection Cure"
+	},
+	{
+		"name": "Diagnosing Ear Infection",
+		"treatment": "Diagnosing Ear Infection Treatment",
+		"diagnosis": "Diagnosing Ear Infection Diagnosis",
+		"test": "Diagnosing Ear Infection Test",
+		"cure": "Diagnosing Ear Infection Cure"
+	},
+	{
+		"name": "Diagnosing Meniere'S Disease",
+		"treatment": "Diagnosing Meniere'S Disease Treatment",
+		"diagnosis": "Diagnosing Meniere'S Disease Diagnosis",
+		"test": "Diagnosing Meniere'S Disease Test",
+		"cure": "Diagnosing Meniere'S Disease Cure"
+	},
+	{
+		"name": "Diagnosing Strep Throat",
+		"treatment": "Diagnosing Strep Throat Treatment",
+		"diagnosis": "Diagnosing Strep Throat Diagnosis",
+		"test": "Diagnosing Strep Throat Test",
+		"cure": "Diagnosing Strep Throat Cure"
+	},
+	{
+		"name": "Different Ear Infections",
+		"treatment": "Different Ear Infections Treatment",
+		"diagnosis": "Different Ear Infections Diagnosis",
+		"test": "Different Ear Infections Test",
+		"cure": "Different Ear Infections Cure"
+	},
+	{
+		"name": "Different Throat Infections",
+		"treatment": "Different Throat Infections Treatment",
+		"diagnosis": "Different Throat Infections Diagnosis",
+		"test": "Different Throat Infections Test",
+		"cure": "Different Throat Infections Cure"
+	},
+	{
+		"name": "Double Ear Infection Contagious",
+		"treatment": "Double Ear Infection Contagious Treatment",
+		"diagnosis": "Double Ear Infection Contagious Diagnosis",
+		"test": "Double Ear Infection Contagious Test",
+		"cure": "Double Ear Infection Contagious Cure"
+	},
+	{
+		"name": "Ear Abscess",
+		"treatment": "Ear Abscess Treatment",
+		"diagnosis": "Ear Abscess Diagnosis",
+		"test": "Ear Abscess Test",
+		"cure": "Ear Abscess Cure"
+	},
+	{
+		"name": "Ear Bleeding Ear Infection",
+		"treatment": "Ear Bleeding Ear Infection Treatment",
+		"diagnosis": "Ear Bleeding Ear Infection Diagnosis",
+		"test": "Ear Bleeding Ear Infection Test",
+		"cure": "Ear Bleeding Ear Infection Cure"
+	},
+	{
+		"name": "Ear Bone Infection",
+		"treatment": "Ear Bone Infection Treatment",
+		"diagnosis": "Ear Bone Infection Diagnosis",
+		"test": "Ear Bone Infection Test",
+		"cure": "Ear Bone Infection Cure"
+	},
+	{
+		"name": "Ear Bubble Infection",
+		"treatment": "Ear Bubble Infection Treatment",
+		"diagnosis": "Ear Bubble Infection Diagnosis",
+		"test": "Ear Bubble Infection Test",
+		"cure": "Ear Bubble Infection Cure"
+	},
+	{
+		"name": "Ear Canal Infection",
+		"treatment": "Ear Canal Infection Treatment",
+		"diagnosis": "Ear Canal Infection Diagnosis",
+		"test": "Ear Canal Infection Test",
+		"cure": "Ear Canal Infection Cure"
+	},
+	{
+		"name": "Ear Canal Stenosis",
+		"treatment": "Ear Canal Stenosis Treatment",
+		"diagnosis": "Ear Canal Stenosis Diagnosis",
+		"test": "Ear Canal Stenosis Test",
+		"cure": "Ear Canal Stenosis Cure"
+	},
+	{
+		"name": "Ear Cartilage Infection",
+		"treatment": "Ear Cartilage Infection Treatment",
+		"diagnosis": "Ear Cartilage Infection Diagnosis",
+		"test": "Ear Cartilage Infection Test",
+		"cure": "Ear Cartilage Infection Cure"
+	},
+	{
+		"name": "Ear Cartilage Inflammation",
+		"treatment": "Ear Cartilage Inflammation Treatment",
+		"diagnosis": "Ear Cartilage Inflammation Diagnosis",
+		"test": "Ear Cartilage Inflammation Test",
+		"cure": "Ear Cartilage Inflammation Cure"
+	},
+	{
+		"name": "Ear Creases Heart Disease",
+		"treatment": "Ear Creases Heart Disease Treatment",
+		"diagnosis": "Ear Creases Heart Disease Diagnosis",
+		"test": "Ear Creases Heart Disease Test",
+		"cure": "Ear Creases Heart Disease Cure"
+	},
+	{
+		"name": "Ear Disease",
+		"treatment": "Ear Disease Treatment",
+		"diagnosis": "Ear Disease Diagnosis",
+		"test": "Ear Disease Test",
+		"cure": "Ear Disease Cure"
+	},
+	{
+		"name": "Ear Disorder",
+		"treatment": "Ear Disorder Treatment",
+		"diagnosis": "Ear Disorder Diagnosis",
+		"test": "Ear Disorder Test",
+		"cure": "Ear Disorder Cure"
+	},
+	{
+		"name": "Ear Fistula",
+		"treatment": "Ear Fistula Treatment",
+		"diagnosis": "Ear Fistula Diagnosis",
+		"test": "Ear Fistula Test",
+		"cure": "Ear Fistula Cure"
+	},
+	{
+		"name": "Ear Gland Infection",
+		"treatment": "Ear Gland Infection Treatment",
+		"diagnosis": "Ear Gland Infection Diagnosis",
+		"test": "Ear Gland Infection Test",
+		"cure": "Ear Gland Infection Cure"
+	},
+	{
+		"name": "Ear Granuloma",
+		"treatment": "Ear Granuloma Treatment",
+		"diagnosis": "Ear Granuloma Diagnosis",
+		"test": "Ear Granuloma Test",
+		"cure": "Ear Granuloma Cure"
+	},
+	{
+		"name": "Ear Helix Infection",
+		"treatment": "Ear Helix Infection Treatment",
+		"diagnosis": "Ear Helix Infection Diagnosis",
+		"test": "Ear Helix Infection Test",
+		"cure": "Ear Helix Infection Cure"
+	},
+	{
+		"name": "Ear Hole Infection",
+		"treatment": "Ear Hole Infection Treatment",
+		"diagnosis": "Ear Hole Infection Diagnosis",
+		"test": "Ear Hole Infection Test",
+		"cure": "Ear Hole Infection Cure"
+	},
+	{
+		"name": "Ear Illness",
+		"treatment": "Ear Illness Treatment",
+		"diagnosis": "Ear Illness Diagnosis",
+		"test": "Ear Illness Test",
+		"cure": "Ear Illness Cure"
+	},
+	{
+		"name": "Ear Infection",
+		"treatment": "Ear Infection Treatment",
+		"diagnosis": "Ear Infection Diagnosis",
+		"test": "Ear Infection Test",
+		"cure": "Ear Infection Cure"
+	},
+	{
+		"name": "Ear Infection Abscess",
+		"treatment": "Ear Infection Abscess Treatment",
+		"diagnosis": "Ear Infection Abscess Diagnosis",
+		"test": "Ear Infection Abscess Test",
+		"cure": "Ear Infection Abscess Cure"
+	},
+	{
+		"name": "Ear Infection Affecting Jaw",
+		"treatment": "Ear Infection Affecting Jaw Treatment",
+		"diagnosis": "Ear Infection Affecting Jaw Diagnosis",
+		"test": "Ear Infection Affecting Jaw Test",
+		"cure": "Ear Infection Affecting Jaw Cure"
+	},
+	{
+		"name": "Ear Infection After RSV",
+		"treatment": "Ear Infection After RSV Treatment",
+		"diagnosis": "Ear Infection After RSV Diagnosis",
+		"test": "Ear Infection After RSV Test",
+		"cure": "Ear Infection After RSV Cure"
+	},
+	{
+		"name": "Ear Infection Alcohol",
+		"treatment": "Ear Infection Alcohol Treatment",
+		"diagnosis": "Ear Infection Alcohol Diagnosis",
+		"test": "Ear Infection Alcohol Test",
+		"cure": "Ear Infection Alcohol Cure"
+	},
+	{
+		"name": "Ear Infection Behind Ear",
+		"treatment": "Ear Infection Behind Ear Treatment",
+		"diagnosis": "Ear Infection Behind Ear Diagnosis",
+		"test": "Ear Infection Behind Ear Test",
+		"cure": "Ear Infection Behind Ear Cure"
+	},
+	{
+		"name": "Ear Infection Behind Eardrum",
+		"treatment": "Ear Infection Behind Eardrum Treatment",
+		"diagnosis": "Ear Infection Behind Eardrum Diagnosis",
+		"test": "Ear Infection Behind Eardrum Test",
+		"cure": "Ear Infection Behind Eardrum Cure"
+	},
+	{
+		"name": "Ear Infection Bleeding",
+		"treatment": "Ear Infection Bleeding Treatment",
+		"diagnosis": "Ear Infection Bleeding Diagnosis",
+		"test": "Ear Infection Bleeding Test",
+		"cure": "Ear Infection Bleeding Cure"
+	},
+	{
+		"name": "Ear Infection Blood",
+		"treatment": "Ear Infection Blood Treatment",
+		"diagnosis": "Ear Infection Blood Diagnosis",
+		"test": "Ear Infection Blood Test",
+		"cure": "Ear Infection Blood Cure"
+	},
+	{
+		"name": "Ear Infection Contagious",
+		"treatment": "Ear Infection Contagious Treatment",
+		"diagnosis": "Ear Infection Contagious Diagnosis",
+		"test": "Ear Infection Contagious Test",
+		"cure": "Ear Infection Contagious Cure"
+	},
+	{
+		"name": "Ear Infection Deafness",
+		"treatment": "Ear Infection Deafness Treatment",
+		"diagnosis": "Ear Infection Deafness Diagnosis",
+		"test": "Ear Infection Deafness Test",
+		"cure": "Ear Infection Deafness Cure"
+	},
+	{
+		"name": "Ear Infection Diarrhea",
+		"treatment": "Ear Infection Diarrhea Treatment",
+		"diagnosis": "Ear Infection Diarrhea Diagnosis",
+		"test": "Ear Infection Diarrhea Test",
+		"cure": "Ear Infection Diarrhea Cure"
+	},
+	{
+		"name": "Ear Infection Dizzy",
+		"treatment": "Ear Infection Dizzy Treatment",
+		"diagnosis": "Ear Infection Dizzy Diagnosis",
+		"test": "Ear Infection Dizzy Test",
+		"cure": "Ear Infection Dizzy Cure"
+	},
+	{
+		"name": "Ear Infection Ear",
+		"treatment": "Ear Infection Ear Treatment",
+		"diagnosis": "Ear Infection Ear Diagnosis",
+		"test": "Ear Infection Ear Test",
+		"cure": "Ear Infection Ear Cure"
+	},
+	{
+		"name": "Ear Infection Eardrum",
+		"treatment": "Ear Infection Eardrum Treatment",
+		"diagnosis": "Ear Infection Eardrum Diagnosis",
+		"test": "Ear Infection Eardrum Test",
+		"cure": "Ear Infection Eardrum Cure"
+	},
+	{
+		"name": "Ear Infection Early Pregnancy",
+		"treatment": "Ear Infection Early Pregnancy Treatment",
+		"diagnosis": "Ear Infection Early Pregnancy Diagnosis",
+		"test": "Ear Infection Early Pregnancy Test",
+		"cure": "Ear Infection Early Pregnancy Cure"
+	},
+	{
+		"name": "Ear Infection Hearing Loss",
+		"treatment": "Ear Infection Hearing Loss Treatment",
+		"diagnosis": "Ear Infection Hearing Loss Diagnosis",
+		"test": "Ear Infection Hearing Loss Test",
+		"cure": "Ear Infection Hearing Loss Cure"
+	},
+	{
+		"name": "Ear Infection Hurting Jaw",
+		"treatment": "Ear Infection Hurting Jaw Treatment",
+		"diagnosis": "Ear Infection Hurting Jaw Diagnosis",
+		"test": "Ear Infection Hurting Jaw Test",
+		"cure": "Ear Infection Hurting Jaw Cure"
+	},
+	{
+		"name": "Ear Infection Inner Ear",
+		"treatment": "Ear Infection Inner Ear Treatment",
+		"diagnosis": "Ear Infection Inner Ear Diagnosis",
+		"test": "Ear Infection Inner Ear Test",
+		"cure": "Ear Infection Inner Ear Cure"
+	},
+	{
+		"name": "Ear Infection Jaw",
+		"treatment": "Ear Infection Jaw Treatment",
+		"diagnosis": "Ear Infection Jaw Diagnosis",
+		"test": "Ear Infection Jaw Test",
+		"cure": "Ear Infection Jaw Cure"
+	},
+	{
+		"name": "Ear Infection Labyrinthitis",
+		"treatment": "Ear Infection Labyrinthitis Treatment",
+		"diagnosis": "Ear Infection Labyrinthitis Diagnosis",
+		"test": "Ear Infection Labyrinthitis Test",
+		"cure": "Ear Infection Labyrinthitis Cure"
+	},
+	{
+		"name": "Ear Infection Lasting Months",
+		"treatment": "Ear Infection Lasting Months Treatment",
+		"diagnosis": "Ear Infection Lasting Months Diagnosis",
+		"test": "Ear Infection Lasting Months Test",
+		"cure": "Ear Infection Lasting Months Cure"
+	},
+	{
+		"name": "Ear Infection Left Untreated",
+		"treatment": "Ear Infection Left Untreated Treatment",
+		"diagnosis": "Ear Infection Left Untreated Diagnosis",
+		"test": "Ear Infection Left Untreated Test",
+		"cure": "Ear Infection Left Untreated Cure"
+	},
+	{
+		"name": "Ear Infection Lymph Node",
+		"treatment": "Ear Infection Lymph Node Treatment",
+		"diagnosis": "Ear Infection Lymph Node Diagnosis",
+		"test": "Ear Infection Lymph Node Test",
+		"cure": "Ear Infection Lymph Node Cure"
+	},
+	{
+		"name": "Ear Infection Newborn",
+		"treatment": "Ear Infection Newborn Treatment",
+		"diagnosis": "Ear Infection Newborn Diagnosis",
+		"test": "Ear Infection Newborn Test",
+		"cure": "Ear Infection Newborn Cure"
+	},
+	{
+		"name": "Ear Infection Numb Face",
+		"treatment": "Ear Infection Numb Face Treatment",
+		"diagnosis": "Ear Infection Numb Face Diagnosis",
+		"test": "Ear Infection Numb Face Test",
+		"cure": "Ear Infection Numb Face Cure"
+	},
+	{
+		"name": "Ear Infection Otitis Externa",
+		"treatment": "Ear Infection Otitis Externa Treatment",
+		"diagnosis": "Ear Infection Otitis Externa Diagnosis",
+		"test": "Ear Infection Otitis Externa Test",
+		"cure": "Ear Infection Otitis Externa Cure"
+	},
+	{
+		"name": "Ear Infection Otitis Media",
+		"treatment": "Ear Infection Otitis Media Treatment",
+		"diagnosis": "Ear Infection Otitis Media Diagnosis",
+		"test": "Ear Infection Otitis Media Test",
+		"cure": "Ear Infection Otitis Media Cure"
+	},
+	{
+		"name": "Ear Infection Outside",
+		"treatment": "Ear Infection Outside Treatment",
+		"diagnosis": "Ear Infection Outside Diagnosis",
+		"test": "Ear Infection Outside Test",
+		"cure": "Ear Infection Outside Cure"
+	},
+	{
+		"name": "Ear Infection Pregnant",
+		"treatment": "Ear Infection Pregnant Treatment",
+		"diagnosis": "Ear Infection Pregnant Diagnosis",
+		"test": "Ear Infection Pregnant Test",
+		"cure": "Ear Infection Pregnant Cure"
+	},
+	{
+		"name": "Ear Infection Reddit",
+		"treatment": "Ear Infection Reddit Treatment",
+		"diagnosis": "Ear Infection Reddit Diagnosis",
+		"test": "Ear Infection Reddit Test",
+		"cure": "Ear Infection Reddit Cure"
+	},
+	{
+		"name": "Ear Infection Rupture",
+		"treatment": "Ear Infection Rupture Treatment",
+		"diagnosis": "Ear Infection Rupture Diagnosis",
+		"test": "Ear Infection Rupture Test",
+		"cure": "Ear Infection Rupture Cure"
+	},
+	{
+		"name": "Ear Infection Strep Throat",
+		"treatment": "Ear Infection Strep Throat Treatment",
+		"diagnosis": "Ear Infection Strep Throat Diagnosis",
+		"test": "Ear Infection Strep Throat Test",
+		"cure": "Ear Infection Strep Throat Cure"
+	},
+	{
+		"name": "Ear Infection Swollen Ear",
+		"treatment": "Ear Infection Swollen Ear Treatment",
+		"diagnosis": "Ear Infection Swollen Ear Diagnosis",
+		"test": "Ear Infection Swollen Ear Test",
+		"cure": "Ear Infection Swollen Ear Cure"
+	},
+	{
+		"name": "Ear Infection Swollen Face",
+		"treatment": "Ear Infection Swollen Face Treatment",
+		"diagnosis": "Ear Infection Swollen Face Diagnosis",
+		"test": "Ear Infection Swollen Face Test",
+		"cure": "Ear Infection Swollen Face Cure"
+	},
+	{
+		"name": "Ear Infection Swollen Glands",
+		"treatment": "Ear Infection Swollen Glands Treatment",
+		"diagnosis": "Ear Infection Swollen Glands Diagnosis",
+		"test": "Ear Infection Swollen Glands Test",
+		"cure": "Ear Infection Swollen Glands Cure"
+	},
+	{
+		"name": "Ear Infection Swollen Lymph Node",
+		"treatment": "Ear Infection Swollen Lymph Node Treatment",
+		"diagnosis": "Ear Infection Swollen Lymph Node Diagnosis",
+		"test": "Ear Infection Swollen Lymph Node Test",
+		"cure": "Ear Infection Swollen Lymph Node Cure"
+	},
+	{
+		"name": "Ear Infection Tinnitus",
+		"treatment": "Ear Infection Tinnitus Treatment",
+		"diagnosis": "Ear Infection Tinnitus Diagnosis",
+		"test": "Ear Infection Tinnitus Test",
+		"cure": "Ear Infection Tinnitus Cure"
+	},
+	{
+		"name": "Ear Infection Tympanic Membrane",
+		"treatment": "Ear Infection Tympanic Membrane Treatment",
+		"diagnosis": "Ear Infection Tympanic Membrane Diagnosis",
+		"test": "Ear Infection Tympanic Membrane Test",
+		"cure": "Ear Infection Tympanic Membrane Cure"
+	},
+	{
+		"name": "Ear Infection Vaccine",
+		"treatment": "Ear Infection Vaccine Treatment",
+		"diagnosis": "Ear Infection Vaccine Diagnosis",
+		"test": "Ear Infection Vaccine Test",
+		"cure": "Ear Infection Vaccine Cure"
+	},
+	{
+		"name": "Ear Infection While Pregnant",
+		"treatment": "Ear Infection While Pregnant Treatment",
+		"diagnosis": "Ear Infection While Pregnant Diagnosis",
+		"test": "Ear Infection While Pregnant Test",
+		"cure": "Ear Infection While Pregnant Cure"
+	},
+	{
+		"name": "Ear Infection White Stuff",
+		"treatment": "Ear Infection White Stuff Treatment",
+		"diagnosis": "Ear Infection White Stuff Diagnosis",
+		"test": "Ear Infection White Stuff Test",
+		"cure": "Ear Infection White Stuff Cure"
+	},
+	{
+		"name": "Ear Inflammation",
+		"treatment": "Ear Inflammation Treatment",
+		"diagnosis": "Ear Inflammation Diagnosis",
+		"test": "Ear Inflammation Test",
+		"cure": "Ear Inflammation Cure"
+	},
+	{
+		"name": "Ear Lobe Infection",
+		"treatment": "Ear Lobe Infection Treatment",
+		"diagnosis": "Ear Lobe Infection Diagnosis",
+		"test": "Ear Lobe Infection Test",
+		"cure": "Ear Lobe Infection Cure"
+	},
+	{
+		"name": "Ear Mouth Foot Disease",
+		"treatment": "Ear Mouth Foot Disease Treatment",
+		"diagnosis": "Ear Mouth Foot Disease Diagnosis",
+		"test": "Ear Mouth Foot Disease Test",
+		"cure": "Ear Mouth Foot Disease Cure"
+	},
+	{
+		"name": "Ear Nose Throat Disease",
+		"treatment": "Ear Nose Throat Disease Treatment",
+		"diagnosis": "Ear Nose Throat Disease Diagnosis",
+		"test": "Ear Nose Throat Disease Test",
+		"cure": "Ear Nose Throat Disease Cure"
+	},
+	{
+		"name": "Ear Otitis Externa",
+		"treatment": "Ear Otitis Externa Treatment",
+		"diagnosis": "Ear Otitis Externa Diagnosis",
+		"test": "Ear Otitis Externa Test",
+		"cure": "Ear Otitis Externa Cure"
+	},
+	{
+		"name": "Ear Pain Strep Throat",
+		"treatment": "Ear Pain Strep Throat Treatment",
+		"diagnosis": "Ear Pain Strep Throat Diagnosis",
+		"test": "Ear Pain Strep Throat Test",
+		"cure": "Ear Pain Strep Throat Cure"
+	},
+	{
+		"name": "Ear Pinna Infection",
+		"treatment": "Ear Pinna Infection Treatment",
+		"diagnosis": "Ear Pinna Infection Diagnosis",
+		"test": "Ear Pinna Infection Test",
+		"cure": "Ear Pinna Infection Cure"
+	},
+	{
+		"name": "Ear Pit Infection",
+		"treatment": "Ear Pit Infection Treatment",
+		"diagnosis": "Ear Pit Infection Diagnosis",
+		"test": "Ear Pit Infection Test",
+		"cure": "Ear Pit Infection Cure"
+	},
+	{
+		"name": "Ear Psoriasis Tinnitus",
+		"treatment": "Ear Psoriasis Tinnitus Treatment",
+		"diagnosis": "Ear Psoriasis Tinnitus Diagnosis",
+		"test": "Ear Psoriasis Tinnitus Test",
+		"cure": "Ear Psoriasis Tinnitus Cure"
+	},
+	{
+		"name": "Ear Related Disease",
+		"treatment": "Ear Related Disease Treatment",
+		"diagnosis": "Ear Related Disease Diagnosis",
+		"test": "Ear Related Disease Test",
+		"cure": "Ear Related Disease Cure"
+	},
+	{
+		"name": "Ear Ringing Disease",
+		"treatment": "Ear Ringing Disease Treatment",
+		"diagnosis": "Ear Ringing Disease Diagnosis",
+		"test": "Ear Ringing Disease Test",
+		"cure": "Ear Ringing Disease Cure"
+	},
+	{
+		"name": "Ear Ringing Ear Infection",
+		"treatment": "Ear Ringing Ear Infection Treatment",
+		"diagnosis": "Ear Ringing Ear Infection Diagnosis",
+		"test": "Ear Ringing Ear Infection Test",
+		"cure": "Ear Ringing Ear Infection Cure"
+	},
+	{
+		"name": "Ear Ringing Infection",
+		"treatment": "Ear Ringing Infection Treatment",
+		"diagnosis": "Ear Ringing Infection Diagnosis",
+		"test": "Ear Ringing Infection Test",
+		"cure": "Ear Ringing Infection Cure"
+	},
+	{
+		"name": "Ear Sclerosis",
+		"treatment": "Ear Sclerosis Treatment",
+		"diagnosis": "Ear Sclerosis Diagnosis",
+		"test": "Ear Sclerosis Test",
+		"cure": "Ear Sclerosis Cure"
+	},
+	{
+		"name": "Ear Sickness",
+		"treatment": "Ear Sickness Treatment",
+		"diagnosis": "Ear Sickness Diagnosis",
+		"test": "Ear Sickness Test",
+		"cure": "Ear Sickness Cure"
+	},
+	{
+		"name": "Ear Skin Problems",
+		"treatment": "Ear Skin Problems Treatment",
+		"diagnosis": "Ear Skin Problems Diagnosis",
+		"test": "Ear Skin Problems Test",
+		"cure": "Ear Skin Problems Cure"
+	},
+	{
+		"name": "Ear Stroke",
+		"treatment": "Ear Stroke Treatment",
+		"diagnosis": "Ear Stroke Diagnosis",
+		"test": "Ear Stroke Test",
+		"cure": "Ear Stroke Cure"
+	},
+	{
+		"name": "Ear Stroke Recovery",
+		"treatment": "Ear Stroke Recovery Treatment",
+		"diagnosis": "Ear Stroke Recovery Diagnosis",
+		"test": "Ear Stroke Recovery Test",
+		"cure": "Ear Stroke Recovery Cure"
+	},
+	{
+		"name": "Ear Syndrome",
+		"treatment": "Ear Syndrome Treatment",
+		"diagnosis": "Ear Syndrome Diagnosis",
+		"test": "Ear Syndrome Test",
+		"cure": "Ear Syndrome Cure"
+	},
+	{
+		"name": "Ear Tumor",
+		"treatment": "Ear Tumor Treatment",
+		"diagnosis": "Ear Tumor Diagnosis",
+		"test": "Ear Tumor Test",
+		"cure": "Ear Tumor Cure"
+	},
+	{
+		"name": "Ear Tumor Cholesteatoma",
+		"treatment": "Ear Tumor Cholesteatoma Treatment",
+		"diagnosis": "Ear Tumor Cholesteatoma Diagnosis",
+		"test": "Ear Tumor Cholesteatoma Test",
+		"cure": "Ear Tumor Cholesteatoma Cure"
+	},
+	{
+		"name": "Eardrum Infection",
+		"treatment": "Eardrum Infection Treatment",
+		"diagnosis": "Eardrum Infection Diagnosis",
+		"test": "Eardrum Infection Test",
+		"cure": "Eardrum Infection Cure"
+	},
+	{
+		"name": "Earlobe Creases",
+		"treatment": "Earlobe Creases Treatment",
+		"diagnosis": "Earlobe Creases Diagnosis",
+		"test": "Earlobe Creases Test",
+		"cure": "Earlobe Creases Cure"
+	},
+	{
+		"name": "Earlobe Inflammation",
+		"treatment": "Earlobe Inflammation Treatment",
+		"diagnosis": "Earlobe Inflammation Diagnosis",
+		"test": "Earlobe Inflammation Test",
+		"cure": "Earlobe Inflammation Cure"
+	},
+	{
+		"name": "Earlobe Line Heart Disease",
+		"treatment": "Earlobe Line Heart Disease Treatment",
+		"diagnosis": "Earlobe Line Heart Disease Diagnosis",
+		"test": "Earlobe Line Heart Disease Test",
+		"cure": "Earlobe Line Heart Disease Cure"
+	},
+	{
+		"name": "Early Strep Throat",
+		"treatment": "Early Strep Throat Treatment",
+		"diagnosis": "Early Strep Throat Diagnosis",
+		"test": "Early Strep Throat Test",
+		"cure": "Early Strep Throat Cure"
+	},
+	{
+		"name": "Eczema Otitis Externa",
+		"treatment": "Eczema Otitis Externa Treatment",
+		"diagnosis": "Eczema Otitis Externa Diagnosis",
+		"test": "Eczema Otitis Externa Test",
+		"cure": "Eczema Otitis Externa Cure"
+	},
+	{
+		"name": "Ent Disease",
+		"treatment": "Ent Disease Treatment",
+		"diagnosis": "Ent Disease Diagnosis",
+		"test": "Ent Disease Test",
+		"cure": "Ent Disease Cure"
+	},
+	{
+		"name": "Erysipelas Ear",
+		"treatment": "Erysipelas Ear Treatment",
+		"diagnosis": "Erysipelas Ear Diagnosis",
+		"test": "Erysipelas Ear Test",
+		"cure": "Erysipelas Ear Cure"
+	},
+	{
+		"name": "Erythromelalgia Ears",
+		"treatment": "Erythromelalgia Ears Treatment",
+		"diagnosis": "Erythromelalgia Ears Diagnosis",
+		"test": "Erythromelalgia Ears Test",
+		"cure": "Erythromelalgia Ears Cure"
+	},
+	{
+		"name": "External Ear Canal Infection",
+		"treatment": "External Ear Canal Infection Treatment",
+		"diagnosis": "External Ear Canal Infection Diagnosis",
+		"test": "External Ear Canal Infection Test",
+		"cure": "External Ear Canal Infection Cure"
+	},
+	{
+		"name": "External Ear Disease",
+		"treatment": "External Ear Disease Treatment",
+		"diagnosis": "External Ear Disease Diagnosis",
+		"test": "External Ear Disease Test",
+		"cure": "External Ear Disease Cure"
+	},
+	{
+		"name": "External Ear Infection",
+		"treatment": "External Ear Infection Treatment",
+		"diagnosis": "External Ear Infection Diagnosis",
+		"test": "External Ear Infection Test",
+		"cure": "External Ear Infection Cure"
+	},
+	{
+		"name": "External Ear Inflammation",
+		"treatment": "External Ear Inflammation Treatment",
+		"diagnosis": "External Ear Inflammation Diagnosis",
+		"test": "External Ear Inflammation Test",
+		"cure": "External Ear Inflammation Cure"
+	},
+	{
+		"name": "External Otitis",
+		"treatment": "External Otitis Treatment",
+		"diagnosis": "External Otitis Diagnosis",
+		"test": "External Otitis Test",
+		"cure": "External Otitis Cure"
+	},
+	{
+		"name": "External Otitis Media",
+		"treatment": "External Otitis Media Treatment",
+		"diagnosis": "External Otitis Media Diagnosis",
+		"test": "External Otitis Media Test",
+		"cure": "External Otitis Media Cure"
+	},
+	{
+		"name": "Exudative Otitis Media",
+		"treatment": "Exudative Otitis Media Treatment",
+		"diagnosis": "Exudative Otitis Media Diagnosis",
+		"test": "Exudative Otitis Media Test",
+		"cure": "Exudative Otitis Media Cure"
+	},
+	{
+		"name": "Exudative Tonsillitis",
+		"treatment": "Exudative Tonsillitis Treatment",
+		"diagnosis": "Exudative Tonsillitis Diagnosis",
+		"test": "Exudative Tonsillitis Test",
+		"cure": "Exudative Tonsillitis Cure"
+	},
+	{
+		"name": "Fever Sore Throat",
+		"treatment": "Fever Sore Throat Treatment",
+		"diagnosis": "Fever Sore Throat Diagnosis",
+		"test": "Fever Sore Throat Test",
+		"cure": "Fever Sore Throat Cure"
+	},
+	{
+		"name": "Fibromyalgia Tinnitus",
+		"treatment": "Fibromyalgia Tinnitus Treatment",
+		"diagnosis": "Fibromyalgia Tinnitus Diagnosis",
+		"test": "Fibromyalgia Tinnitus Test",
+		"cure": "Fibromyalgia Tinnitus Cure"
+	},
+	{
+		"name": "Follicular Pharyngitis",
+		"treatment": "Follicular Pharyngitis Treatment",
+		"diagnosis": "Follicular Pharyngitis Diagnosis",
+		"test": "Follicular Pharyngitis Test",
+		"cure": "Follicular Pharyngitis Cure"
+	},
+	{
+		"name": "Frequent Strep Throat",
+		"treatment": "Frequent Strep Throat Treatment",
+		"diagnosis": "Frequent Strep Throat Diagnosis",
+		"test": "Frequent Strep Throat Test",
+		"cure": "Frequent Strep Throat Cure"
+	},
+	{
+		"name": "Frequent Throat Infection",
+		"treatment": "Frequent Throat Infection Treatment",
+		"diagnosis": "Frequent Throat Infection Diagnosis",
+		"test": "Frequent Throat Infection Test",
+		"cure": "Frequent Throat Infection Cure"
+	},
+	{
+		"name": "Fungal Ear Infection",
+		"treatment": "Fungal Ear Infection Treatment",
+		"diagnosis": "Fungal Ear Infection Diagnosis",
+		"test": "Fungal Ear Infection Test",
+		"cure": "Fungal Ear Infection Cure"
+	},
+	{
+		"name": "Fungal Ear Infection Tinnitus",
+		"treatment": "Fungal Ear Infection Tinnitus Treatment",
+		"diagnosis": "Fungal Ear Infection Tinnitus Diagnosis",
+		"test": "Fungal Ear Infection Tinnitus Test",
+		"cure": "Fungal Ear Infection Tinnitus Cure"
+	},
+	{
+		"name": "Fungal Infection Behind Ear",
+		"treatment": "Fungal Infection Behind Ear Treatment",
+		"diagnosis": "Fungal Infection Behind Ear Diagnosis",
+		"test": "Fungal Infection Behind Ear Test",
+		"cure": "Fungal Infection Behind Ear Cure"
+	},
+	{
+		"name": "Fungal Infection Ear Canal",
+		"treatment": "Fungal Infection Ear Canal Treatment",
+		"diagnosis": "Fungal Infection Ear Canal Diagnosis",
+		"test": "Fungal Infection Ear Canal Test",
+		"cure": "Fungal Infection Ear Canal Cure"
+	},
+	{
+		"name": "Fungal Infection Inside Ear",
+		"treatment": "Fungal Infection Inside Ear Treatment",
+		"diagnosis": "Fungal Infection Inside Ear Diagnosis",
+		"test": "Fungal Infection Inside Ear Test",
+		"cure": "Fungal Infection Inside Ear Cure"
+	},
+	{
+		"name": "Fungal Middle Ear Infection",
+		"treatment": "Fungal Middle Ear Infection Treatment",
+		"diagnosis": "Fungal Middle Ear Infection Diagnosis",
+		"test": "Fungal Middle Ear Infection Test",
+		"cure": "Fungal Middle Ear Infection Cure"
+	},
+	{
+		"name": "Fungal Otitis",
+		"treatment": "Fungal Otitis Treatment",
+		"diagnosis": "Fungal Otitis Diagnosis",
+		"test": "Fungal Otitis Test",
+		"cure": "Fungal Otitis Cure"
+	},
+	{
+		"name": "Fungal Otitis Externa",
+		"treatment": "Fungal Otitis Externa Treatment",
+		"diagnosis": "Fungal Otitis Externa Diagnosis",
+		"test": "Fungal Otitis Externa Test",
+		"cure": "Fungal Otitis Externa Cure"
+	},
+	{
+		"name": "Fungal Otitis Media",
+		"treatment": "Fungal Otitis Media Treatment",
+		"diagnosis": "Fungal Otitis Media Diagnosis",
+		"test": "Fungal Otitis Media Test",
+		"cure": "Fungal Otitis Media Cure"
+	},
+	{
+		"name": "Fungal Pharyngitis",
+		"treatment": "Fungal Pharyngitis Treatment",
+		"diagnosis": "Fungal Pharyngitis Diagnosis",
+		"test": "Fungal Pharyngitis Test",
+		"cure": "Fungal Pharyngitis Cure"
+	},
+	{
+		"name": "Fungal Tonsillitis",
+		"treatment": "Fungal Tonsillitis Treatment",
+		"diagnosis": "Fungal Tonsillitis Diagnosis",
+		"test": "Fungal Tonsillitis Test",
+		"cure": "Fungal Tonsillitis Cure"
+	},
+	{
+		"name": "Gamot Sa Ear Infection",
+		"treatment": "Gamot Sa Ear Infection Treatment",
+		"diagnosis": "Gamot Sa Ear Infection Diagnosis",
+		"test": "Gamot Sa Ear Infection Test",
+		"cure": "Gamot Sa Ear Infection Cure"
+	},
+	{
+		"name": "Gas Pharyngitis",
+		"treatment": "Gas Pharyngitis Treatment",
+		"diagnosis": "Gas Pharyngitis Diagnosis",
+		"test": "Gas Pharyngitis Test",
+		"cure": "Gas Pharyngitis Cure"
+	},
+	{
+		"name": "Gastritis Sore Throat",
+		"treatment": "Gastritis Sore Throat Treatment",
+		"diagnosis": "Gastritis Sore Throat Diagnosis",
+		"test": "Gastritis Sore Throat Test",
+		"cure": "Gastritis Sore Throat Cure"
+	},
+	{
+		"name": "Gastritis Throat",
+		"treatment": "Gastritis Throat Treatment",
+		"diagnosis": "Gastritis Throat Diagnosis",
+		"test": "Gastritis Throat Test",
+		"cure": "Gastritis Throat Cure"
+	},
+	{
+		"name": "Gerd Cause Sore Throat",
+		"treatment": "Gerd Cause Sore Throat Treatment",
+		"diagnosis": "Gerd Cause Sore Throat Diagnosis",
+		"test": "Gerd Cause Sore Throat Test",
+		"cure": "Gerd Cause Sore Throat Cure"
+	},
+	{
+		"name": "Gerd Dry Throat",
+		"treatment": "Gerd Dry Throat Treatment",
+		"diagnosis": "Gerd Dry Throat Diagnosis",
+		"test": "Gerd Dry Throat Test",
+		"cure": "Gerd Dry Throat Cure"
+	},
+	{
+		"name": "Gerd Hoarse Voice",
+		"treatment": "Gerd Hoarse Voice Treatment",
+		"diagnosis": "Gerd Hoarse Voice Diagnosis",
+		"test": "Gerd Hoarse Voice Test",
+		"cure": "Gerd Hoarse Voice Cure"
+	},
+	{
+		"name": "Gerd Laryngitis",
+		"treatment": "Gerd Laryngitis Treatment",
+		"diagnosis": "Gerd Laryngitis Diagnosis",
+		"test": "Gerd Laryngitis Test",
+		"cure": "Gerd Laryngitis Cure"
+	},
+	{
+		"name": "Gerd Neck Pain",
+		"treatment": "Gerd Neck Pain Treatment",
+		"diagnosis": "Gerd Neck Pain Diagnosis",
+		"test": "Gerd Neck Pain Test",
+		"cure": "Gerd Neck Pain Cure"
+	},
+	{
+		"name": "Gerd One Swollen Tonsil",
+		"treatment": "Gerd One Swollen Tonsil Treatment",
+		"diagnosis": "Gerd One Swollen Tonsil Diagnosis",
+		"test": "Gerd One Swollen Tonsil Test",
+		"cure": "Gerd One Swollen Tonsil Cure"
+	},
+	{
+		"name": "Gerd Pharyngitis",
+		"treatment": "Gerd Pharyngitis Treatment",
+		"diagnosis": "Gerd Pharyngitis Diagnosis",
+		"test": "Gerd Pharyngitis Test",
+		"cure": "Gerd Pharyngitis Cure"
+	},
+	{
+		"name": "Gerd Scratchy Throat",
+		"treatment": "Gerd Scratchy Throat Treatment",
+		"diagnosis": "Gerd Scratchy Throat Diagnosis",
+		"test": "Gerd Scratchy Throat Test",
+		"cure": "Gerd Scratchy Throat Cure"
+	},
+	{
+		"name": "Gerd Sore Throat",
+		"treatment": "Gerd Sore Throat Treatment",
+		"diagnosis": "Gerd Sore Throat Diagnosis",
+		"test": "Gerd Sore Throat Test",
+		"cure": "Gerd Sore Throat Cure"
+	},
+	{
+		"name": "Gerd Swollen Throat",
+		"treatment": "Gerd Swollen Throat Treatment",
+		"diagnosis": "Gerd Swollen Throat Diagnosis",
+		"test": "Gerd Swollen Throat Test",
+		"cure": "Gerd Swollen Throat Cure"
+	},
+	{
+		"name": "Gerd Throat",
+		"treatment": "Gerd Throat Treatment",
+		"diagnosis": "Gerd Throat Diagnosis",
+		"test": "Gerd Throat Test",
+		"cure": "Gerd Throat Cure"
+	},
+	{
+		"name": "Gerd Throat Pain",
+		"treatment": "Gerd Throat Pain Treatment",
+		"diagnosis": "Gerd Throat Pain Diagnosis",
+		"test": "Gerd Throat Pain Test",
+		"cure": "Gerd Throat Pain Cure"
+	},
+	{
+		"name": "Gerd Tinnitus",
+		"treatment": "Gerd Tinnitus Treatment",
+		"diagnosis": "Gerd Tinnitus Diagnosis",
+		"test": "Gerd Tinnitus Test",
+		"cure": "Gerd Tinnitus Cure"
+	},
+	{
+		"name": "Gerd Tonsils",
+		"treatment": "Gerd Tonsils Treatment",
+		"diagnosis": "Gerd Tonsils Diagnosis",
+		"test": "Gerd Tonsils Test",
+		"cure": "Gerd Tonsils Cure"
+	},
+	{
+		"name": "Globus Gerd",
+		"treatment": "Globus Gerd Treatment",
+		"diagnosis": "Globus Gerd Diagnosis",
+		"test": "Globus Gerd Test",
+		"cure": "Globus Gerd Cure"
+	},
+	{
+		"name": "Glomus Tumor Ear",
+		"treatment": "Glomus Tumor Ear Treatment",
+		"diagnosis": "Glomus Tumor Ear Diagnosis",
+		"test": "Glomus Tumor Ear Test",
+		"cure": "Glomus Tumor Ear Cure"
+	},
+	{
+		"name": "Glomus Tumour Ear",
+		"treatment": "Glomus Tumour Ear Treatment",
+		"diagnosis": "Glomus Tumour Ear Diagnosis",
+		"test": "Glomus Tumour Ear Test",
+		"cure": "Glomus Tumour Ear Cure"
+	},
+	{
+		"name": "Gouty Tophi Ear",
+		"treatment": "Gouty Tophi Ear Treatment",
+		"diagnosis": "Gouty Tophi Ear Diagnosis",
+		"test": "Gouty Tophi Ear Test",
+		"cure": "Gouty Tophi Ear Cure"
+	},
+	{
+		"name": "Granular Pharyngitis",
+		"treatment": "Granular Pharyngitis Treatment",
+		"diagnosis": "Granular Pharyngitis Diagnosis",
+		"test": "Granular Pharyngitis Test",
+		"cure": "Granular Pharyngitis Cure"
+	},
+	{
+		"name": "Hearing Disease",
+		"treatment": "Hearing Disease Treatment",
+		"diagnosis": "Hearing Disease Diagnosis",
+		"test": "Hearing Disease Test",
+		"cure": "Hearing Disease Cure"
+	},
+	{
+		"name": "Hearing Loss After Ear Infection",
+		"treatment": "Hearing Loss After Ear Infection Treatment",
+		"diagnosis": "Hearing Loss After Ear Infection Diagnosis",
+		"test": "Hearing Loss After Ear Infection Test",
+		"cure": "Hearing Loss After Ear Infection Cure"
+	},
+	{
+		"name": "Hearing Loss Disease",
+		"treatment": "Hearing Loss Disease Treatment",
+		"diagnosis": "Hearing Loss Disease Diagnosis",
+		"test": "Hearing Loss Disease Test",
+		"cure": "Hearing Loss Disease Cure"
+	},
+	{
+		"name": "Hearing Loss Tumor",
+		"treatment": "Hearing Loss Tumor Treatment",
+		"diagnosis": "Hearing Loss Tumor Diagnosis",
+		"test": "Hearing Loss Tumor Test",
+		"cure": "Hearing Loss Tumor Cure"
+	},
+	{
+		"name": "Herpes Ear Infection",
+		"treatment": "Herpes Ear Infection Treatment",
+		"diagnosis": "Herpes Ear Infection Diagnosis",
+		"test": "Herpes Ear Infection Test",
+		"cure": "Herpes Ear Infection Cure"
+	},
+	{
+		"name": "Herpes Simplex Ear",
+		"treatment": "Herpes Simplex Ear Treatment",
+		"diagnosis": "Herpes Simplex Ear Diagnosis",
+		"test": "Herpes Simplex Ear Test",
+		"cure": "Herpes Simplex Ear Cure"
+	},
+	{
+		"name": "Herpes Simplex Ear Infection",
+		"treatment": "Herpes Simplex Ear Infection Treatment",
+		"diagnosis": "Herpes Simplex Ear Infection Diagnosis",
+		"test": "Herpes Simplex Ear Infection Test",
+		"cure": "Herpes Simplex Ear Infection Cure"
+	},
+	{
+		"name": "Herpes Zoster Ear",
+		"treatment": "Herpes Zoster Ear Treatment",
+		"diagnosis": "Herpes Zoster Ear Diagnosis",
+		"test": "Herpes Zoster Ear Test",
+		"cure": "Herpes Zoster Ear Cure"
+	},
+	{
+		"name": "Herpes Zoster Oticus",
+		"treatment": "Herpes Zoster Oticus Treatment",
+		"diagnosis": "Herpes Zoster Oticus Diagnosis",
+		"test": "Herpes Zoster Oticus Test",
+		"cure": "Herpes Zoster Oticus Cure"
+	},
+	{
+		"name": "Herpetic Tonsillitis",
+		"treatment": "Herpetic Tonsillitis Treatment",
+		"diagnosis": "Herpetic Tonsillitis Diagnosis",
+		"test": "Herpetic Tonsillitis Test",
+		"cure": "Herpetic Tonsillitis Cure"
+	},
+	{
+		"name": "High Blood Pressure Hearing Loss",
+		"treatment": "High Blood Pressure Hearing Loss Treatment",
+		"diagnosis": "High Blood Pressure Hearing Loss Diagnosis",
+		"test": "High Blood Pressure Hearing Loss Test",
+		"cure": "High Blood Pressure Hearing Loss Cure"
+	},
+	{
+		"name": "High Frequency Sensorineural Hearing Loss",
+		"treatment": "High Frequency Sensorineural Hearing Loss Treatment",
+		"diagnosis": "High Frequency Sensorineural Hearing Loss Diagnosis",
+		"test": "High Frequency Sensorineural Hearing Loss Test",
+		"cure": "High Frequency Sensorineural Hearing Loss Cure"
+	},
+	{
+		"name": "Hot Ears High Blood Pressure",
+		"treatment": "Hot Ears High Blood Pressure Treatment",
+		"diagnosis": "Hot Ears High Blood Pressure Diagnosis",
+		"test": "Hot Ears High Blood Pressure Test",
+		"cure": "Hot Ears High Blood Pressure Cure"
+	},
+	{
+		"name": "Hot Tub Ear Infection",
+		"treatment": "Hot Tub Ear Infection Treatment",
+		"diagnosis": "Hot Tub Ear Infection Diagnosis",
+		"test": "Hot Tub Ear Infection Test",
+		"cure": "Hot Tub Ear Infection Cure"
+	},
+	{
+		"name": "HPV Inside Mouth",
+		"treatment": "HPV Inside Mouth Treatment",
+		"diagnosis": "HPV Inside Mouth Diagnosis",
+		"test": "HPV Inside Mouth Test",
+		"cure": "HPV Inside Mouth Cure"
+	},
+	{
+		"name": "HPV Sore Throat",
+		"treatment": "HPV Sore Throat Treatment",
+		"diagnosis": "HPV Sore Throat Diagnosis",
+		"test": "HPV Sore Throat Test",
+		"cure": "HPV Sore Throat Cure"
+	},
+	{
+		"name": "HSV Tonsillitis",
+		"treatment": "HSV Tonsillitis Treatment",
+		"diagnosis": "HSV Tonsillitis Diagnosis",
+		"test": "HSV Tonsillitis Test",
+		"cure": "HSV Tonsillitis Cure"
+	},
+	{
+		"name": "Human Ear Infection",
+		"treatment": "Human Ear Infection Treatment",
+		"diagnosis": "Human Ear Infection Diagnosis",
+		"test": "Human Ear Infection Test",
+		"cure": "Human Ear Infection Cure"
+	},
+	{
+		"name": "Hunt Syndrome",
+		"treatment": "Hunt Syndrome Treatment",
+		"diagnosis": "Hunt Syndrome Diagnosis",
+		"test": "Hunt Syndrome Test",
+		"cure": "Hunt Syndrome Cure"
+	},
+	{
+		"name": "Hypothyroidism Hearing Loss",
+		"treatment": "Hypothyroidism Hearing Loss Treatment",
+		"diagnosis": "Hypothyroidism Hearing Loss Diagnosis",
+		"test": "Hypothyroidism Hearing Loss Test",
+		"cure": "Hypothyroidism Hearing Loss Cure"
+	},
+	{
+		"name": "Hypothyroidism Tinnitus",
+		"treatment": "Hypothyroidism Tinnitus Treatment",
+		"diagnosis": "Hypothyroidism Tinnitus Diagnosis",
+		"test": "Hypothyroidism Tinnitus Test",
+		"cure": "Hypothyroidism Tinnitus Cure"
+	},
+	{
+		"name": "Infection Behind Ear Lobe",
+		"treatment": "Infection Behind Ear Lobe Treatment",
+		"diagnosis": "Infection Behind Ear Lobe Diagnosis",
+		"test": "Infection Behind Ear Lobe Test",
+		"cure": "Infection Behind Ear Lobe Cure"
+	},
+	{
+		"name": "Infectious Myringitis",
+		"treatment": "Infectious Myringitis Treatment",
+		"diagnosis": "Infectious Myringitis Diagnosis",
+		"test": "Infectious Myringitis Test",
+		"cure": "Infectious Myringitis Cure"
+	},
+	{
+		"name": "Infectious Throat Disease",
+		"treatment": "Infectious Throat Disease Treatment",
+		"diagnosis": "Infectious Throat Disease Diagnosis",
+		"test": "Infectious Throat Disease Test",
+		"cure": "Infectious Throat Disease Cure"
+	},
+	{
+		"name": "Infective Otitis Externa",
+		"treatment": "Infective Otitis Externa Treatment",
+		"diagnosis": "Infective Otitis Externa Diagnosis",
+		"test": "Infective Otitis Externa Test",
+		"cure": "Infective Otitis Externa Cure"
+	},
+	{
+		"name": "Inner Ear Abscess",
+		"treatment": "Inner Ear Abscess Treatment",
+		"diagnosis": "Inner Ear Abscess Diagnosis",
+		"test": "Inner Ear Abscess Test",
+		"cure": "Inner Ear Abscess Cure"
+	},
+	{
+		"name": "Inner Ear Canal Infection",
+		"treatment": "Inner Ear Canal Infection Treatment",
+		"diagnosis": "Inner Ear Canal Infection Diagnosis",
+		"test": "Inner Ear Canal Infection Test",
+		"cure": "Inner Ear Canal Infection Cure"
+	},
+	{
+		"name": "Inner Ear Disease",
+		"treatment": "Inner Ear Disease Treatment",
+		"diagnosis": "Inner Ear Disease Diagnosis",
+		"test": "Inner Ear Disease Test",
+		"cure": "Inner Ear Disease Cure"
+	},
+	{
+		"name": "Inner Ear Disorder",
+		"treatment": "Inner Ear Disorder Treatment",
+		"diagnosis": "Inner Ear Disorder Diagnosis",
+		"test": "Inner Ear Disorder Test",
+		"cure": "Inner Ear Disorder Cure"
+	},
+	{
+		"name": "Inner Ear Fungal Infection",
+		"treatment": "Inner Ear Fungal Infection Treatment",
+		"diagnosis": "Inner Ear Fungal Infection Diagnosis",
+		"test": "Inner Ear Fungal Infection Test",
+		"cure": "Inner Ear Fungal Infection Cure"
+	},
+	{
+		"name": "Inner Ear Infection Dizzy",
+		"treatment": "Inner Ear Infection Dizzy Treatment",
+		"diagnosis": "Inner Ear Infection Dizzy Diagnosis",
+		"test": "Inner Ear Infection Dizzy Test",
+		"cure": "Inner Ear Infection Dizzy Cure"
+	},
+	{
+		"name": "Inner Ear Infection NHS",
+		"treatment": "Inner Ear Infection NHS Treatment",
+		"diagnosis": "Inner Ear Infection NHS Diagnosis",
+		"test": "Inner Ear Infection NHS Test",
+		"cure": "Inner Ear Infection NHS Cure"
+	},
+	{
+		"name": "Inner Ear Inflammation",
+		"treatment": "Inner Ear Inflammation Treatment",
+		"diagnosis": "Inner Ear Inflammation Diagnosis",
+		"test": "Inner Ear Inflammation Test",
+		"cure": "Inner Ear Inflammation Cure"
+	},
+	{
+		"name": "Inner Ear Meniere'S Disease",
+		"treatment": "Inner Ear Meniere'S Disease Treatment",
+		"diagnosis": "Inner Ear Meniere'S Disease Diagnosis",
+		"test": "Inner Ear Meniere'S Disease Test",
+		"cure": "Inner Ear Meniere'S Disease Cure"
+	},
+	{
+		"name": "Inner Ear Tumor",
+		"treatment": "Inner Ear Tumor Treatment",
+		"diagnosis": "Inner Ear Tumor Diagnosis",
+		"test": "Inner Ear Tumor Test",
+		"cure": "Inner Ear Tumor Cure"
+	},
+	{
+		"name": "Inside Ear Infection",
+		"treatment": "Inside Ear Infection Treatment",
+		"diagnosis": "Inside Ear Infection Diagnosis",
+		"test": "Inside Ear Infection Test",
+		"cure": "Inside Ear Infection Cure"
+	},
+	{
+		"name": "Internal Ear Infection",
+		"treatment": "Internal Ear Infection Treatment",
+		"diagnosis": "Internal Ear Infection Diagnosis",
+		"test": "Internal Ear Infection Test",
+		"cure": "Internal Ear Infection Cure"
+	},
+	{
+		"name": "Internal Otitis",
+		"treatment": "Internal Otitis Treatment",
+		"diagnosis": "Internal Otitis Diagnosis",
+		"test": "Internal Otitis Test",
+		"cure": "Internal Otitis Cure"
+	},
+	{
+		"name": "It'S Strep Throat Contagious",
+		"treatment": "It'S Strep Throat Contagious Treatment",
+		"diagnosis": "It'S Strep Throat Contagious Diagnosis",
+		"test": "It'S Strep Throat Contagious Test",
+		"cure": "It'S Strep Throat Contagious Cure"
+	},
+	{
+		"name": "Laryngeal Esophageal Reflux",
+		"treatment": "Laryngeal Esophageal Reflux Treatment",
+		"diagnosis": "Laryngeal Esophageal Reflux Diagnosis",
+		"test": "Laryngeal Esophageal Reflux Test",
+		"cure": "Laryngeal Esophageal Reflux Cure"
+	},
+	{
+		"name": "Laryngitis Contagious",
+		"treatment": "Laryngitis Contagious Treatment",
+		"diagnosis": "Laryngitis Contagious Diagnosis",
+		"test": "Laryngitis Contagious Test",
+		"cure": "Laryngitis Contagious Cure"
+	},
+	{
+		"name": "Laryngitis Pharyngitis",
+		"treatment": "Laryngitis Pharyngitis Treatment",
+		"diagnosis": "Laryngitis Pharyngitis Diagnosis",
+		"test": "Laryngitis Pharyngitis Test",
+		"cure": "Laryngitis Pharyngitis Cure"
+	},
+	{
+		"name": "Laryngitis Reflux",
+		"treatment": "Laryngitis Reflux Treatment",
+		"diagnosis": "Laryngitis Reflux Diagnosis",
+		"test": "Laryngitis Reflux Test",
+		"cure": "Laryngitis Reflux Cure"
+	},
+	{
+		"name": "Laryngopharyngeal Reflux Disease",
+		"treatment": "Laryngopharyngeal Reflux Disease Treatment",
+		"diagnosis": "Laryngopharyngeal Reflux Disease Diagnosis",
+		"test": "Laryngopharyngeal Reflux Disease Test",
+		"cure": "Laryngopharyngeal Reflux Disease Cure"
+	},
+	{
+		"name": "Leaky Throat Syndrome",
+		"treatment": "Leaky Throat Syndrome Treatment",
+		"diagnosis": "Leaky Throat Syndrome Diagnosis",
+		"test": "Leaky Throat Syndrome Test",
+		"cure": "Leaky Throat Syndrome Cure"
+	},
+	{
+		"name": "Left Ear Infection",
+		"treatment": "Left Ear Infection Treatment",
+		"diagnosis": "Left Ear Infection Diagnosis",
+		"test": "Left Ear Infection Test",
+		"cure": "Left Ear Infection Cure"
+	},
+	{
+		"name": "Left Otitis Externa",
+		"treatment": "Left Otitis Externa Treatment",
+		"diagnosis": "Left Otitis Externa Diagnosis",
+		"test": "Left Otitis Externa Test",
+		"cure": "Left Otitis Externa Cure"
+	},
+	{
+		"name": "Left Otitis Media",
+		"treatment": "Left Otitis Media Treatment",
+		"diagnosis": "Left Otitis Media Diagnosis",
+		"test": "Left Otitis Media Test",
+		"cure": "Left Otitis Media Cure"
+	},
+	{
+		"name": "Leukemic Tonsillitis",
+		"treatment": "Leukemic Tonsillitis Treatment",
+		"diagnosis": "Leukemic Tonsillitis Diagnosis",
+		"test": "Leukemic Tonsillitis Test",
+		"cure": "Leukemic Tonsillitis Cure"
+	},
+	{
+		"name": "Lung Cancer Sore Throat",
+		"treatment": "Lung Cancer Sore Throat Treatment",
+		"diagnosis": "Lung Cancer Sore Throat Diagnosis",
+		"test": "Lung Cancer Sore Throat Test",
+		"cure": "Lung Cancer Sore Throat Cure"
+	},
+	{
+		"name": "Lupus Ear",
+		"treatment": "Lupus Ear Treatment",
+		"diagnosis": "Lupus Ear Diagnosis",
+		"test": "Lupus Ear Test",
+		"cure": "Lupus Ear Cure"
+	},
+	{
+		"name": "Lupus Hearing Loss",
+		"treatment": "Lupus Hearing Loss Treatment",
+		"diagnosis": "Lupus Hearing Loss Diagnosis",
+		"test": "Lupus Hearing Loss Test",
+		"cure": "Lupus Hearing Loss Cure"
+	},
+	{
+		"name": "Lupus Tinnitus",
+		"treatment": "Lupus Tinnitus Treatment",
+		"diagnosis": "Lupus Tinnitus Diagnosis",
+		"test": "Lupus Tinnitus Test",
+		"cure": "Lupus Tinnitus Cure"
+	},
+	{
+		"name": "Lyme Disease Tinnitus",
+		"treatment": "Lyme Disease Tinnitus Treatment",
+		"diagnosis": "Lyme Disease Tinnitus Diagnosis",
+		"test": "Lyme Disease Tinnitus Test",
+		"cure": "Lyme Disease Tinnitus Cure"
+	},
+	{
+		"name": "Lymph Node Cancer Neck",
+		"treatment": "Lymph Node Cancer Neck Treatment",
+		"diagnosis": "Lymph Node Cancer Neck Diagnosis",
+		"test": "Lymph Node Cancer Neck Test",
+		"cure": "Lymph Node Cancer Neck Cure"
+	},
+	{
+		"name": "Malignant Otitis",
+		"treatment": "Malignant Otitis Treatment",
+		"diagnosis": "Malignant Otitis Diagnosis",
+		"test": "Malignant Otitis Test",
+		"cure": "Malignant Otitis Cure"
+	},
+	{
+		"name": "Malignant Otitis Media",
+		"treatment": "Malignant Otitis Media Treatment",
+		"diagnosis": "Malignant Otitis Media Diagnosis",
+		"test": "Malignant Otitis Media Test",
+		"cure": "Malignant Otitis Media Cure"
+	},
+	{
+		"name": "Mariners Disease",
+		"treatment": "Mariners Disease Treatment",
+		"diagnosis": "Mariners Disease Diagnosis",
+		"test": "Mariners Disease Test",
+		"cure": "Mariners Disease Cure"
+	},
+	{
+		"name": "Mastoid Air Cell Disease",
+		"treatment": "Mastoid Air Cell Disease Treatment",
+		"diagnosis": "Mastoid Air Cell Disease Diagnosis",
+		"test": "Mastoid Air Cell Disease Test",
+		"cure": "Mastoid Air Cell Disease Cure"
+	},
+	{
+		"name": "Mastoid Bone Infection",
+		"treatment": "Mastoid Bone Infection Treatment",
+		"diagnosis": "Mastoid Bone Infection Diagnosis",
+		"test": "Mastoid Bone Infection Test",
+		"cure": "Mastoid Bone Infection Cure"
+	},
+	{
+		"name": "Mastoid Cavity Infection",
+		"treatment": "Mastoid Cavity Infection Treatment",
+		"diagnosis": "Mastoid Cavity Infection Diagnosis",
+		"test": "Mastoid Cavity Infection Test",
+		"cure": "Mastoid Cavity Infection Cure"
+	},
+	{
+		"name": "Mastoid Disease",
+		"treatment": "Mastoid Disease Treatment",
+		"diagnosis": "Mastoid Disease Diagnosis",
+		"test": "Mastoid Disease Test",
+		"cure": "Mastoid Disease Cure"
+	},
+	{
+		"name": "Mastoid Ear Infection",
+		"treatment": "Mastoid Ear Infection Treatment",
+		"diagnosis": "Mastoid Ear Infection Diagnosis",
+		"test": "Mastoid Ear Infection Test",
+		"cure": "Mastoid Ear Infection Cure"
+	},
+	{
+		"name": "Mastoid Infection",
+		"treatment": "Mastoid Infection Treatment",
+		"diagnosis": "Mastoid Infection Diagnosis",
+		"test": "Mastoid Infection Test",
+		"cure": "Mastoid Infection Cure"
+	},
+	{
+		"name": "Mastoid Inflammation",
+		"treatment": "Mastoid Inflammation Treatment",
+		"diagnosis": "Mastoid Inflammation Diagnosis",
+		"test": "Mastoid Inflammation Test",
+		"cure": "Mastoid Inflammation Cure"
+	},
+	{
+		"name": "Mastoid Sinus Infection",
+		"treatment": "Mastoid Sinus Infection Treatment",
+		"diagnosis": "Mastoid Sinus Infection Diagnosis",
+		"test": "Mastoid Sinus Infection Test",
+		"cure": "Mastoid Sinus Infection Cure"
+	},
+	{
+		"name": "Mastoid Tumor",
+		"treatment": "Mastoid Tumor Treatment",
+		"diagnosis": "Mastoid Tumor Diagnosis",
+		"test": "Mastoid Tumor Test",
+		"cure": "Mastoid Tumor Cure"
+	},
+	{
+		"name": "Mayo Clinic Ear Infection",
+		"treatment": "Mayo Clinic Ear Infection Treatment",
+		"diagnosis": "Mayo Clinic Ear Infection Diagnosis",
+		"test": "Mayo Clinic Ear Infection Test",
+		"cure": "Mayo Clinic Ear Infection Cure"
+	},
+	{
+		"name": "Meniere",
+		"treatment": "Meniere Treatment",
+		"diagnosis": "Meniere Diagnosis",
+		"test": "Meniere Test",
+		"cure": "Meniere Cure"
+	},
+	{
+		"name": "Meniere'S Disease",
+		"treatment": "Meniere'S Disease Treatment",
+		"diagnosis": "Meniere'S Disease Diagnosis",
+		"test": "Meniere'S Disease Test",
+		"cure": "Meniere'S Disease Cure"
+	},
+	{
+		"name": "Meniere'S Disease Autoimmune",
+		"treatment": "Meniere'S Disease Autoimmune Treatment",
+		"diagnosis": "Meniere'S Disease Autoimmune Diagnosis",
+		"test": "Meniere'S Disease Autoimmune Test",
+		"cure": "Meniere'S Disease Autoimmune Cure"
+	},
+	{
+		"name": "Meniere'S Disease Hearing Aid",
+		"treatment": "Meniere'S Disease Hearing Aid Treatment",
+		"diagnosis": "Meniere'S Disease Hearing Aid Diagnosis",
+		"test": "Meniere'S Disease Hearing Aid Test",
+		"cure": "Meniere'S Disease Hearing Aid Cure"
+	},
+	{
+		"name": "Meniere'S Disease Hearing Loss",
+		"treatment": "Meniere'S Disease Hearing Loss Treatment",
+		"diagnosis": "Meniere'S Disease Hearing Loss Diagnosis",
+		"test": "Meniere'S Disease Hearing Loss Test",
+		"cure": "Meniere'S Disease Hearing Loss Cure"
+	},
+	{
+		"name": "Meniere'S Disease Hearing Loss Type",
+		"treatment": "Meniere'S Disease Hearing Loss Type Treatment",
+		"diagnosis": "Meniere'S Disease Hearing Loss Type Diagnosis",
+		"test": "Meniere'S Disease Hearing Loss Type Test",
+		"cure": "Meniere'S Disease Hearing Loss Type Cure"
+	},
+	{
+		"name": "Meniere'S Disease Hereditary",
+		"treatment": "Meniere'S Disease Hereditary Treatment",
+		"diagnosis": "Meniere'S Disease Hereditary Diagnosis",
+		"test": "Meniere'S Disease Hereditary Test",
+		"cure": "Meniere'S Disease Hereditary Cure"
+	},
+	{
+		"name": "Meniere'S Disease Mayo Clinic",
+		"treatment": "Meniere'S Disease Mayo Clinic Treatment",
+		"diagnosis": "Meniere'S Disease Mayo Clinic Diagnosis",
+		"test": "Meniere'S Disease Mayo Clinic Test",
+		"cure": "Meniere'S Disease Mayo Clinic Cure"
+	},
+	{
+		"name": "Meniere'S Disease MRI",
+		"treatment": "Meniere'S Disease MRI Treatment",
+		"diagnosis": "Meniere'S Disease MRI Diagnosis",
+		"test": "Meniere'S Disease MRI Test",
+		"cure": "Meniere'S Disease MRI Cure"
+	},
+	{
+		"name": "Meniere'S Disease NHS",
+		"treatment": "Meniere'S Disease NHS Treatment",
+		"diagnosis": "Meniere'S Disease NHS Diagnosis",
+		"test": "Meniere'S Disease NHS Test",
+		"cure": "Meniere'S Disease NHS Cure"
+	},
+	{
+		"name": "Meniere'S Disease Sensorineural Hearing Loss",
+		"treatment": "Meniere'S Disease Sensorineural Hearing Loss Treatment",
+		"diagnosis": "Meniere'S Disease Sensorineural Hearing Loss Diagnosis",
+		"test": "Meniere'S Disease Sensorineural Hearing Loss Test",
+		"cure": "Meniere'S Disease Sensorineural Hearing Loss Cure"
+	},
+	{
+		"name": "Meniere'S Disease Tinnitus",
+		"treatment": "Meniere'S Disease Tinnitus Treatment",
+		"diagnosis": "Meniere'S Disease Tinnitus Diagnosis",
+		"test": "Meniere'S Disease Tinnitus Test",
+		"cure": "Meniere'S Disease Tinnitus Cure"
+	},
+	{
+		"name": "Meniere'S Ear",
+		"treatment": "Meniere'S Ear Treatment",
+		"diagnosis": "Meniere'S Ear Diagnosis",
+		"test": "Meniere'S Ear Test",
+		"cure": "Meniere'S Ear Cure"
+	},
+	{
+		"name": "Meniere'S Ear Disease",
+		"treatment": "Meniere'S Ear Disease Treatment",
+		"diagnosis": "Meniere'S Ear Disease Diagnosis",
+		"test": "Meniere'S Ear Disease Test",
+		"cure": "Meniere'S Ear Disease Cure"
+	},
+	{
+		"name": "Meniere'S Hearing Loss",
+		"treatment": "Meniere'S Hearing Loss Treatment",
+		"diagnosis": "Meniere'S Hearing Loss Diagnosis",
+		"test": "Meniere'S Hearing Loss Test",
+		"cure": "Meniere'S Hearing Loss Cure"
+	},
+	{
+		"name": "Meniere'S Syndrome",
+		"treatment": "Meniere'S Syndrome Treatment",
+		"diagnosis": "Meniere'S Syndrome Diagnosis",
+		"test": "Meniere'S Syndrome Test",
+		"cure": "Meniere'S Syndrome Cure"
+	},
+	{
+		"name": "Menieres",
+		"treatment": "Menieres Treatment",
+		"diagnosis": "Menieres Diagnosis",
+		"test": "Menieres Test",
+		"cure": "Menieres Cure"
+	},
+	{
+		"name": "Menieres Attacks",
+		"treatment": "Menieres Attacks Treatment",
+		"diagnosis": "Menieres Attacks Diagnosis",
+		"test": "Menieres Attacks Test",
+		"cure": "Menieres Attacks Cure"
+	},
+	{
+		"name": "Menieres Disease",
+		"treatment": "Menieres Disease Treatment",
+		"diagnosis": "Menieres Disease Diagnosis",
+		"test": "Menieres Disease Test",
+		"cure": "Menieres Disease Cure"
+	},
+	{
+		"name": "Meniett Device",
+		"treatment": "Meniett Device Treatment",
+		"diagnosis": "Meniett Device Diagnosis",
+		"test": "Meniett Device Test",
+		"cure": "Meniett Device Cure"
+	},
+	{
+		"name": "Metronidazole Tonsillitis",
+		"treatment": "Metronidazole Tonsillitis Treatment",
+		"diagnosis": "Metronidazole Tonsillitis Diagnosis",
+		"test": "Metronidazole Tonsillitis Test",
+		"cure": "Metronidazole Tonsillitis Cure"
+	},
+	{
+		"name": "Middle Ear Disease",
+		"treatment": "Middle Ear Disease Treatment",
+		"diagnosis": "Middle Ear Disease Diagnosis",
+		"test": "Middle Ear Disease Test",
+		"cure": "Middle Ear Disease Cure"
+	},
+	{
+		"name": "Middle Ear Disorder",
+		"treatment": "Middle Ear Disorder Treatment",
+		"diagnosis": "Middle Ear Disorder Diagnosis",
+		"test": "Middle Ear Disorder Test",
+		"cure": "Middle Ear Disorder Cure"
+	},
+	{
+		"name": "Middle Ear Infection",
+		"treatment": "Middle Ear Infection Treatment",
+		"diagnosis": "Middle Ear Infection Diagnosis",
+		"test": "Middle Ear Infection Test",
+		"cure": "Middle Ear Infection Cure"
+	},
+	{
+		"name": "Middle Ear Infection Contagious",
+		"treatment": "Middle Ear Infection Contagious Treatment",
+		"diagnosis": "Middle Ear Infection Contagious Diagnosis",
+		"test": "Middle Ear Infection Contagious Test",
+		"cure": "Middle Ear Infection Contagious Cure"
+	},
+	{
+		"name": "Middle Ear Infection Reddit",
+		"treatment": "Middle Ear Infection Reddit Treatment",
+		"diagnosis": "Middle Ear Infection Reddit Diagnosis",
+		"test": "Middle Ear Infection Reddit Test",
+		"cure": "Middle Ear Infection Reddit Cure"
+	},
+	{
+		"name": "Middle Ear Infection Tinnitus",
+		"treatment": "Middle Ear Infection Tinnitus Treatment",
+		"diagnosis": "Middle Ear Infection Tinnitus Diagnosis",
+		"test": "Middle Ear Infection Tinnitus Test",
+		"cure": "Middle Ear Infection Tinnitus Cure"
+	},
+	{
+		"name": "Middle Ear Syndrome",
+		"treatment": "Middle Ear Syndrome Treatment",
+		"diagnosis": "Middle Ear Syndrome Diagnosis",
+		"test": "Middle Ear Syndrome Test",
+		"cure": "Middle Ear Syndrome Cure"
+	},
+	{
+		"name": "Middle Ear Tumor",
+		"treatment": "Middle Ear Tumor Treatment",
+		"diagnosis": "Middle Ear Tumor Diagnosis",
+		"test": "Middle Ear Tumor Test",
+		"cure": "Middle Ear Tumor Cure"
+	},
+	{
+		"name": "Mild Ear Infection",
+		"treatment": "Mild Ear Infection Treatment",
+		"diagnosis": "Mild Ear Infection Diagnosis",
+		"test": "Mild Ear Infection Test",
+		"cure": "Mild Ear Infection Cure"
+	},
+	{
+		"name": "Mild Otitis Externa",
+		"treatment": "Mild Otitis Externa Treatment",
+		"diagnosis": "Mild Otitis Externa Diagnosis",
+		"test": "Mild Otitis Externa Test",
+		"cure": "Mild Otitis Externa Cure"
+	},
+	{
+		"name": "Mild Sensorineural Hearing Loss",
+		"treatment": "Mild Sensorineural Hearing Loss Treatment",
+		"diagnosis": "Mild Sensorineural Hearing Loss Diagnosis",
+		"test": "Mild Sensorineural Hearing Loss Test",
+		"cure": "Mild Sensorineural Hearing Loss Cure"
+	},
+	{
+		"name": "Mild Throat Infection",
+		"treatment": "Mild Throat Infection Treatment",
+		"diagnosis": "Mild Throat Infection Diagnosis",
+		"test": "Mild Throat Infection Test",
+		"cure": "Mild Throat Infection Cure"
+	},
+	{
+		"name": "Mini Ears Disease",
+		"treatment": "Mini Ears Disease Treatment",
+		"diagnosis": "Mini Ears Disease Diagnosis",
+		"test": "Mini Ears Disease Test",
+		"cure": "Mini Ears Disease Cure"
+	},
+	{
+		"name": "Minor Ear Infection",
+		"treatment": "Minor Ear Infection Treatment",
+		"diagnosis": "Minor Ear Infection Diagnosis",
+		"test": "Minor Ear Infection Test",
+		"cure": "Minor Ear Infection Cure"
+	},
+	{
+		"name": "Minor Strep Throat",
+		"treatment": "Minor Strep Throat Treatment",
+		"diagnosis": "Minor Strep Throat Diagnosis",
+		"test": "Minor Strep Throat Test",
+		"cure": "Minor Strep Throat Cure"
+	},
+	{
+		"name": "Mouth Throat Infection",
+		"treatment": "Mouth Throat Infection Treatment",
+		"diagnosis": "Mouth Throat Infection Diagnosis",
+		"test": "Mouth Throat Infection Test",
+		"cure": "Mouth Throat Infection Cure"
+	},
+	{
+		"name": "Mouth Ulcers Earache Sore Throat",
+		"treatment": "Mouth Ulcers Earache Sore Throat Treatment",
+		"diagnosis": "Mouth Ulcers Earache Sore Throat Diagnosis",
+		"test": "Mouth Ulcers Earache Sore Throat Test",
+		"cure": "Mouth Ulcers Earache Sore Throat Cure"
+	},
+	{
+		"name": "Mrsa Ear Infection",
+		"treatment": "Mrsa Ear Infection Treatment",
+		"diagnosis": "Mrsa Ear Infection Diagnosis",
+		"test": "Mrsa Ear Infection Test",
+		"cure": "Mrsa Ear Infection Cure"
+	},
+	{
+		"name": "Mucoid Otitis Media",
+		"treatment": "Mucoid Otitis Media Treatment",
+		"diagnosis": "Mucoid Otitis Media Diagnosis",
+		"test": "Mucoid Otitis Media Test",
+		"cure": "Mucoid Otitis Media Cure"
+	},
+	{
+		"name": "Multiple Sclerosis Ear Pressure",
+		"treatment": "Multiple Sclerosis Ear Pressure Treatment",
+		"diagnosis": "Multiple Sclerosis Ear Pressure Diagnosis",
+		"test": "Multiple Sclerosis Ear Pressure Test",
+		"cure": "Multiple Sclerosis Ear Pressure Cure"
+	},
+	{
+		"name": "Multiple Sclerosis Tinnitus",
+		"treatment": "Multiple Sclerosis Tinnitus Treatment",
+		"diagnosis": "Multiple Sclerosis Tinnitus Diagnosis",
+		"test": "Multiple Sclerosis Tinnitus Test",
+		"cure": "Multiple Sclerosis Tinnitus Cure"
+	},
+	{
+		"name": "Necrophorum Pharyngitis",
+		"treatment": "Necrophorum Pharyngitis Treatment",
+		"diagnosis": "Necrophorum Pharyngitis Diagnosis",
+		"test": "Necrophorum Pharyngitis Test",
+		"cure": "Necrophorum Pharyngitis Cure"
+	},
+	{
+		"name": "Necrotizing External Otitis",
+		"treatment": "Necrotizing External Otitis Treatment",
+		"diagnosis": "Necrotizing External Otitis Diagnosis",
+		"test": "Necrotizing External Otitis Test",
+		"cure": "Necrotizing External Otitis Cure"
+	},
+	{
+		"name": "Necrotizing Otitis Externa",
+		"treatment": "Necrotizing Otitis Externa Treatment",
+		"diagnosis": "Necrotizing Otitis Externa Diagnosis",
+		"test": "Necrotizing Otitis Externa Test",
+		"cure": "Necrotizing Otitis Externa Cure"
+	},
+	{
+		"name": "Nerve Deafness",
+		"treatment": "Nerve Deafness Treatment",
+		"diagnosis": "Nerve Deafness Diagnosis",
+		"test": "Nerve Deafness Test",
+		"cure": "Nerve Deafness Cure"
+	},
+	{
+		"name": "Neuroinflammation Tinnitus",
+		"treatment": "Neuroinflammation Tinnitus Treatment",
+		"diagnosis": "Neuroinflammation Tinnitus Diagnosis",
+		"test": "Neuroinflammation Tinnitus Test",
+		"cure": "Neuroinflammation Tinnitus Cure"
+	},
+	{
+		"name": "Neurological Ear Disorder",
+		"treatment": "Neurological Ear Disorder Treatment",
+		"diagnosis": "Neurological Ear Disorder Diagnosis",
+		"test": "Neurological Ear Disorder Test",
+		"cure": "Neurological Ear Disorder Cure"
+	},
+	{
+		"name": "NHS Meniere'S Disease",
+		"treatment": "NHS Meniere'S Disease Treatment",
+		"diagnosis": "NHS Meniere'S Disease Diagnosis",
+		"test": "NHS Meniere'S Disease Test",
+		"cure": "NHS Meniere'S Disease Cure"
+	},
+	{
+		"name": "NHS Scarlet Fever",
+		"treatment": "NHS Scarlet Fever Treatment",
+		"diagnosis": "NHS Scarlet Fever Diagnosis",
+		"test": "NHS Scarlet Fever Test",
+		"cure": "NHS Scarlet Fever Cure"
+	},
+	{
+		"name": "No Fever Sore Throat",
+		"treatment": "No Fever Sore Throat Treatment",
+		"diagnosis": "No Fever Sore Throat Diagnosis",
+		"test": "No Fever Sore Throat Test",
+		"cure": "No Fever Sore Throat Cure"
+	},
+	{
+		"name": "No Tonsils Strep Throat",
+		"treatment": "No Tonsils Strep Throat Treatment",
+		"diagnosis": "No Tonsils Strep Throat Diagnosis",
+		"test": "No Tonsils Strep Throat Test",
+		"cure": "No Tonsils Strep Throat Cure"
+	},
+	{
+		"name": "Non Recurrent Acute Suppurative Otitis Media",
+		"treatment": "Non Recurrent Acute Suppurative Otitis Media Treatment",
+		"diagnosis": "Non Recurrent Acute Suppurative Otitis Media Diagnosis",
+		"test": "Non Recurrent Acute Suppurative Otitis Media Test",
+		"cure": "Non Recurrent Acute Suppurative Otitis Media Cure"
+	},
+	{
+		"name": "Non Suppurative Otitis Media",
+		"treatment": "Non Suppurative Otitis Media Treatment",
+		"diagnosis": "Non Suppurative Otitis Media Diagnosis",
+		"test": "Non Suppurative Otitis Media Test",
+		"cure": "Non Suppurative Otitis Media Cure"
+	},
+	{
+		"name": "Nose Disease",
+		"treatment": "Nose Disease Treatment",
+		"diagnosis": "Nose Disease Diagnosis",
+		"test": "Nose Disease Test",
+		"cure": "Nose Disease Cure"
+	},
+	{
+		"name": "One Side Tonsillitis",
+		"treatment": "One Side Tonsillitis Treatment",
+		"diagnosis": "One Side Tonsillitis Diagnosis",
+		"test": "One Side Tonsillitis Test",
+		"cure": "One Side Tonsillitis Cure"
+	},
+	{
+		"name": "Oropharyngeal Ulcer",
+		"treatment": "Oropharyngeal Ulcer Treatment",
+		"diagnosis": "Oropharyngeal Ulcer Diagnosis",
+		"test": "Oropharyngeal Ulcer Test",
+		"cure": "Oropharyngeal Ulcer Cure"
+	},
+	{
+		"name": "Oropharynx Infection",
+		"treatment": "Oropharynx Infection Treatment",
+		"diagnosis": "Oropharynx Infection Diagnosis",
+		"test": "Oropharynx Infection Test",
+		"cure": "Oropharynx Infection Cure"
+	},
+	{
+		"name": "Otic Infection",
+		"treatment": "Otic Infection Treatment",
+		"diagnosis": "Otic Infection Diagnosis",
+		"test": "Otic Infection Test",
+		"cure": "Otic Infection Cure"
+	},
+	{
+		"name": "Otitis Disease",
+		"treatment": "Otitis Disease Treatment",
+		"diagnosis": "Otitis Disease Diagnosis",
+		"test": "Otitis Disease Test",
+		"cure": "Otitis Disease Cure"
+	},
+	{
+		"name": "Otitis Ear",
+		"treatment": "Otitis Ear Treatment",
+		"diagnosis": "Otitis Ear Diagnosis",
+		"test": "Otitis Ear Test",
+		"cure": "Otitis Ear Cure"
+	},
+	{
+		"name": "Otitis Ear Infection",
+		"treatment": "Otitis Ear Infection Treatment",
+		"diagnosis": "Otitis Ear Infection Diagnosis",
+		"test": "Otitis Ear Infection Test",
+		"cure": "Otitis Ear Infection Cure"
+	},
+	{
+		"name": "Otitis Externa Hearing Loss",
+		"treatment": "Otitis Externa Hearing Loss Treatment",
+		"diagnosis": "Otitis Externa Hearing Loss Diagnosis",
+		"test": "Otitis Externa Hearing Loss Test",
+		"cure": "Otitis Externa Hearing Loss Cure"
+	},
+	{
+		"name": "Otitis Externa Malignant",
+		"treatment": "Otitis Externa Malignant Treatment",
+		"diagnosis": "Otitis Externa Malignant Diagnosis",
+		"test": "Otitis Externa Malignant Test",
+		"cure": "Otitis Externa Malignant Cure"
+	},
+	{
+		"name": "Otitis Infection",
+		"treatment": "Otitis Infection Treatment",
+		"diagnosis": "Otitis Infection Diagnosis",
+		"test": "Otitis Infection Test",
+		"cure": "Otitis Infection Cure"
+	},
+	{
+		"name": "Otitis Interna",
+		"treatment": "Otitis Interna Treatment",
+		"diagnosis": "Otitis Interna Diagnosis",
+		"test": "Otitis Interna Test",
+		"cure": "Otitis Interna Cure"
+	},
+	{
+		"name": "Otitis Interna Cat",
+		"treatment": "Otitis Interna Cat Treatment",
+		"diagnosis": "Otitis Interna Cat Diagnosis",
+		"test": "Otitis Interna Cat Test",
+		"cure": "Otitis Interna Cat Cure"
+	},
+	{
+		"name": "Otitis Interna Dog",
+		"treatment": "Otitis Interna Dog Treatment",
+		"diagnosis": "Otitis Interna Dog Diagnosis",
+		"test": "Otitis Interna Dog Test",
+		"cure": "Otitis Interna Dog Cure"
+	},
+	{
+		"name": "Otitis Media",
+		"treatment": "Otitis Media Treatment",
+		"diagnosis": "Otitis Media Diagnosis",
+		"test": "Otitis Media Test",
+		"cure": "Otitis Media Cure"
+	},
+	{
+		"name": "Otitis Media Aboriginal",
+		"treatment": "Otitis Media Aboriginal Treatment",
+		"diagnosis": "Otitis Media Aboriginal Diagnosis",
+		"test": "Otitis Media Aboriginal Test",
+		"cure": "Otitis Media Aboriginal Cure"
+	},
+	{
+		"name": "Otitis Media Conductive Hearing Loss",
+		"treatment": "Otitis Media Conductive Hearing Loss Treatment",
+		"diagnosis": "Otitis Media Conductive Hearing Loss Diagnosis",
+		"test": "Otitis Media Conductive Hearing Loss Test",
+		"cure": "Otitis Media Conductive Hearing Loss Cure"
+	},
+	{
+		"name": "Otitis Media Dog",
+		"treatment": "Otitis Media Dog Treatment",
+		"diagnosis": "Otitis Media Dog Diagnosis",
+		"test": "Otitis Media Dog Test",
+		"cure": "Otitis Media Dog Cure"
+	},
+	{
+		"name": "Otitis Media Ear",
+		"treatment": "Otitis Media Ear Treatment",
+		"diagnosis": "Otitis Media Ear Diagnosis",
+		"test": "Otitis Media Ear Test",
+		"cure": "Otitis Media Ear Cure"
+	},
+	{
+		"name": "Otitis Media Eardrum",
+		"treatment": "Otitis Media Eardrum Treatment",
+		"diagnosis": "Otitis Media Eardrum Diagnosis",
+		"test": "Otitis Media Eardrum Test",
+		"cure": "Otitis Media Eardrum Cure"
+	},
+	{
+		"name": "Otitis Media Eustachian Tube",
+		"treatment": "Otitis Media Eustachian Tube Treatment",
+		"diagnosis": "Otitis Media Eustachian Tube Diagnosis",
+		"test": "Otitis Media Eustachian Tube Test",
+		"cure": "Otitis Media Eustachian Tube Cure"
+	},
+	{
+		"name": "Otitis Media Hearing Loss",
+		"treatment": "Otitis Media Hearing Loss Treatment",
+		"diagnosis": "Otitis Media Hearing Loss Diagnosis",
+		"test": "Otitis Media Hearing Loss Test",
+		"cure": "Otitis Media Hearing Loss Cure"
+	},
+	{
+		"name": "Otitis Media Infection",
+		"treatment": "Otitis Media Infection Treatment",
+		"diagnosis": "Otitis Media Infection Diagnosis",
+		"test": "Otitis Media Infection Test",
+		"cure": "Otitis Media Infection Cure"
+	},
+	{
+		"name": "Otitis Media Mastoiditis",
+		"treatment": "Otitis Media Mastoiditis Treatment",
+		"diagnosis": "Otitis Media Mastoiditis Diagnosis",
+		"test": "Otitis Media Mastoiditis Test",
+		"cure": "Otitis Media Mastoiditis Cure"
+	},
+	{
+		"name": "Otitis Media Mayo Clinic",
+		"treatment": "Otitis Media Mayo Clinic Treatment",
+		"diagnosis": "Otitis Media Mayo Clinic Diagnosis",
+		"test": "Otitis Media Mayo Clinic Test",
+		"cure": "Otitis Media Mayo Clinic Cure"
+	},
+	{
+		"name": "Otitis Media Rch",
+		"treatment": "Otitis Media Rch Treatment",
+		"diagnosis": "Otitis Media Rch Diagnosis",
+		"test": "Otitis Media Rch Test",
+		"cure": "Otitis Media Rch Cure"
+	},
+	{
+		"name": "Otitis Media Tinnitus",
+		"treatment": "Otitis Media Tinnitus Treatment",
+		"diagnosis": "Otitis Media Tinnitus Diagnosis",
+		"test": "Otitis Media Tinnitus Test",
+		"cure": "Otitis Media Tinnitus Cure"
+	},
+	{
+		"name": "Otitis Media Tympanic Membrane",
+		"treatment": "Otitis Media Tympanic Membrane Treatment",
+		"diagnosis": "Otitis Media Tympanic Membrane Diagnosis",
+		"test": "Otitis Media Tympanic Membrane Test",
+		"cure": "Otitis Media Tympanic Membrane Cure"
+	},
+	{
+		"name": "Otitis Media Unspecified",
+		"treatment": "Otitis Media Unspecified Treatment",
+		"diagnosis": "Otitis Media Unspecified Diagnosis",
+		"test": "Otitis Media Unspecified Test",
+		"cure": "Otitis Media Unspecified Cure"
+	},
+	{
+		"name": "Otitis Serous",
+		"treatment": "Otitis Serous Treatment",
+		"diagnosis": "Otitis Serous Diagnosis",
+		"test": "Otitis Serous Test",
+		"cure": "Otitis Serous Cure"
+	},
+	{
+		"name": "Otomycosis Ear",
+		"treatment": "Otomycosis Ear Treatment",
+		"diagnosis": "Otomycosis Ear Diagnosis",
+		"test": "Otomycosis Ear Test",
+		"cure": "Otomycosis Ear Cure"
+	},
+	{
+		"name": "Otomycosis Medscape",
+		"treatment": "Otomycosis Medscape Treatment",
+		"diagnosis": "Otomycosis Medscape Diagnosis",
+		"test": "Otomycosis Medscape Test",
+		"cure": "Otomycosis Medscape Cure"
+	},
+	{
+		"name": "Otosclerosis Conductive Hearing Loss",
+		"treatment": "Otosclerosis Conductive Hearing Loss Treatment",
+		"diagnosis": "Otosclerosis Conductive Hearing Loss Diagnosis",
+		"test": "Otosclerosis Conductive Hearing Loss Test",
+		"cure": "Otosclerosis Conductive Hearing Loss Cure"
+	},
+	{
+		"name": "Otosclerosis Hearing Aid",
+		"treatment": "Otosclerosis Hearing Aid Treatment",
+		"diagnosis": "Otosclerosis Hearing Aid Diagnosis",
+		"test": "Otosclerosis Hearing Aid Test",
+		"cure": "Otosclerosis Hearing Aid Cure"
+	},
+	{
+		"name": "Otosclerosis Hearing Loss",
+		"treatment": "Otosclerosis Hearing Loss Treatment",
+		"diagnosis": "Otosclerosis Hearing Loss Diagnosis",
+		"test": "Otosclerosis Hearing Loss Test",
+		"cure": "Otosclerosis Hearing Loss Cure"
+	},
+	{
+		"name": "Otosclerosis Hereditary",
+		"treatment": "Otosclerosis Hereditary Treatment",
+		"diagnosis": "Otosclerosis Hereditary Diagnosis",
+		"test": "Otosclerosis Hereditary Test",
+		"cure": "Otosclerosis Hereditary Cure"
+	},
+	{
+		"name": "Otosclerosis Pregnancy",
+		"treatment": "Otosclerosis Pregnancy Treatment",
+		"diagnosis": "Otosclerosis Pregnancy Diagnosis",
+		"test": "Otosclerosis Pregnancy Test",
+		"cure": "Otosclerosis Pregnancy Cure"
+	},
+	{
+		"name": "Otosclerosis Sensorineural Hearing Loss",
+		"treatment": "Otosclerosis Sensorineural Hearing Loss Treatment",
+		"diagnosis": "Otosclerosis Sensorineural Hearing Loss Diagnosis",
+		"test": "Otosclerosis Sensorineural Hearing Loss Test",
+		"cure": "Otosclerosis Sensorineural Hearing Loss Cure"
+	},
+	{
+		"name": "Otosclerosis Tympanic Membrane",
+		"treatment": "Otosclerosis Tympanic Membrane Treatment",
+		"diagnosis": "Otosclerosis Tympanic Membrane Diagnosis",
+		"test": "Otosclerosis Tympanic Membrane Test",
+		"cure": "Otosclerosis Tympanic Membrane Cure"
+	},
+	{
+		"name": "Otosclerosis Types",
+		"treatment": "Otosclerosis Types Treatment",
+		"diagnosis": "Otosclerosis Types Diagnosis",
+		"test": "Otosclerosis Types Test",
+		"cure": "Otosclerosis Types Cure"
+	},
+	{
+		"name": "Outer Ear Abscess",
+		"treatment": "Outer Ear Abscess Treatment",
+		"diagnosis": "Outer Ear Abscess Diagnosis",
+		"test": "Outer Ear Abscess Test",
+		"cure": "Outer Ear Abscess Cure"
+	},
+	{
+		"name": "Outer Ear Disorder",
+		"treatment": "Outer Ear Disorder Treatment",
+		"diagnosis": "Outer Ear Disorder Diagnosis",
+		"test": "Outer Ear Disorder Test",
+		"cure": "Outer Ear Disorder Cure"
+	},
+	{
+		"name": "Outer Ear Skin Infection",
+		"treatment": "Outer Ear Skin Infection Treatment",
+		"diagnosis": "Outer Ear Skin Infection Diagnosis",
+		"test": "Outer Ear Skin Infection Test",
+		"cure": "Outer Ear Skin Infection Cure"
+	},
+	{
+		"name": "Outer Ear Tumor",
+		"treatment": "Outer Ear Tumor Treatment",
+		"diagnosis": "Outer Ear Tumor Diagnosis",
+		"test": "Outer Ear Tumor Test",
+		"cure": "Outer Ear Tumor Cure"
+	},
+	{
+		"name": "Painful Ear Infection",
+		"treatment": "Painful Ear Infection Treatment",
+		"diagnosis": "Painful Ear Infection Diagnosis",
+		"test": "Painful Ear Infection Test",
+		"cure": "Painful Ear Infection Cure"
+	},
+	{
+		"name": "Painful Throat Infection",
+		"treatment": "Painful Throat Infection Treatment",
+		"diagnosis": "Painful Throat Infection Diagnosis",
+		"test": "Painful Throat Infection Test",
+		"cure": "Painful Throat Infection Cure"
+	},
+	{
+		"name": "Painless Tonsillitis",
+		"treatment": "Painless Tonsillitis Treatment",
+		"diagnosis": "Painless Tonsillitis Diagnosis",
+		"test": "Painless Tonsillitis Test",
+		"cure": "Painless Tonsillitis Cure"
+	},
+	{
+		"name": "Peritonsillar Infections",
+		"treatment": "Peritonsillar Infections Treatment",
+		"diagnosis": "Peritonsillar Infections Diagnosis",
+		"test": "Peritonsillar Infections Test",
+		"cure": "Peritonsillar Infections Cure"
+	},
+	{
+		"name": "Persistent Ear Infection",
+		"treatment": "Persistent Ear Infection Treatment",
+		"diagnosis": "Persistent Ear Infection Diagnosis",
+		"test": "Persistent Ear Infection Test",
+		"cure": "Persistent Ear Infection Cure"
+	},
+	{
+		"name": "Persistent Sore Throat No Fever",
+		"treatment": "Persistent Sore Throat No Fever Treatment",
+		"diagnosis": "Persistent Sore Throat No Fever Diagnosis",
+		"test": "Persistent Sore Throat No Fever Test",
+		"cure": "Persistent Sore Throat No Fever Cure"
+	},
+	{
+		"name": "Pharyngeal Infection",
+		"treatment": "Pharyngeal Infection Treatment",
+		"diagnosis": "Pharyngeal Infection Diagnosis",
+		"test": "Pharyngeal Infection Test",
+		"cure": "Pharyngeal Infection Cure"
+	},
+	{
+		"name": "Pharyngeal Inflammation",
+		"treatment": "Pharyngeal Inflammation Treatment",
+		"diagnosis": "Pharyngeal Inflammation Diagnosis",
+		"test": "Pharyngeal Inflammation Test",
+		"cure": "Pharyngeal Inflammation Cure"
+	},
+	{
+		"name": "Pharyngeal Tonsillitis",
+		"treatment": "Pharyngeal Tonsillitis Treatment",
+		"diagnosis": "Pharyngeal Tonsillitis Diagnosis",
+		"test": "Pharyngeal Tonsillitis Test",
+		"cure": "Pharyngeal Tonsillitis Cure"
+	},
+	{
+		"name": "Pharyngeal Ulcers",
+		"treatment": "Pharyngeal Ulcers Treatment",
+		"diagnosis": "Pharyngeal Ulcers Diagnosis",
+		"test": "Pharyngeal Ulcers Test",
+		"cure": "Pharyngeal Ulcers Cure"
+	},
+	{
+		"name": "Pharyngitis Acute",
+		"treatment": "Pharyngitis Acute Treatment",
+		"diagnosis": "Pharyngitis Acute Diagnosis",
+		"test": "Pharyngitis Acute Test",
+		"cure": "Pharyngitis Acute Cure"
+	},
+	{
+		"name": "Pharyngitis Strep Throat",
+		"treatment": "Pharyngitis Strep Throat Treatment",
+		"diagnosis": "Pharyngitis Strep Throat Diagnosis",
+		"test": "Pharyngitis Strep Throat Test",
+		"cure": "Pharyngitis Strep Throat Cure"
+	},
+	{
+		"name": "Pharyngitis Throat",
+		"treatment": "Pharyngitis Throat Treatment",
+		"diagnosis": "Pharyngitis Throat Diagnosis",
+		"test": "Pharyngitis Throat Test",
+		"cure": "Pharyngitis Throat Cure"
+	},
+	{
+		"name": "Pharynx Disease",
+		"treatment": "Pharynx Disease Treatment",
+		"diagnosis": "Pharynx Disease Diagnosis",
+		"test": "Pharynx Disease Test",
+		"cure": "Pharynx Disease Cure"
+	},
+	{
+		"name": "Pharynx Ulcer",
+		"treatment": "Pharynx Ulcer Treatment",
+		"diagnosis": "Pharynx Ulcer Diagnosis",
+		"test": "Pharynx Ulcer Test",
+		"cure": "Pharynx Ulcer Cure"
+	},
+	{
+		"name": "Pinna Infection",
+		"treatment": "Pinna Infection Treatment",
+		"diagnosis": "Pinna Infection Diagnosis",
+		"test": "Pinna Infection Test",
+		"cure": "Pinna Infection Cure"
+	},
+	{
+		"name": "Polychondritis Ear",
+		"treatment": "Polychondritis Ear Treatment",
+		"diagnosis": "Polychondritis Ear Diagnosis",
+		"test": "Polychondritis Ear Test",
+		"cure": "Polychondritis Ear Cure"
+	},
+	{
+		"name": "Possible Ear Infection",
+		"treatment": "Possible Ear Infection Treatment",
+		"diagnosis": "Possible Ear Infection Diagnosis",
+		"test": "Possible Ear Infection Test",
+		"cure": "Possible Ear Infection Cure"
+	},
+	{
+		"name": "Postnasal Drip Syndrome",
+		"treatment": "Postnasal Drip Syndrome Treatment",
+		"diagnosis": "Postnasal Drip Syndrome Diagnosis",
+		"test": "Postnasal Drip Syndrome Test",
+		"cure": "Postnasal Drip Syndrome Cure"
+	},
+	{
+		"name": "Preauricular Fistula",
+		"treatment": "Preauricular Fistula Treatment",
+		"diagnosis": "Preauricular Fistula Diagnosis",
+		"test": "Preauricular Fistula Test",
+		"cure": "Preauricular Fistula Cure"
+	},
+	{
+		"name": "Preauricular Infection",
+		"treatment": "Preauricular Infection Treatment",
+		"diagnosis": "Preauricular Infection Diagnosis",
+		"test": "Preauricular Infection Test",
+		"cure": "Preauricular Infection Cure"
+	},
+	{
+		"name": "Preauricular Sinus Infection",
+		"treatment": "Preauricular Sinus Infection Treatment",
+		"diagnosis": "Preauricular Sinus Infection Diagnosis",
+		"test": "Preauricular Sinus Infection Test",
+		"cure": "Preauricular Sinus Infection Cure"
+	},
+	{
+		"name": "Preventing Strep Throat",
+		"treatment": "Preventing Strep Throat Treatment",
+		"diagnosis": "Preventing Strep Throat Diagnosis",
+		"test": "Preventing Strep Throat Test",
+		"cure": "Preventing Strep Throat Cure"
+	},
+	{
+		"name": "Preventing Tonsillitis",
+		"treatment": "Preventing Tonsillitis Treatment",
+		"diagnosis": "Preventing Tonsillitis Diagnosis",
+		"test": "Preventing Tonsillitis Test",
+		"cure": "Preventing Tonsillitis Cure"
+	},
+	{
+		"name": "Pseudomonas Aeruginosa Ear Infection",
+		"treatment": "Pseudomonas Aeruginosa Ear Infection Treatment",
+		"diagnosis": "Pseudomonas Aeruginosa Ear Infection Diagnosis",
+		"test": "Pseudomonas Aeruginosa Ear Infection Test",
+		"cure": "Pseudomonas Aeruginosa Ear Infection Cure"
+	},
+	{
+		"name": "Pseudomonas Ear Infection",
+		"treatment": "Pseudomonas Ear Infection Treatment",
+		"diagnosis": "Pseudomonas Ear Infection Diagnosis",
+		"test": "Pseudomonas Ear Infection Test",
+		"cure": "Pseudomonas Ear Infection Cure"
+	},
+	{
+		"name": "Pseudomonas Ear Infection Dog",
+		"treatment": "Pseudomonas Ear Infection Dog Treatment",
+		"diagnosis": "Pseudomonas Ear Infection Dog Diagnosis",
+		"test": "Pseudomonas Ear Infection Dog Test",
+		"cure": "Pseudomonas Ear Infection Dog Cure"
+	},
+	{
+		"name": "Pseudomonas Otitis",
+		"treatment": "Pseudomonas Otitis Treatment",
+		"diagnosis": "Pseudomonas Otitis Diagnosis",
+		"test": "Pseudomonas Otitis Test",
+		"cure": "Pseudomonas Otitis Cure"
+	},
+	{
+		"name": "Pulsatile Tinnitus Ear Infection",
+		"treatment": "Pulsatile Tinnitus Ear Infection Treatment",
+		"diagnosis": "Pulsatile Tinnitus Ear Infection Diagnosis",
+		"test": "Pulsatile Tinnitus Ear Infection Test",
+		"cure": "Pulsatile Tinnitus Ear Infection Cure"
+	},
+	{
+		"name": "Pulsatile Tinnitus High Blood Pressure",
+		"treatment": "Pulsatile Tinnitus High Blood Pressure Treatment",
+		"diagnosis": "Pulsatile Tinnitus High Blood Pressure Diagnosis",
+		"test": "Pulsatile Tinnitus High Blood Pressure Test",
+		"cure": "Pulsatile Tinnitus High Blood Pressure Cure"
+	},
+	{
+		"name": "Quinces Throat Infection",
+		"treatment": "Quinces Throat Infection Treatment",
+		"diagnosis": "Quinces Throat Infection Diagnosis",
+		"test": "Quinces Throat Infection Test",
+		"cure": "Quinces Throat Infection Cure"
+	},
+	{
+		"name": "Quincy Throat Infection",
+		"treatment": "Quincy Throat Infection Treatment",
+		"diagnosis": "Quincy Throat Infection Diagnosis",
+		"test": "Quincy Throat Infection Test",
+		"cure": "Quincy Throat Infection Cure"
+	},
+	{
+		"name": "Quincy Tonsillitis",
+		"treatment": "Quincy Tonsillitis Treatment",
+		"diagnosis": "Quincy Tonsillitis Diagnosis",
+		"test": "Quincy Tonsillitis Test",
+		"cure": "Quincy Tonsillitis Cure"
+	},
+	{
+		"name": "Quinsy Sore Throat",
+		"treatment": "Quinsy Sore Throat Treatment",
+		"diagnosis": "Quinsy Sore Throat Diagnosis",
+		"test": "Quinsy Sore Throat Test",
+		"cure": "Quinsy Sore Throat Cure"
+	},
+	{
+		"name": "Quinsy Throat",
+		"treatment": "Quinsy Throat Treatment",
+		"diagnosis": "Quinsy Throat Diagnosis",
+		"test": "Quinsy Throat Test",
+		"cure": "Quinsy Throat Cure"
+	},
+	{
+		"name": "Quinsy Throat Infection",
+		"treatment": "Quinsy Throat Infection Treatment",
+		"diagnosis": "Quinsy Throat Infection Diagnosis",
+		"test": "Quinsy Throat Infection Test",
+		"cure": "Quinsy Throat Infection Cure"
+	},
+	{
+		"name": "Quinsy Tonsils",
+		"treatment": "Quinsy Tonsils Treatment",
+		"diagnosis": "Quinsy Tonsils Diagnosis",
+		"test": "Quinsy Tonsils Test",
+		"cure": "Quinsy Tonsils Cure"
+	},
+	{
+		"name": "Ramsay Hunt Auricular Syndrome",
+		"treatment": "Ramsay Hunt Auricular Syndrome Treatment",
+		"diagnosis": "Ramsay Hunt Auricular Syndrome Diagnosis",
+		"test": "Ramsay Hunt Auricular Syndrome Test",
+		"cure": "Ramsay Hunt Auricular Syndrome Cure"
+	},
+	{
+		"name": "Ramsay Hunt Disease",
+		"treatment": "Ramsay Hunt Disease Treatment",
+		"diagnosis": "Ramsay Hunt Disease Diagnosis",
+		"test": "Ramsay Hunt Disease Test",
+		"cure": "Ramsay Hunt Disease Cure"
+	},
+	{
+		"name": "Ramsay Hunt Shingles",
+		"treatment": "Ramsay Hunt Shingles Treatment",
+		"diagnosis": "Ramsay Hunt Shingles Diagnosis",
+		"test": "Ramsay Hunt Shingles Test",
+		"cure": "Ramsay Hunt Shingles Cure"
+	},
+	{
+		"name": "Ramsay Hunt Syndrome Contagious",
+		"treatment": "Ramsay Hunt Syndrome Contagious Treatment",
+		"diagnosis": "Ramsay Hunt Syndrome Contagious Diagnosis",
+		"test": "Ramsay Hunt Syndrome Contagious Test",
+		"cure": "Ramsay Hunt Syndrome Contagious Cure"
+	},
+	{
+		"name": "Ramsay Hunt Syndrome Ear",
+		"treatment": "Ramsay Hunt Syndrome Ear Treatment",
+		"diagnosis": "Ramsay Hunt Syndrome Ear Diagnosis",
+		"test": "Ramsay Hunt Syndrome Ear Test",
+		"cure": "Ramsay Hunt Syndrome Ear Cure"
+	},
+	{
+		"name": "Ramsay Hunt Syndrome NHS",
+		"treatment": "Ramsay Hunt Syndrome NHS Treatment",
+		"diagnosis": "Ramsay Hunt Syndrome NHS Diagnosis",
+		"test": "Ramsay Hunt Syndrome NHS Test",
+		"cure": "Ramsay Hunt Syndrome NHS Cure"
+	},
+	{
+		"name": "Ramsay Hunt Syndrome Shingles",
+		"treatment": "Ramsay Hunt Syndrome Shingles Treatment",
+		"diagnosis": "Ramsay Hunt Syndrome Shingles Diagnosis",
+		"test": "Ramsay Hunt Syndrome Shingles Test",
+		"cure": "Ramsay Hunt Syndrome Shingles Cure"
+	},
+	{
+		"name": "Ramsay Hunt Syndrome Type 1",
+		"treatment": "Ramsay Hunt Syndrome Type 1 Treatment",
+		"diagnosis": "Ramsay Hunt Syndrome Type 1 Diagnosis",
+		"test": "Ramsay Hunt Syndrome Type 1 Test",
+		"cure": "Ramsay Hunt Syndrome Type 1 Cure"
+	},
+	{
+		"name": "Ramsay Hunt Syndrome Type 2",
+		"treatment": "Ramsay Hunt Syndrome Type 2 Treatment",
+		"diagnosis": "Ramsay Hunt Syndrome Type 2 Diagnosis",
+		"test": "Ramsay Hunt Syndrome Type 2 Test",
+		"cure": "Ramsay Hunt Syndrome Type 2 Cure"
+	},
+	{
+		"name": "Ramsay Hunt Syndrome Type 3",
+		"treatment": "Ramsay Hunt Syndrome Type 3 Treatment",
+		"diagnosis": "Ramsay Hunt Syndrome Type 3 Diagnosis",
+		"test": "Ramsay Hunt Syndrome Type 3 Test",
+		"cure": "Ramsay Hunt Syndrome Type 3 Cure"
+	},
+	{
+		"name": "Rare Throat Disease",
+		"treatment": "Rare Throat Disease Treatment",
+		"diagnosis": "Rare Throat Disease Diagnosis",
+		"test": "Rare Throat Disease Test",
+		"cure": "Rare Throat Disease Cure"
+	},
+	{
+		"name": "Rat Ear Infection",
+		"treatment": "Rat Ear Infection Treatment",
+		"diagnosis": "Rat Ear Infection Diagnosis",
+		"test": "Rat Ear Infection Test",
+		"cure": "Rat Ear Infection Cure"
+	},
+	{
+		"name": "Recurrent Acute Otitis Media",
+		"treatment": "Recurrent Acute Otitis Media Treatment",
+		"diagnosis": "Recurrent Acute Otitis Media Diagnosis",
+		"test": "Recurrent Acute Otitis Media Test",
+		"cure": "Recurrent Acute Otitis Media Cure"
+	},
+	{
+		"name": "Recurrent Ear Infection",
+		"treatment": "Recurrent Ear Infection Treatment",
+		"diagnosis": "Recurrent Ear Infection Diagnosis",
+		"test": "Recurrent Ear Infection Test",
+		"cure": "Recurrent Ear Infection Cure"
+	},
+	{
+		"name": "Recurrent Otitis Externa",
+		"treatment": "Recurrent Otitis Externa Treatment",
+		"diagnosis": "Recurrent Otitis Externa Diagnosis",
+		"test": "Recurrent Otitis Externa Test",
+		"cure": "Recurrent Otitis Externa Cure"
+	},
+	{
+		"name": "Recurrent Otitis Media",
+		"treatment": "Recurrent Otitis Media Treatment",
+		"diagnosis": "Recurrent Otitis Media Diagnosis",
+		"test": "Recurrent Otitis Media Test",
+		"cure": "Recurrent Otitis Media Cure"
+	},
+	{
+		"name": "Recurrent Pharyngitis",
+		"treatment": "Recurrent Pharyngitis Treatment",
+		"diagnosis": "Recurrent Pharyngitis Diagnosis",
+		"test": "Recurrent Pharyngitis Test",
+		"cure": "Recurrent Pharyngitis Cure"
+	},
+	{
+		"name": "Recurrent Throat Infection",
+		"treatment": "Recurrent Throat Infection Treatment",
+		"diagnosis": "Recurrent Throat Infection Diagnosis",
+		"test": "Recurrent Throat Infection Test",
+		"cure": "Recurrent Throat Infection Cure"
+	},
+	{
+		"name": "Recurring Strep Throat",
+		"treatment": "Recurring Strep Throat Treatment",
+		"diagnosis": "Recurring Strep Throat Diagnosis",
+		"test": "Recurring Strep Throat Test",
+		"cure": "Recurring Strep Throat Cure"
+	},
+	{
+		"name": "Red Ear Syndrome",
+		"treatment": "Red Ear Syndrome Treatment",
+		"diagnosis": "Red Ear Syndrome Diagnosis",
+		"test": "Red Ear Syndrome Test",
+		"cure": "Red Ear Syndrome Cure"
+	},
+	{
+		"name": "Red Ear Syndrome Lupus",
+		"treatment": "Red Ear Syndrome Lupus Treatment",
+		"diagnosis": "Red Ear Syndrome Lupus Diagnosis",
+		"test": "Red Ear Syndrome Lupus Test",
+		"cure": "Red Ear Syndrome Lupus Cure"
+	},
+	{
+		"name": "Red Ear Syndrome NHS",
+		"treatment": "Red Ear Syndrome NHS Treatment",
+		"diagnosis": "Red Ear Syndrome NHS Diagnosis",
+		"test": "Red Ear Syndrome NHS Test",
+		"cure": "Red Ear Syndrome NHS Cure"
+	},
+	{
+		"name": "Red Ears High Blood Pressure",
+		"treatment": "Red Ears High Blood Pressure Treatment",
+		"diagnosis": "Red Ears High Blood Pressure Diagnosis",
+		"test": "Red Ears High Blood Pressure Test",
+		"cure": "Red Ears High Blood Pressure Cure"
+	},
+	{
+		"name": "Red Throat Infection",
+		"treatment": "Red Throat Infection Treatment",
+		"diagnosis": "Red Throat Infection Diagnosis",
+		"test": "Red Throat Infection Test",
+		"cure": "Red Throat Infection Cure"
+	},
+	{
+		"name": "Reddit Ear Infection",
+		"treatment": "Reddit Ear Infection Treatment",
+		"diagnosis": "Reddit Ear Infection Diagnosis",
+		"test": "Reddit Ear Infection Test",
+		"cure": "Reddit Ear Infection Cure"
+	},
+	{
+		"name": "Reddit Strep Throat",
+		"treatment": "Reddit Strep Throat Treatment",
+		"diagnosis": "Reddit Strep Throat Diagnosis",
+		"test": "Reddit Strep Throat Test",
+		"cure": "Reddit Strep Throat Cure"
+	},
+	{
+		"name": "Reflux Laryngitis NHS",
+		"treatment": "Reflux Laryngitis NHS Treatment",
+		"diagnosis": "Reflux Laryngitis NHS Diagnosis",
+		"test": "Reflux Laryngitis NHS Test",
+		"cure": "Reflux Laryngitis NHS Cure"
+	},
+	{
+		"name": "Relapsing Polychondritis Ear",
+		"treatment": "Relapsing Polychondritis Ear Treatment",
+		"diagnosis": "Relapsing Polychondritis Ear Diagnosis",
+		"test": "Relapsing Polychondritis Ear Test",
+		"cure": "Relapsing Polychondritis Ear Cure"
+	},
+	{
+		"name": "Repeated Strep Throat",
+		"treatment": "Repeated Strep Throat Treatment",
+		"diagnosis": "Repeated Strep Throat Diagnosis",
+		"test": "Repeated Strep Throat Test",
+		"cure": "Repeated Strep Throat Cure"
+	},
+	{
+		"name": "Repeated Throat Infections",
+		"treatment": "Repeated Throat Infections Treatment",
+		"diagnosis": "Repeated Throat Infections Diagnosis",
+		"test": "Repeated Throat Infections Test",
+		"cure": "Repeated Throat Infections Cure"
+	},
+	{
+		"name": "Right Ear Infection",
+		"treatment": "Right Ear Infection Treatment",
+		"diagnosis": "Right Ear Infection Diagnosis",
+		"test": "Right Ear Infection Test",
+		"cure": "Right Ear Infection Cure"
+	},
+	{
+		"name": "Right Otitis Externa",
+		"treatment": "Right Otitis Externa Treatment",
+		"diagnosis": "Right Otitis Externa Diagnosis",
+		"test": "Right Otitis Externa Test",
+		"cure": "Right Otitis Externa Cure"
+	},
+	{
+		"name": "Right Otitis Media",
+		"treatment": "Right Otitis Media Treatment",
+		"diagnosis": "Right Otitis Media Diagnosis",
+		"test": "Right Otitis Media Test",
+		"cure": "Right Otitis Media Cure"
+	},
+	{
+		"name": "Roseola Ear Infection",
+		"treatment": "Roseola Ear Infection Treatment",
+		"diagnosis": "Roseola Ear Infection Diagnosis",
+		"test": "Roseola Ear Infection Test",
+		"cure": "Roseola Ear Infection Cure"
+	},
+	{
+		"name": "Rsv Ear Infection",
+		"treatment": "Rsv Ear Infection Treatment",
+		"diagnosis": "Rsv Ear Infection Diagnosis",
+		"test": "Rsv Ear Infection Test",
+		"cure": "Rsv Ear Infection Cure"
+	},
+	{
+		"name": "Seborrheic Dermatitis Ear Canal",
+		"treatment": "Seborrheic Dermatitis Ear Canal Treatment",
+		"diagnosis": "Seborrheic Dermatitis Ear Canal Diagnosis",
+		"test": "Seborrheic Dermatitis Ear Canal Test",
+		"cure": "Seborrheic Dermatitis Ear Canal Cure"
+	},
+	{
+		"name": "Seborrheic Otitis Externa",
+		"treatment": "Seborrheic Otitis Externa Treatment",
+		"diagnosis": "Seborrheic Otitis Externa Diagnosis",
+		"test": "Seborrheic Otitis Externa Test",
+		"cure": "Seborrheic Otitis Externa Cure"
+	},
+	{
+		"name": "Secondary Ear Infection",
+		"treatment": "Secondary Ear Infection Treatment",
+		"diagnosis": "Secondary Ear Infection Diagnosis",
+		"test": "Secondary Ear Infection Test",
+		"cure": "Secondary Ear Infection Cure"
+	},
+	{
+		"name": "Sensorineural Hearing",
+		"treatment": "Sensorineural Hearing Treatment",
+		"diagnosis": "Sensorineural Hearing Diagnosis",
+		"test": "Sensorineural Hearing Test",
+		"cure": "Sensorineural Hearing Cure"
+	},
+	{
+		"name": "Sensorineural Hearing Loss",
+		"treatment": "Sensorineural Hearing Loss Treatment",
+		"diagnosis": "Sensorineural Hearing Loss Diagnosis",
+		"test": "Sensorineural Hearing Loss Test",
+		"cure": "Sensorineural Hearing Loss Cure"
+	},
+	{
+		"name": "Sensorineural Hearing Loss Tinnitus",
+		"treatment": "Sensorineural Hearing Loss Tinnitus Treatment",
+		"diagnosis": "Sensorineural Hearing Loss Tinnitus Diagnosis",
+		"test": "Sensorineural Hearing Loss Tinnitus Test",
+		"cure": "Sensorineural Hearing Loss Tinnitus Cure"
+	},
+	{
+		"name": "Serious Ear Infection",
+		"treatment": "Serious Ear Infection Treatment",
+		"diagnosis": "Serious Ear Infection Diagnosis",
+		"test": "Serious Ear Infection Test",
+		"cure": "Serious Ear Infection Cure"
+	},
+	{
+		"name": "Serious Throat Infection",
+		"treatment": "Serious Throat Infection Treatment",
+		"diagnosis": "Serious Throat Infection Diagnosis",
+		"test": "Serious Throat Infection Test",
+		"cure": "Serious Throat Infection Cure"
+	},
+	{
+		"name": "Serous Otitis Media",
+		"treatment": "Serous Otitis Media Treatment",
+		"diagnosis": "Serous Otitis Media Diagnosis",
+		"test": "Serous Otitis Media Test",
+		"cure": "Serous Otitis Media Cure"
+	},
+	{
+		"name": "Severe Ear Infection",
+		"treatment": "Severe Ear Infection Treatment",
+		"diagnosis": "Severe Ear Infection Diagnosis",
+		"test": "Severe Ear Infection Test",
+		"cure": "Severe Ear Infection Cure"
+	},
+	{
+		"name": "Severe Inner Ear Infection",
+		"treatment": "Severe Inner Ear Infection Treatment",
+		"diagnosis": "Severe Inner Ear Infection Diagnosis",
+		"test": "Severe Inner Ear Infection Test",
+		"cure": "Severe Inner Ear Infection Cure"
+	},
+	{
+		"name": "Severe Otitis Externa",
+		"treatment": "Severe Otitis Externa Treatment",
+		"diagnosis": "Severe Otitis Externa Diagnosis",
+		"test": "Severe Otitis Externa Test",
+		"cure": "Severe Otitis Externa Cure"
+	},
+	{
+		"name": "Severe Otitis Media",
+		"treatment": "Severe Otitis Media Treatment",
+		"diagnosis": "Severe Otitis Media Diagnosis",
+		"test": "Severe Otitis Media Test",
+		"cure": "Severe Otitis Media Cure"
+	},
+	{
+		"name": "Severe Sensorineural Hearing Loss",
+		"treatment": "Severe Sensorineural Hearing Loss Treatment",
+		"diagnosis": "Severe Sensorineural Hearing Loss Diagnosis",
+		"test": "Severe Sensorineural Hearing Loss Test",
+		"cure": "Severe Sensorineural Hearing Loss Cure"
+	},
+	{
+		"name": "Severe Strep Throat",
+		"treatment": "Severe Strep Throat Treatment",
+		"diagnosis": "Severe Strep Throat Diagnosis",
+		"test": "Severe Strep Throat Test",
+		"cure": "Severe Strep Throat Cure"
+	},
+	{
+		"name": "Severe Tonsillitis",
+		"treatment": "Severe Tonsillitis Treatment",
+		"diagnosis": "Severe Tonsillitis Diagnosis",
+		"test": "Severe Tonsillitis Test",
+		"cure": "Severe Tonsillitis Cure"
+	},
+	{
+		"name": "Shingles Behind Ear",
+		"treatment": "Shingles Behind Ear Treatment",
+		"diagnosis": "Shingles Behind Ear Diagnosis",
+		"test": "Shingles Behind Ear Test",
+		"cure": "Shingles Behind Ear Cure"
+	},
+	{
+		"name": "Shingles Inside Ear",
+		"treatment": "Shingles Inside Ear Treatment",
+		"diagnosis": "Shingles Inside Ear Diagnosis",
+		"test": "Shingles Inside Ear Test",
+		"cure": "Shingles Inside Ear Cure"
+	},
+	{
+		"name": "Silent Reflux Sinusitis",
+		"treatment": "Silent Reflux Sinusitis Treatment",
+		"diagnosis": "Silent Reflux Sinusitis Diagnosis",
+		"test": "Silent Reflux Sinusitis Test",
+		"cure": "Silent Reflux Sinusitis Cure"
+	},
+	{
+		"name": "Sore Red Throat No Fever",
+		"treatment": "Sore Red Throat No Fever Treatment",
+		"diagnosis": "Sore Red Throat No Fever Diagnosis",
+		"test": "Sore Red Throat No Fever Test",
+		"cure": "Sore Red Throat No Fever Cure"
+	},
+	{
+		"name": "Sore Throat After Fever",
+		"treatment": "Sore Throat After Fever Treatment",
+		"diagnosis": "Sore Throat After Fever Diagnosis",
+		"test": "Sore Throat After Fever Test",
+		"cure": "Sore Throat After Fever Cure"
+	},
+	{
+		"name": "Sore Throat Disease",
+		"treatment": "Sore Throat Disease Treatment",
+		"diagnosis": "Sore Throat Disease Diagnosis",
+		"test": "Sore Throat Disease Test",
+		"cure": "Sore Throat Disease Cure"
+	},
+	{
+		"name": "Sore Throat Ear Pain No Fever",
+		"treatment": "Sore Throat Ear Pain No Fever Treatment",
+		"diagnosis": "Sore Throat Ear Pain No Fever Diagnosis",
+		"test": "Sore Throat Ear Pain No Fever Test",
+		"cure": "Sore Throat Ear Pain No Fever Cure"
+	},
+	{
+		"name": "Sore Throat Fever Vomiting",
+		"treatment": "Sore Throat Fever Vomiting Treatment",
+		"diagnosis": "Sore Throat Fever Vomiting Diagnosis",
+		"test": "Sore Throat Fever Vomiting Test",
+		"cure": "Sore Throat Fever Vomiting Cure"
+	},
+	{
+		"name": "Sore Throat High Fever",
+		"treatment": "Sore Throat High Fever Treatment",
+		"diagnosis": "Sore Throat High Fever Diagnosis",
+		"test": "Sore Throat High Fever Test",
+		"cure": "Sore Throat High Fever Cure"
+	},
+	{
+		"name": "Sore Throat Illness",
+		"treatment": "Sore Throat Illness Treatment",
+		"diagnosis": "Sore Throat Illness Diagnosis",
+		"test": "Sore Throat Illness Test",
+		"cure": "Sore Throat Illness Cure"
+	},
+	{
+		"name": "Sore Throat Infection",
+		"treatment": "Sore Throat Infection Treatment",
+		"diagnosis": "Sore Throat Infection Diagnosis",
+		"test": "Sore Throat Infection Test",
+		"cure": "Sore Throat Infection Cure"
+	},
+	{
+		"name": "Sore Throat Inflammation",
+		"treatment": "Sore Throat Inflammation Treatment",
+		"diagnosis": "Sore Throat Inflammation Diagnosis",
+		"test": "Sore Throat Inflammation Test",
+		"cure": "Sore Throat Inflammation Cure"
+	},
+	{
+		"name": "Sore Throat Joint Pain No Fever",
+		"treatment": "Sore Throat Joint Pain No Fever Treatment",
+		"diagnosis": "Sore Throat Joint Pain No Fever Diagnosis",
+		"test": "Sore Throat Joint Pain No Fever Test",
+		"cure": "Sore Throat Joint Pain No Fever Cure"
+	},
+	{
+		"name": "Sore Throat No Voice No Fever",
+		"treatment": "Sore Throat No Voice No Fever Treatment",
+		"diagnosis": "Sore Throat No Voice No Fever Diagnosis",
+		"test": "Sore Throat No Voice No Fever Test",
+		"cure": "Sore Throat No Voice No Fever Cure"
+	},
+	{
+		"name": "Sore Throat Pharyngitis",
+		"treatment": "Sore Throat Pharyngitis Treatment",
+		"diagnosis": "Sore Throat Pharyngitis Diagnosis",
+		"test": "Sore Throat Pharyngitis Test",
+		"cure": "Sore Throat Pharyngitis Cure"
+	},
+	{
+		"name": "Sore Throat Sickness",
+		"treatment": "Sore Throat Sickness Treatment",
+		"diagnosis": "Sore Throat Sickness Diagnosis",
+		"test": "Sore Throat Sickness Test",
+		"cure": "Sore Throat Sickness Cure"
+	},
+	{
+		"name": "Sore Throat Ulcers",
+		"treatment": "Sore Throat Ulcers Treatment",
+		"diagnosis": "Sore Throat Ulcers Diagnosis",
+		"test": "Sore Throat Ulcers Test",
+		"cure": "Sore Throat Ulcers Cure"
+	},
+	{
+		"name": "Sore Throat Upset Stomach No Fever",
+		"treatment": "Sore Throat Upset Stomach No Fever Treatment",
+		"diagnosis": "Sore Throat Upset Stomach No Fever Diagnosis",
+		"test": "Sore Throat Upset Stomach No Fever Test",
+		"cure": "Sore Throat Upset Stomach No Fever Cure"
+	},
+	{
+		"name": "Staph Infection Behind Ear",
+		"treatment": "Staph Infection Behind Ear Treatment",
+		"diagnosis": "Staph Infection Behind Ear Diagnosis",
+		"test": "Staph Infection Behind Ear Test",
+		"cure": "Staph Infection Behind Ear Cure"
+	},
+	{
+		"name": "Staphylococcus Aureus Ear Infection",
+		"treatment": "Staphylococcus Aureus Ear Infection Treatment",
+		"diagnosis": "Staphylococcus Aureus Ear Infection Diagnosis",
+		"test": "Staphylococcus Aureus Ear Infection Test",
+		"cure": "Staphylococcus Aureus Ear Infection Cure"
+	},
+	{
+		"name": "Stenosis Ear",
+		"treatment": "Stenosis Ear Treatment",
+		"diagnosis": "Stenosis Ear Diagnosis",
+		"test": "Stenosis Ear Test",
+		"cure": "Stenosis Ear Cure"
+	},
+	{
+		"name": "Stiff Neck Sore Throat Headache Fatigue No Fever",
+		"treatment": "Stiff Neck Sore Throat Headache Fatigue No Fever Treatment",
+		"diagnosis": "Stiff Neck Sore Throat Headache Fatigue No Fever Diagnosis",
+		"test": "Stiff Neck Sore Throat Headache Fatigue No Fever Test",
+		"cure": "Stiff Neck Sore Throat Headache Fatigue No Fever Cure"
+	},
+	{
+		"name": "Strep Ear Infection",
+		"treatment": "Strep Ear Infection Treatment",
+		"diagnosis": "Strep Ear Infection Diagnosis",
+		"test": "Strep Ear Infection Test",
+		"cure": "Strep Ear Infection Cure"
+	},
+	{
+		"name": "Strep Pharyngitis",
+		"treatment": "Strep Pharyngitis Treatment",
+		"diagnosis": "Strep Pharyngitis Diagnosis",
+		"test": "Strep Pharyngitis Test",
+		"cure": "Strep Pharyngitis Cure"
+	},
+	{
+		"name": "Strep Throat",
+		"treatment": "Strep Throat Treatment",
+		"diagnosis": "Strep Throat Diagnosis",
+		"test": "Strep Throat Test",
+		"cure": "Strep Throat Cure"
+	},
+	{
+		"name": "Strep Throat Abdominal Pain",
+		"treatment": "Strep Throat Abdominal Pain Treatment",
+		"diagnosis": "Strep Throat Abdominal Pain Diagnosis",
+		"test": "Strep Throat Abdominal Pain Test",
+		"cure": "Strep Throat Abdominal Pain Cure"
+	},
+	{
+		"name": "Strep Throat Abdominal Pain Adults",
+		"treatment": "Strep Throat Abdominal Pain Adults Treatment",
+		"diagnosis": "Strep Throat Abdominal Pain Adults Diagnosis",
+		"test": "Strep Throat Abdominal Pain Adults Test",
+		"cure": "Strep Throat Abdominal Pain Adults Cure"
+	},
+	{
+		"name": "Strep Throat Abscess",
+		"treatment": "Strep Throat Abscess Treatment",
+		"diagnosis": "Strep Throat Abscess Diagnosis",
+		"test": "Strep Throat Abscess Test",
+		"cure": "Strep Throat Abscess Cure"
+	},
+	{
+		"name": "Strep Throat Bacteria",
+		"treatment": "Strep Throat Bacteria Treatment",
+		"diagnosis": "Strep Throat Bacteria Diagnosis",
+		"test": "Strep Throat Bacteria Test",
+		"cure": "Strep Throat Bacteria Cure"
+	},
+	{
+		"name": "Strep Throat Chest Pain",
+		"treatment": "Strep Throat Chest Pain Treatment",
+		"diagnosis": "Strep Throat Chest Pain Diagnosis",
+		"test": "Strep Throat Chest Pain Test",
+		"cure": "Strep Throat Chest Pain Cure"
+	},
+	{
+		"name": "Strep Throat Contagious",
+		"treatment": "Strep Throat Contagious Treatment",
+		"diagnosis": "Strep Throat Contagious Diagnosis",
+		"test": "Strep Throat Contagious Test",
+		"cure": "Strep Throat Contagious Cure"
+	},
+	{
+		"name": "Strep Throat Cough",
+		"treatment": "Strep Throat Cough Treatment",
+		"diagnosis": "Strep Throat Cough Diagnosis",
+		"test": "Strep Throat Cough Test",
+		"cure": "Strep Throat Cough Cure"
+	},
+	{
+		"name": "Strep Throat Dangerous",
+		"treatment": "Strep Throat Dangerous Treatment",
+		"diagnosis": "Strep Throat Dangerous Diagnosis",
+		"test": "Strep Throat Dangerous Test",
+		"cure": "Strep Throat Dangerous Cure"
+	},
+	{
+		"name": "Strep Throat Fatigue",
+		"treatment": "Strep Throat Fatigue Treatment",
+		"diagnosis": "Strep Throat Fatigue Diagnosis",
+		"test": "Strep Throat Fatigue Test",
+		"cure": "Strep Throat Fatigue Cure"
+	},
+	{
+		"name": "Strep Throat Fever",
+		"treatment": "Strep Throat Fever Treatment",
+		"diagnosis": "Strep Throat Fever Diagnosis",
+		"test": "Strep Throat Fever Test",
+		"cure": "Strep Throat Fever Cure"
+	},
+	{
+		"name": "Strep Throat Headache",
+		"treatment": "Strep Throat Headache Treatment",
+		"diagnosis": "Strep Throat Headache Diagnosis",
+		"test": "Strep Throat Headache Test",
+		"cure": "Strep Throat Headache Cure"
+	},
+	{
+		"name": "Strep Throat High Fever",
+		"treatment": "Strep Throat High Fever Treatment",
+		"diagnosis": "Strep Throat High Fever Diagnosis",
+		"test": "Strep Throat High Fever Test",
+		"cure": "Strep Throat High Fever Cure"
+	},
+	{
+		"name": "Strep Throat Hoarse Voice",
+		"treatment": "Strep Throat Hoarse Voice Treatment",
+		"diagnosis": "Strep Throat Hoarse Voice Diagnosis",
+		"test": "Strep Throat Hoarse Voice Test",
+		"cure": "Strep Throat Hoarse Voice Cure"
+	},
+	{
+		"name": "Strep Throat Infection",
+		"treatment": "Strep Throat Infection Treatment",
+		"diagnosis": "Strep Throat Infection Diagnosis",
+		"test": "Strep Throat Infection Test",
+		"cure": "Strep Throat Infection Cure"
+	},
+	{
+		"name": "Strep Throat Last",
+		"treatment": "Strep Throat Last Treatment",
+		"diagnosis": "Strep Throat Last Diagnosis",
+		"test": "Strep Throat Last Test",
+		"cure": "Strep Throat Last Cure"
+	},
+	{
+		"name": "Strep Throat Left Untreated",
+		"treatment": "Strep Throat Left Untreated Treatment",
+		"diagnosis": "Strep Throat Left Untreated Diagnosis",
+		"test": "Strep Throat Left Untreated Test",
+		"cure": "Strep Throat Left Untreated Cure"
+	},
+	{
+		"name": "Strep Throat Look",
+		"treatment": "Strep Throat Look Treatment",
+		"diagnosis": "Strep Throat Look Diagnosis",
+		"test": "Strep Throat Look Test",
+		"cure": "Strep Throat Look Cure"
+	},
+	{
+		"name": "Strep Throat Look Like",
+		"treatment": "Strep Throat Look Like Treatment",
+		"diagnosis": "Strep Throat Look Like Diagnosis",
+		"test": "Strep Throat Look Like Test",
+		"cure": "Strep Throat Look Like Cure"
+	},
+	{
+		"name": "Strep Throat Lost Voice",
+		"treatment": "Strep Throat Lost Voice Treatment",
+		"diagnosis": "Strep Throat Lost Voice Diagnosis",
+		"test": "Strep Throat Lost Voice Test",
+		"cure": "Strep Throat Lost Voice Cure"
+	},
+	{
+		"name": "Strep Throat Mayo Clinic",
+		"treatment": "Strep Throat Mayo Clinic Treatment",
+		"diagnosis": "Strep Throat Mayo Clinic Diagnosis",
+		"test": "Strep Throat Mayo Clinic Test",
+		"cure": "Strep Throat Mayo Clinic Cure"
+	},
+	{
+		"name": "Strep Throat Mild",
+		"treatment": "Strep Throat Mild Treatment",
+		"diagnosis": "Strep Throat Mild Diagnosis",
+		"test": "Strep Throat Mild Test",
+		"cure": "Strep Throat Mild Cure"
+	},
+	{
+		"name": "Strep Throat Mouth",
+		"treatment": "Strep Throat Mouth Treatment",
+		"diagnosis": "Strep Throat Mouth Diagnosis",
+		"test": "Strep Throat Mouth Test",
+		"cure": "Strep Throat Mouth Cure"
+	},
+	{
+		"name": "Strep Throat NHS",
+		"treatment": "Strep Throat NHS Treatment",
+		"diagnosis": "Strep Throat NHS Diagnosis",
+		"test": "Strep Throat NHS Test",
+		"cure": "Strep Throat NHS Cure"
+	},
+	{
+		"name": "Strep Throat No Pain",
+		"treatment": "Strep Throat No Pain Treatment",
+		"diagnosis": "Strep Throat No Pain Diagnosis",
+		"test": "Strep Throat No Pain Test",
+		"cure": "Strep Throat No Pain Cure"
+	},
+	{
+		"name": "Strep Throat Not Treated",
+		"treatment": "Strep Throat Not Treated Treatment",
+		"diagnosis": "Strep Throat Not Treated Diagnosis",
+		"test": "Strep Throat Not Treated Test",
+		"cure": "Strep Throat Not Treated Cure"
+	},
+	{
+		"name": "Strep Throat One Side",
+		"treatment": "Strep Throat One Side Treatment",
+		"diagnosis": "Strep Throat One Side Diagnosis",
+		"test": "Strep Throat One Side Test",
+		"cure": "Strep Throat One Side Cure"
+	},
+	{
+		"name": "Strep Throat Pain",
+		"treatment": "Strep Throat Pain Treatment",
+		"diagnosis": "Strep Throat Pain Diagnosis",
+		"test": "Strep Throat Pain Test",
+		"cure": "Strep Throat Pain Cure"
+	},
+	{
+		"name": "Strep Throat Sore Tongue",
+		"treatment": "Strep Throat Sore Tongue Treatment",
+		"diagnosis": "Strep Throat Sore Tongue Diagnosis",
+		"test": "Strep Throat Sore Tongue Test",
+		"cure": "Strep Throat Sore Tongue Cure"
+	},
+	{
+		"name": "Strep Throat Stiff Neck",
+		"treatment": "Strep Throat Stiff Neck Treatment",
+		"diagnosis": "Strep Throat Stiff Neck Diagnosis",
+		"test": "Strep Throat Stiff Neck Test",
+		"cure": "Strep Throat Stiff Neck Cure"
+	},
+	{
+		"name": "Strep Throat Stomach Pain",
+		"treatment": "Strep Throat Stomach Pain Treatment",
+		"diagnosis": "Strep Throat Stomach Pain Diagnosis",
+		"test": "Strep Throat Stomach Pain Test",
+		"cure": "Strep Throat Stomach Pain Cure"
+	},
+	{
+		"name": "Strep Throat Swollen Tonsils",
+		"treatment": "Strep Throat Swollen Tonsils Treatment",
+		"diagnosis": "Strep Throat Swollen Tonsils Diagnosis",
+		"test": "Strep Throat Swollen Tonsils Test",
+		"cure": "Strep Throat Swollen Tonsils Cure"
+	},
+	{
+		"name": "Strep Throat Throat",
+		"treatment": "Strep Throat Throat Treatment",
+		"diagnosis": "Strep Throat Throat Diagnosis",
+		"test": "Strep Throat Throat Test",
+		"cure": "Strep Throat Throat Cure"
+	},
+	{
+		"name": "Strep Throat Throwing Up",
+		"treatment": "Strep Throat Throwing Up Treatment",
+		"diagnosis": "Strep Throat Throwing Up Diagnosis",
+		"test": "Strep Throat Throwing Up Test",
+		"cure": "Strep Throat Throwing Up Cure"
+	},
+	{
+		"name": "Strep Throat Tongue",
+		"treatment": "Strep Throat Tongue Treatment",
+		"diagnosis": "Strep Throat Tongue Diagnosis",
+		"test": "Strep Throat Tongue Test",
+		"cure": "Strep Throat Tongue Cure"
+	},
+	{
+		"name": "Strep Throat Tonsil Stones",
+		"treatment": "Strep Throat Tonsil Stones Treatment",
+		"diagnosis": "Strep Throat Tonsil Stones Diagnosis",
+		"test": "Strep Throat Tonsil Stones Test",
+		"cure": "Strep Throat Tonsil Stones Cure"
+	},
+	{
+		"name": "Strep Throat Tonsils",
+		"treatment": "Strep Throat Tonsils Treatment",
+		"diagnosis": "Strep Throat Tonsils Diagnosis",
+		"test": "Strep Throat Tonsils Test",
+		"cure": "Strep Throat Tonsils Cure"
+	},
+	{
+		"name": "Strep Throat Ulcers",
+		"treatment": "Strep Throat Ulcers Treatment",
+		"diagnosis": "Strep Throat Ulcers Diagnosis",
+		"test": "Strep Throat Ulcers Test",
+		"cure": "Strep Throat Ulcers Cure"
+	},
+	{
+		"name": "Strep Throat V Tonsillitis",
+		"treatment": "Strep Throat V Tonsillitis Treatment",
+		"diagnosis": "Strep Throat V Tonsillitis Diagnosis",
+		"test": "Strep Throat V Tonsillitis Test",
+		"cure": "Strep Throat V Tonsillitis Cure"
+	},
+	{
+		"name": "Strep Throat Vomiting",
+		"treatment": "Strep Throat Vomiting Treatment",
+		"diagnosis": "Strep Throat Vomiting Diagnosis",
+		"test": "Strep Throat Vomiting Test",
+		"cure": "Strep Throat Vomiting Cure"
+	},
+	{
+		"name": "Strep Throat White",
+		"treatment": "Strep Throat White Treatment",
+		"diagnosis": "Strep Throat White Diagnosis",
+		"test": "Strep Throat White Test",
+		"cure": "Strep Throat White Cure"
+	},
+	{
+		"name": "Strep Throat White Tongue",
+		"treatment": "Strep Throat White Tongue Treatment",
+		"diagnosis": "Strep Throat White Tongue Diagnosis",
+		"test": "Strep Throat White Tongue Test",
+		"cure": "Strep Throat White Tongue Cure"
+	},
+	{
+		"name": "Streptococcal Sore Throat",
+		"treatment": "Streptococcal Sore Throat Treatment",
+		"diagnosis": "Streptococcal Sore Throat Diagnosis",
+		"test": "Streptococcal Sore Throat Test",
+		"cure": "Streptococcal Sore Throat Cure"
+	},
+	{
+		"name": "Streptococcal Throat Infection",
+		"treatment": "Streptococcal Throat Infection Treatment",
+		"diagnosis": "Streptococcal Throat Infection Diagnosis",
+		"test": "Streptococcal Throat Infection Test",
+		"cure": "Streptococcal Throat Infection Cure"
+	},
+	{
+		"name": "Streptococcus Pyogenes Strep Throat",
+		"treatment": "Streptococcus Pyogenes Strep Throat Treatment",
+		"diagnosis": "Streptococcus Pyogenes Strep Throat Diagnosis",
+		"test": "Streptococcus Pyogenes Strep Throat Test",
+		"cure": "Streptococcus Pyogenes Strep Throat Cure"
+	},
+	{
+		"name": "Streptococcus Strep Throat",
+		"treatment": "Streptococcus Strep Throat Treatment",
+		"diagnosis": "Streptococcus Strep Throat Diagnosis",
+		"test": "Streptococcus Strep Throat Test",
+		"cure": "Streptococcus Strep Throat Cure"
+	},
+	{
+		"name": "Sudden Deaf Syndrome",
+		"treatment": "Sudden Deaf Syndrome Treatment",
+		"diagnosis": "Sudden Deaf Syndrome Diagnosis",
+		"test": "Sudden Deaf Syndrome Test",
+		"cure": "Sudden Deaf Syndrome Cure"
+	},
+	{
+		"name": "Sudden Deafness",
+		"treatment": "Sudden Deafness Treatment",
+		"diagnosis": "Sudden Deafness Diagnosis",
+		"test": "Sudden Deafness Test",
+		"cure": "Sudden Deafness Cure"
+	},
+	{
+		"name": "Syndrome Ramsay Hunt",
+		"treatment": "Syndrome Ramsay Hunt Treatment",
+		"diagnosis": "Syndrome Ramsay Hunt Diagnosis",
+		"test": "Syndrome Ramsay Hunt Test",
+		"cure": "Syndrome Ramsay Hunt Cure"
+	},
+	{
+		"name": "Tensor Tympani Syndrome",
+		"treatment": "Tensor Tympani Syndrome Treatment",
+		"diagnosis": "Tensor Tympani Syndrome Diagnosis",
+		"test": "Tensor Tympani Syndrome Test",
+		"cure": "Tensor Tympani Syndrome Cure"
+	},
+	{
+		"name": "Throat Cancer Cough",
+		"treatment": "Throat Cancer Cough Treatment",
+		"diagnosis": "Throat Cancer Cough Diagnosis",
+		"test": "Throat Cancer Cough Test",
+		"cure": "Throat Cancer Cough Cure"
+	},
+	{
+		"name": "Throat Cancer Curable",
+		"treatment": "Throat Cancer Curable Treatment",
+		"diagnosis": "Throat Cancer Curable Diagnosis",
+		"test": "Throat Cancer Curable Test",
+		"cure": "Throat Cancer Curable Cure"
+	},
+	{
+		"name": "Throat Cancer Hereditary",
+		"treatment": "Throat Cancer Hereditary Treatment",
+		"diagnosis": "Throat Cancer Hereditary Diagnosis",
+		"test": "Throat Cancer Hereditary Test",
+		"cure": "Throat Cancer Hereditary Cure"
+	},
+	{
+		"name": "Throat Cancer Look Like",
+		"treatment": "Throat Cancer Look Like Treatment",
+		"diagnosis": "Throat Cancer Look Like Diagnosis",
+		"test": "Throat Cancer Look Like Test",
+		"cure": "Throat Cancer Look Like Cure"
+	},
+	{
+		"name": "Throat Cancer Mayo Clinic",
+		"treatment": "Throat Cancer Mayo Clinic Treatment",
+		"diagnosis": "Throat Cancer Mayo Clinic Diagnosis",
+		"test": "Throat Cancer Mayo Clinic Test",
+		"cure": "Throat Cancer Mayo Clinic Cure"
+	},
+	{
+		"name": "Throat Cancer NHS",
+		"treatment": "Throat Cancer NHS Treatment",
+		"diagnosis": "Throat Cancer NHS Diagnosis",
+		"test": "Throat Cancer NHS Test",
+		"cure": "Throat Cancer NHS Cure"
+	},
+	{
+		"name": "Throat Cancer Pain",
+		"treatment": "Throat Cancer Pain Treatment",
+		"diagnosis": "Throat Cancer Pain Diagnosis",
+		"test": "Throat Cancer Pain Test",
+		"cure": "Throat Cancer Pain Cure"
+	},
+	{
+		"name": "Throat Cancer Sore Throat",
+		"treatment": "Throat Cancer Sore Throat Treatment",
+		"diagnosis": "Throat Cancer Sore Throat Diagnosis",
+		"test": "Throat Cancer Sore Throat Test",
+		"cure": "Throat Cancer Sore Throat Cure"
+	},
+	{
+		"name": "Throat Cancer Survival",
+		"treatment": "Throat Cancer Survival Treatment",
+		"diagnosis": "Throat Cancer Survival Diagnosis",
+		"test": "Throat Cancer Survival Test",
+		"cure": "Throat Cancer Survival Cure"
+	},
+	{
+		"name": "Throat Cancer Tonsils",
+		"treatment": "Throat Cancer Tonsils Treatment",
+		"diagnosis": "Throat Cancer Tonsils Diagnosis",
+		"test": "Throat Cancer Tonsils Test",
+		"cure": "Throat Cancer Tonsils Cure"
+	},
+	{
+		"name": "Throat Cancer Voice Box",
+		"treatment": "Throat Cancer Voice Box Treatment",
+		"diagnosis": "Throat Cancer Voice Box Diagnosis",
+		"test": "Throat Cancer Voice Box Test",
+		"cure": "Throat Cancer Voice Box Cure"
+	},
+	{
+		"name": "Throat Disease",
+		"treatment": "Throat Disease Treatment",
+		"diagnosis": "Throat Disease Diagnosis",
+		"test": "Throat Disease Test",
+		"cure": "Throat Disease Cure"
+	},
+	{
+		"name": "Throat Disorder",
+		"treatment": "Throat Disorder Treatment",
+		"diagnosis": "Throat Disorder Diagnosis",
+		"test": "Throat Disorder Test",
+		"cure": "Throat Disorder Cure"
+	},
+	{
+		"name": "Throat Gland Infection",
+		"treatment": "Throat Gland Infection Treatment",
+		"diagnosis": "Throat Gland Infection Diagnosis",
+		"test": "Throat Gland Infection Test",
+		"cure": "Throat Gland Infection Cure"
+	},
+	{
+		"name": "Throat Infection",
+		"treatment": "Throat Infection Treatment",
+		"diagnosis": "Throat Infection Diagnosis",
+		"test": "Throat Infection Test",
+		"cure": "Throat Infection Cure"
+	},
+	{
+		"name": "Throat Infection Contagious",
+		"treatment": "Throat Infection Contagious Treatment",
+		"diagnosis": "Throat Infection Contagious Diagnosis",
+		"test": "Throat Infection Contagious Test",
+		"cure": "Throat Infection Contagious Cure"
+	},
+	{
+		"name": "Throat Infection Ear Pain",
+		"treatment": "Throat Infection Ear Pain Treatment",
+		"diagnosis": "Throat Infection Ear Pain Diagnosis",
+		"test": "Throat Infection Ear Pain Test",
+		"cure": "Throat Infection Ear Pain Cure"
+	},
+	{
+		"name": "Throat Infection Fever",
+		"treatment": "Throat Infection Fever Treatment",
+		"diagnosis": "Throat Infection Fever Diagnosis",
+		"test": "Throat Infection Fever Test",
+		"cure": "Throat Infection Fever Cure"
+	},
+	{
+		"name": "Throat Infection NHS",
+		"treatment": "Throat Infection NHS Treatment",
+		"diagnosis": "Throat Infection NHS Diagnosis",
+		"test": "Throat Infection NHS Test",
+		"cure": "Throat Infection NHS Cure"
+	},
+	{
+		"name": "Throat Infection No Tonsils",
+		"treatment": "Throat Infection No Tonsils Treatment",
+		"diagnosis": "Throat Infection No Tonsils Diagnosis",
+		"test": "Throat Infection No Tonsils Test",
+		"cure": "Throat Infection No Tonsils Cure"
+	},
+	{
+		"name": "Throat Infection Not Strep",
+		"treatment": "Throat Infection Not Strep Treatment",
+		"diagnosis": "Throat Infection Not Strep Diagnosis",
+		"test": "Throat Infection Not Strep Test",
+		"cure": "Throat Infection Not Strep Cure"
+	},
+	{
+		"name": "Throat Infection Pharyngitis",
+		"treatment": "Throat Infection Pharyngitis Treatment",
+		"diagnosis": "Throat Infection Pharyngitis Diagnosis",
+		"test": "Throat Infection Pharyngitis Test",
+		"cure": "Throat Infection Pharyngitis Cure"
+	},
+	{
+		"name": "Throat Infection Tonsils",
+		"treatment": "Throat Infection Tonsils Treatment",
+		"diagnosis": "Throat Infection Tonsils Diagnosis",
+		"test": "Throat Infection Tonsils Test",
+		"cure": "Throat Infection Tonsils Cure"
+	},
+	{
+		"name": "Throat Related Disease",
+		"treatment": "Throat Related Disease Treatment",
+		"diagnosis": "Throat Related Disease Diagnosis",
+		"test": "Throat Related Disease Test",
+		"cure": "Throat Related Disease Cure"
+	},
+	{
+		"name": "Throat Syndrome",
+		"treatment": "Throat Syndrome Treatment",
+		"diagnosis": "Throat Syndrome Diagnosis",
+		"test": "Throat Syndrome Test",
+		"cure": "Throat Syndrome Cure"
+	},
+	{
+		"name": "Throat Ulcer",
+		"treatment": "Throat Ulcer Treatment",
+		"diagnosis": "Throat Ulcer Diagnosis",
+		"test": "Throat Ulcer Test",
+		"cure": "Throat Ulcer Cure"
+	},
+	{
+		"name": "Throat Ulcer Cause",
+		"treatment": "Throat Ulcer Cause Treatment",
+		"diagnosis": "Throat Ulcer Cause Diagnosis",
+		"test": "Throat Ulcer Cause Test",
+		"cure": "Throat Ulcer Cause Cure"
+	},
+	{
+		"name": "Throat Ulcer NHS",
+		"treatment": "Throat Ulcer NHS Treatment",
+		"diagnosis": "Throat Ulcer NHS Diagnosis",
+		"test": "Throat Ulcer NHS Test",
+		"cure": "Throat Ulcer NHS Cure"
+	},
+	{
+		"name": "Thyroid Cancer Sore Throat",
+		"treatment": "Thyroid Cancer Sore Throat Treatment",
+		"diagnosis": "Thyroid Cancer Sore Throat Diagnosis",
+		"test": "Thyroid Cancer Sore Throat Test",
+		"cure": "Thyroid Cancer Sore Throat Cure"
+	},
+	{
+		"name": "Thyroid Ear Pressure",
+		"treatment": "Thyroid Ear Pressure Treatment",
+		"diagnosis": "Thyroid Ear Pressure Diagnosis",
+		"test": "Thyroid Ear Pressure Test",
+		"cure": "Thyroid Ear Pressure Cure"
+	},
+	{
+		"name": "Thyroid Ringing Ears",
+		"treatment": "Thyroid Ringing Ears Treatment",
+		"diagnosis": "Thyroid Ringing Ears Diagnosis",
+		"test": "Thyroid Ringing Ears Test",
+		"cure": "Thyroid Ringing Ears Cure"
+	},
+	{
+		"name": "Thyroid Tinnitus",
+		"treatment": "Thyroid Tinnitus Treatment",
+		"diagnosis": "Thyroid Tinnitus Diagnosis",
+		"test": "Thyroid Tinnitus Test",
+		"cure": "Thyroid Tinnitus Cure"
+	},
+	{
+		"name": "Tinnitus After Ear Infection",
+		"treatment": "Tinnitus After Ear Infection Treatment",
+		"diagnosis": "Tinnitus After Ear Infection Diagnosis",
+		"test": "Tinnitus After Ear Infection Test",
+		"cure": "Tinnitus After Ear Infection Cure"
+	},
+	{
+		"name": "Tinnitus Brain Inflammation",
+		"treatment": "Tinnitus Brain Inflammation Treatment",
+		"diagnosis": "Tinnitus Brain Inflammation Diagnosis",
+		"test": "Tinnitus Brain Inflammation Test",
+		"cure": "Tinnitus Brain Inflammation Cure"
+	},
+	{
+		"name": "Tinnitus Brain Tumor",
+		"treatment": "Tinnitus Brain Tumor Treatment",
+		"diagnosis": "Tinnitus Brain Tumor Diagnosis",
+		"test": "Tinnitus Brain Tumor Test",
+		"cure": "Tinnitus Brain Tumor Cure"
+	},
+	{
+		"name": "Tinnitus Circulatory System Disorder",
+		"treatment": "Tinnitus Circulatory System Disorder Treatment",
+		"diagnosis": "Tinnitus Circulatory System Disorder Diagnosis",
+		"test": "Tinnitus Circulatory System Disorder Test",
+		"cure": "Tinnitus Circulatory System Disorder Cure"
+	},
+	{
+		"name": "Tinnitus Diabetes",
+		"treatment": "Tinnitus Diabetes Treatment",
+		"diagnosis": "Tinnitus Diabetes Diagnosis",
+		"test": "Tinnitus Diabetes Test",
+		"cure": "Tinnitus Diabetes Cure"
+	},
+	{
+		"name": "Tinnitus Disease",
+		"treatment": "Tinnitus Disease Treatment",
+		"diagnosis": "Tinnitus Disease Diagnosis",
+		"test": "Tinnitus Disease Test",
+		"cure": "Tinnitus Disease Cure"
+	},
+	{
+		"name": "Tinnitus Heart Disease",
+		"treatment": "Tinnitus Heart Disease Treatment",
+		"diagnosis": "Tinnitus Heart Disease Diagnosis",
+		"test": "Tinnitus Heart Disease Test",
+		"cure": "Tinnitus Heart Disease Cure"
+	},
+	{
+		"name": "Tinnitus High Blood Pressure",
+		"treatment": "Tinnitus High Blood Pressure Treatment",
+		"diagnosis": "Tinnitus High Blood Pressure Diagnosis",
+		"test": "Tinnitus High Blood Pressure Test",
+		"cure": "Tinnitus High Blood Pressure Cure"
+	},
+	{
+		"name": "Tinnitus Infection",
+		"treatment": "Tinnitus Infection Treatment",
+		"diagnosis": "Tinnitus Infection Diagnosis",
+		"test": "Tinnitus Infection Test",
+		"cure": "Tinnitus Infection Cure"
+	},
+	{
+		"name": "Tinnitus Inflammation",
+		"treatment": "Tinnitus Inflammation Treatment",
+		"diagnosis": "Tinnitus Inflammation Diagnosis",
+		"test": "Tinnitus Inflammation Test",
+		"cure": "Tinnitus Inflammation Cure"
+	},
+	{
+		"name": "Tinnitus Meniere",
+		"treatment": "Tinnitus Meniere Treatment",
+		"diagnosis": "Tinnitus Meniere Diagnosis",
+		"test": "Tinnitus Meniere Test",
+		"cure": "Tinnitus Meniere Cure"
+	},
+	{
+		"name": "Tinnitus MS",
+		"treatment": "Tinnitus MS Treatment",
+		"diagnosis": "Tinnitus MS Diagnosis",
+		"test": "Tinnitus MS Test",
+		"cure": "Tinnitus MS Cure"
+	},
+	{
+		"name": "Tonsil Stone Cause Sore Throat",
+		"treatment": "Tonsil Stone Cause Sore Throat Treatment",
+		"diagnosis": "Tonsil Stone Cause Sore Throat Diagnosis",
+		"test": "Tonsil Stone Cause Sore Throat Test",
+		"cure": "Tonsil Stone Cause Sore Throat Cure"
+	},
+	{
+		"name": "Tonsil Stone Infection",
+		"treatment": "Tonsil Stone Infection Treatment",
+		"diagnosis": "Tonsil Stone Infection Diagnosis",
+		"test": "Tonsil Stone Infection Test",
+		"cure": "Tonsil Stone Infection Cure"
+	},
+	{
+		"name": "Tonsillitis Abscess",
+		"treatment": "Tonsillitis Abscess Treatment",
+		"diagnosis": "Tonsillitis Abscess Diagnosis",
+		"test": "Tonsillitis Abscess Test",
+		"cure": "Tonsillitis Abscess Cure"
+	},
+	{
+		"name": "Tonsillitis Acid Reflux",
+		"treatment": "Tonsillitis Acid Reflux Treatment",
+		"diagnosis": "Tonsillitis Acid Reflux Diagnosis",
+		"test": "Tonsillitis Acid Reflux Test",
+		"cure": "Tonsillitis Acid Reflux Cure"
+	},
+	{
+		"name": "Tonsillitis Acute",
+		"treatment": "Tonsillitis Acute Treatment",
+		"diagnosis": "Tonsillitis Acute Diagnosis",
+		"test": "Tonsillitis Acute Test",
+		"cure": "Tonsillitis Acute Cure"
+	},
+	{
+		"name": "Tonsillitis After Oral",
+		"treatment": "Tonsillitis After Oral Treatment",
+		"diagnosis": "Tonsillitis After Oral Diagnosis",
+		"test": "Tonsillitis After Oral Test",
+		"cure": "Tonsillitis After Oral Cure"
+	},
+	{
+		"name": "Tonsillitis Dry Mouth",
+		"treatment": "Tonsillitis Dry Mouth Treatment",
+		"diagnosis": "Tonsillitis Dry Mouth Diagnosis",
+		"test": "Tonsillitis Dry Mouth Test",
+		"cure": "Tonsillitis Dry Mouth Cure"
+	},
+	{
+		"name": "Tonsillitis Pain Unbearable",
+		"treatment": "Tonsillitis Pain Unbearable Treatment",
+		"diagnosis": "Tonsillitis Pain Unbearable Diagnosis",
+		"test": "Tonsillitis Pain Unbearable Test",
+		"cure": "Tonsillitis Pain Unbearable Cure"
+	},
+	{
+		"name": "Tonsillitis Smoking",
+		"treatment": "Tonsillitis Smoking Treatment",
+		"diagnosis": "Tonsillitis Smoking Diagnosis",
+		"test": "Tonsillitis Smoking Test",
+		"cure": "Tonsillitis Smoking Cure"
+	},
+	{
+		"name": "Tonsillitis Sore Throat",
+		"treatment": "Tonsillitis Sore Throat Treatment",
+		"diagnosis": "Tonsillitis Sore Throat Diagnosis",
+		"test": "Tonsillitis Sore Throat Test",
+		"cure": "Tonsillitis Sore Throat Cure"
+	},
+	{
+		"name": "Tonsillitis Swollen Neck",
+		"treatment": "Tonsillitis Swollen Neck Treatment",
+		"diagnosis": "Tonsillitis Swollen Neck Diagnosis",
+		"test": "Tonsillitis Swollen Neck Test",
+		"cure": "Tonsillitis Swollen Neck Cure"
+	},
+	{
+		"name": "Tonsillitis Throwing Up",
+		"treatment": "Tonsillitis Throwing Up Treatment",
+		"diagnosis": "Tonsillitis Throwing Up Diagnosis",
+		"test": "Tonsillitis Throwing Up Test",
+		"cure": "Tonsillitis Throwing Up Cure"
+	},
+	{
+		"name": "Tonsillitis Tongue",
+		"treatment": "Tonsillitis Tongue Treatment",
+		"diagnosis": "Tonsillitis Tongue Diagnosis",
+		"test": "Tonsillitis Tongue Test",
+		"cure": "Tonsillitis Tongue Cure"
+	},
+	{
+		"name": "Tooth Infection Tinnitus",
+		"treatment": "Tooth Infection Tinnitus Treatment",
+		"diagnosis": "Tooth Infection Tinnitus Diagnosis",
+		"test": "Tooth Infection Tinnitus Test",
+		"cure": "Tooth Infection Tinnitus Cure"
+	},
+	{
+		"name": "Tragus Inflammation",
+		"treatment": "Tragus Inflammation Treatment",
+		"diagnosis": "Tragus Inflammation Diagnosis",
+		"test": "Tragus Inflammation Test",
+		"cure": "Tragus Inflammation Cure"
+	},
+	{
+		"name": "Treat Inner Ear Infection",
+		"treatment": "Treat Inner Ear Infection Treatment",
+		"diagnosis": "Treat Inner Ear Infection Diagnosis",
+		"test": "Treat Inner Ear Infection Test",
+		"cure": "Treat Inner Ear Infection Cure"
+	},
+	{
+		"name": "Tuberculous Otitis Media",
+		"treatment": "Tuberculous Otitis Media Treatment",
+		"diagnosis": "Tuberculous Otitis Media Diagnosis",
+		"test": "Tuberculous Otitis Media Test",
+		"cure": "Tuberculous Otitis Media Cure"
+	},
+	{
+		"name": "Tubotympanic Disease",
+		"treatment": "Tubotympanic Disease Treatment",
+		"diagnosis": "Tubotympanic Disease Diagnosis",
+		"test": "Tubotympanic Disease Test",
+		"cure": "Tubotympanic Disease Cure"
+	},
+	{
+		"name": "Tubotympanic Suppurative Otitis Media",
+		"treatment": "Tubotympanic Suppurative Otitis Media Treatment",
+		"diagnosis": "Tubotympanic Suppurative Otitis Media Diagnosis",
+		"test": "Tubotympanic Suppurative Otitis Media Test",
+		"cure": "Tubotympanic Suppurative Otitis Media Cure"
+	},
+	{
+		"name": "Tumor Behind Ear",
+		"treatment": "Tumor Behind Ear Treatment",
+		"diagnosis": "Tumor Behind Ear Diagnosis",
+		"test": "Tumor Behind Ear Test",
+		"cure": "Tumor Behind Ear Cure"
+	},
+	{
+		"name": "Tumor Inside Ear",
+		"treatment": "Tumor Inside Ear Treatment",
+		"diagnosis": "Tumor Inside Ear Diagnosis",
+		"test": "Tumor Inside Ear Test",
+		"cure": "Tumor Inside Ear Cure"
+	},
+	{
+		"name": "Tumor Tinnitus",
+		"treatment": "Tumor Tinnitus Treatment",
+		"diagnosis": "Tumor Tinnitus Diagnosis",
+		"test": "Tumor Tinnitus Test",
+		"cure": "Tumor Tinnitus Cure"
+	},
+	{
+		"name": "Turner Syndrome Hearing Loss",
+		"treatment": "Turner Syndrome Hearing Loss Treatment",
+		"diagnosis": "Turner Syndrome Hearing Loss Diagnosis",
+		"test": "Turner Syndrome Hearing Loss Test",
+		"cure": "Turner Syndrome Hearing Loss Cure"
+	},
+	{
+		"name": "Tympanic Membrane Disorder",
+		"treatment": "Tympanic Membrane Disorder Treatment",
+		"diagnosis": "Tympanic Membrane Disorder Diagnosis",
+		"test": "Tympanic Membrane Disorder Test",
+		"cure": "Tympanic Membrane Disorder Cure"
+	},
+	{
+		"name": "Tympanic Membrane Infection",
+		"treatment": "Tympanic Membrane Infection Treatment",
+		"diagnosis": "Tympanic Membrane Infection Diagnosis",
+		"test": "Tympanic Membrane Infection Test",
+		"cure": "Tympanic Membrane Infection Cure"
+	},
+	{
+		"name": "Tympanic Membrane Inflammation",
+		"treatment": "Tympanic Membrane Inflammation Treatment",
+		"diagnosis": "Tympanic Membrane Inflammation Diagnosis",
+		"test": "Tympanic Membrane Inflammation Test",
+		"cure": "Tympanic Membrane Inflammation Cure"
+	},
+	{
+		"name": "Tympanic Membrane Sclerosis",
+		"treatment": "Tympanic Membrane Sclerosis Treatment",
+		"diagnosis": "Tympanic Membrane Sclerosis Diagnosis",
+		"test": "Tympanic Membrane Sclerosis Test",
+		"cure": "Tympanic Membrane Sclerosis Cure"
+	},
+	{
+		"name": "Tympano Sclerosis",
+		"treatment": "Tympano Sclerosis Treatment",
+		"diagnosis": "Tympano Sclerosis Diagnosis",
+		"test": "Tympano Sclerosis Test",
+		"cure": "Tympano Sclerosis Cure"
+	},
+	{
+		"name": "Ulcer Inside Throat",
+		"treatment": "Ulcer Inside Throat Treatment",
+		"diagnosis": "Ulcer Inside Throat Diagnosis",
+		"test": "Ulcer Inside Throat Test",
+		"cure": "Ulcer Inside Throat Cure"
+	},
+	{
+		"name": "Ulcerative Pharyngitis",
+		"treatment": "Ulcerative Pharyngitis Treatment",
+		"diagnosis": "Ulcerative Pharyngitis Diagnosis",
+		"test": "Ulcerative Pharyngitis Test",
+		"cure": "Ulcerative Pharyngitis Cure"
+	},
+	{
+		"name": "Untreated Ear Infection",
+		"treatment": "Untreated Ear Infection Treatment",
+		"diagnosis": "Untreated Ear Infection Diagnosis",
+		"test": "Untreated Ear Infection Test",
+		"cure": "Untreated Ear Infection Cure"
+	},
+	{
+		"name": "Untreated Strep Throat",
+		"treatment": "Untreated Strep Throat Treatment",
+		"diagnosis": "Untreated Strep Throat Diagnosis",
+		"test": "Untreated Strep Throat Test",
+		"cure": "Untreated Strep Throat Cure"
+	},
+	{
+		"name": "Uvula Disease",
+		"treatment": "Uvula Disease Treatment",
+		"diagnosis": "Uvula Disease Diagnosis",
+		"test": "Uvula Disease Test",
+		"cure": "Uvula Disease Cure"
+	},
+	{
+		"name": "Uvula Infection",
+		"treatment": "Uvula Infection Treatment",
+		"diagnosis": "Uvula Infection Diagnosis",
+		"test": "Uvula Infection Test",
+		"cure": "Uvula Infection Cure"
+	},
+	{
+		"name": "Uvula Inflammation",
+		"treatment": "Uvula Inflammation Treatment",
+		"diagnosis": "Uvula Inflammation Diagnosis",
+		"test": "Uvula Inflammation Test",
+		"cure": "Uvula Inflammation Cure"
+	},
+	{
+		"name": "Very Red Sore Throat",
+		"treatment": "Very Red Sore Throat Treatment",
+		"diagnosis": "Very Red Sore Throat Diagnosis",
+		"test": "Very Red Sore Throat Test",
+		"cure": "Very Red Sore Throat Cure"
+	},
+	{
+		"name": "Very Sore Throat No Fever",
+		"treatment": "Very Sore Throat No Fever Treatment",
+		"diagnosis": "Very Sore Throat No Fever Diagnosis",
+		"test": "Very Sore Throat No Fever Test",
+		"cure": "Very Sore Throat No Fever Cure"
+	},
+	{
+		"name": "Vesicular Pharyngitis",
+		"treatment": "Vesicular Pharyngitis Treatment",
+		"diagnosis": "Vesicular Pharyngitis Diagnosis",
+		"test": "Vesicular Pharyngitis Test",
+		"cure": "Vesicular Pharyngitis Cure"
+	},
+	{
+		"name": "Vestibular Infection",
+		"treatment": "Vestibular Infection Treatment",
+		"diagnosis": "Vestibular Infection Diagnosis",
+		"test": "Vestibular Infection Test",
+		"cure": "Vestibular Infection Cure"
+	},
+	{
+		"name": "Vestibular Nerve Inflammation",
+		"treatment": "Vestibular Nerve Inflammation Treatment",
+		"diagnosis": "Vestibular Nerve Inflammation Diagnosis",
+		"test": "Vestibular Nerve Inflammation Test",
+		"cure": "Vestibular Nerve Inflammation Cure"
+	},
+	{
+		"name": "Vestibular Neuritis",
+		"treatment": "Vestibular Neuritis Treatment",
+		"diagnosis": "Vestibular Neuritis Diagnosis",
+		"test": "Vestibular Neuritis Test",
+		"cure": "Vestibular Neuritis Cure"
+	},
+	{
+		"name": "Vestibular Neuritis Labyrinthitis",
+		"treatment": "Vestibular Neuritis Labyrinthitis Treatment",
+		"diagnosis": "Vestibular Neuritis Labyrinthitis Diagnosis",
+		"test": "Vestibular Neuritis Labyrinthitis Test",
+		"cure": "Vestibular Neuritis Labyrinthitis Cure"
+	},
+	{
+		"name": "Viral Ear Infection",
+		"treatment": "Viral Ear Infection Treatment",
+		"diagnosis": "Viral Ear Infection Diagnosis",
+		"test": "Viral Ear Infection Test",
+		"cure": "Viral Ear Infection Cure"
+	},
+	{
+		"name": "Viral Hearing Loss",
+		"treatment": "Viral Hearing Loss Treatment",
+		"diagnosis": "Viral Hearing Loss Diagnosis",
+		"test": "Viral Hearing Loss Test",
+		"cure": "Viral Hearing Loss Cure"
+	},
+	{
+		"name": "Viral Infection Sore Throat",
+		"treatment": "Viral Infection Sore Throat Treatment",
+		"diagnosis": "Viral Infection Sore Throat Diagnosis",
+		"test": "Viral Infection Sore Throat Test",
+		"cure": "Viral Infection Sore Throat Cure"
+	},
+	{
+		"name": "Viral Inner Ear Infection",
+		"treatment": "Viral Inner Ear Infection Treatment",
+		"diagnosis": "Viral Inner Ear Infection Diagnosis",
+		"test": "Viral Inner Ear Infection Test",
+		"cure": "Viral Inner Ear Infection Cure"
+	},
+	{
+		"name": "Viral Labyrinthitis",
+		"treatment": "Viral Labyrinthitis Treatment",
+		"diagnosis": "Viral Labyrinthitis Diagnosis",
+		"test": "Viral Labyrinthitis Test",
+		"cure": "Viral Labyrinthitis Cure"
+	},
+	{
+		"name": "Viral Otitis Media",
+		"treatment": "Viral Otitis Media Treatment",
+		"diagnosis": "Viral Otitis Media Diagnosis",
+		"test": "Viral Otitis Media Test",
+		"cure": "Viral Otitis Media Cure"
+	},
+	{
+		"name": "Viral Sore Throat",
+		"treatment": "Viral Sore Throat Treatment",
+		"diagnosis": "Viral Sore Throat Diagnosis",
+		"test": "Viral Sore Throat Test",
+		"cure": "Viral Sore Throat Cure"
+	},
+	{
+		"name": "Viral Sore Throat Contagious",
+		"treatment": "Viral Sore Throat Contagious Treatment",
+		"diagnosis": "Viral Sore Throat Contagious Diagnosis",
+		"test": "Viral Sore Throat Contagious Test",
+		"cure": "Viral Sore Throat Contagious Cure"
+	},
+	{
+		"name": "Viral Strep",
+		"treatment": "Viral Strep Treatment",
+		"diagnosis": "Viral Strep Diagnosis",
+		"test": "Viral Strep Test",
+		"cure": "Viral Strep Cure"
+	},
+	{
+		"name": "Viral Strep Throat",
+		"treatment": "Viral Strep Throat Treatment",
+		"diagnosis": "Viral Strep Throat Diagnosis",
+		"test": "Viral Strep Throat Test",
+		"cure": "Viral Strep Throat Cure"
+	},
+	{
+		"name": "Viral Throat",
+		"treatment": "Viral Throat Treatment",
+		"diagnosis": "Viral Throat Diagnosis",
+		"test": "Viral Throat Test",
+		"cure": "Viral Throat Cure"
+	},
+	{
+		"name": "Viral Throat Infection",
+		"treatment": "Viral Throat Infection Treatment",
+		"diagnosis": "Viral Throat Infection Diagnosis",
+		"test": "Viral Throat Infection Test",
+		"cure": "Viral Throat Infection Cure"
+	},
+	{
+		"name": "Viral Throat Infection Contagious",
+		"treatment": "Viral Throat Infection Contagious Treatment",
+		"diagnosis": "Viral Throat Infection Contagious Diagnosis",
+		"test": "Viral Throat Infection Contagious Test",
+		"cure": "Viral Throat Infection Contagious Cure"
+	},
+	{
+		"name": "Viral Vestibular Neuritis",
+		"treatment": "Viral Vestibular Neuritis Treatment",
+		"diagnosis": "Viral Vestibular Neuritis Diagnosis",
+		"test": "Viral Vestibular Neuritis Test",
+		"cure": "Viral Vestibular Neuritis Cure"
+	},
+	{
+		"name": "Vocal Cord Infection",
+		"treatment": "Vocal Cord Infection Treatment",
+		"diagnosis": "Vocal Cord Infection Diagnosis",
+		"test": "Vocal Cord Infection Test",
+		"cure": "Vocal Cord Infection Cure"
+	},
+	{
+		"name": "Voice Box Cancer",
+		"treatment": "Voice Box Cancer Treatment",
+		"diagnosis": "Voice Box Cancer Diagnosis",
+		"test": "Voice Box Cancer Test",
+		"cure": "Voice Box Cancer Cure"
+	},
+	{
+		"name": "Voice Box Infection",
+		"treatment": "Voice Box Infection Treatment",
+		"diagnosis": "Voice Box Infection Diagnosis",
+		"test": "Voice Box Infection Test",
+		"cure": "Voice Box Infection Cure"
+	},
+	{
+		"name": "White Nose",
+		"treatment": "White Nose Treatment",
+		"diagnosis": "White Nose Diagnosis",
+		"test": "White Nose Test",
+		"cure": "White Nose Cure"
+	},
+	{
+		"name": "White Nose Bat",
+		"treatment": "White Nose Bat Treatment",
+		"diagnosis": "White Nose Bat Diagnosis",
+		"test": "White Nose Bat Test",
+		"cure": "White Nose Bat Cure"
+	},
+	{
+		"name": "White Nose Disease",
+		"treatment": "White Nose Disease Treatment",
+		"diagnosis": "White Nose Disease Diagnosis",
+		"test": "White Nose Disease Test",
+		"cure": "White Nose Disease Cure"
+	},
+	{
+		"name": "White Nose Fungus",
+		"treatment": "White Nose Fungus Treatment",
+		"diagnosis": "White Nose Fungus Diagnosis",
+		"test": "White Nose Fungus Test",
+		"cure": "White Nose Fungus Cure"
+	},
+	{
+		"name": "White Nose Fungus Bats",
+		"treatment": "White Nose Fungus Bats Treatment",
+		"diagnosis": "White Nose Fungus Bats Diagnosis",
+		"test": "White Nose Fungus Bats Test",
+		"cure": "White Nose Fungus Bats Cure"
+	},
+	{
+		"name": "White Nose Syndrome",
+		"treatment": "White Nose Syndrome Treatment",
+		"diagnosis": "White Nose Syndrome Diagnosis",
+		"test": "White Nose Syndrome Test",
+		"cure": "White Nose Syndrome Cure"
+	},
+	{
+		"name": "White Nose Syndrome Bats",
+		"treatment": "White Nose Syndrome Bats Treatment",
+		"diagnosis": "White Nose Syndrome Bats Diagnosis",
+		"test": "White Nose Syndrome Bats Test",
+		"cure": "White Nose Syndrome Bats Cure"
+	},
+	{
+		"name": "WNS Bats",
+		"treatment": "WNS Bats Treatment",
+		"diagnosis": "WNS Bats Diagnosis",
+		"test": "WNS Bats Test",
+		"cure": "WNS Bats Cure"
+	},
+	{
+		"name": "Worst Ear Infection",
+		"treatment": "Worst Ear Infection Treatment",
+		"diagnosis": "Worst Ear Infection Diagnosis",
+		"test": "Worst Ear Infection Test",
+		"cure": "Worst Ear Infection Cure"
+	},
+	{
+		"name": "Z Pack Ear Infection",
+		"treatment": "Z Pack Ear Infection Treatment",
+		"diagnosis": "Z Pack Ear Infection Diagnosis",
+		"test": "Z Pack Ear Infection Test",
+		"cure": "Z Pack Ear Infection Cure"
+	},
+	{
+		"name": "Zoster Ear",
+		"treatment": "Zoster Ear Treatment",
+		"diagnosis": "Zoster Ear Diagnosis",
+		"test": "Zoster Ear Test",
+		"cure": "Zoster Ear Cure"
+	}
+]

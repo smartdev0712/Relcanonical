@@ -1,0 +1,201 @@
+{% load static %}
+
+<a href="" data-toggle="modal" data-target="#updatePersonalNote">
+    <span class="btn btn-icon btn-circle btn-light-primary">
+        <span class="svg-icon svg-icon-lg">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px"
+        viewBox="0 0 24 24" version="1.1">
+        <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <rect x="0" y="0" width="24" height="24" />
+            <path
+                d="M11,3 L11,11 C11,11.0862364 11.0109158,11.1699233 11.0314412,11.2497543 C10.4163437,11.5908673 10,12.2468125 10,13 C10,14.1045695 10.8954305,15 12,15 C13.1045695,15 14,14.1045695 14,13 C14,12.2468125 13.5836563,11.5908673 12.9685588,11.2497543 C12.9890842,11.1699233 13,11.0862364 13,11 L13,3 L17.7925828,12.5851656 C17.9241309,12.8482619 17.9331722,13.1559315 17.8173006,13.4262985 L15.1298744,19.6969596 C15.051085,19.8808016 14.870316,20 14.6703019,20 L9.32969808,20 C9.12968402,20 8.94891496,19.8808016 8.87012556,19.6969596 L6.18269936,13.4262985 C6.06682778,13.1559315 6.07586907,12.8482619 6.2074172,12.5851656 L11,3 Z"
+                fill="#000000" />
+            <path
+                d="M10,21 L14,21 C14.5522847,21 15,21.4477153 15,22 L15,23 L9,23 L9,22 C9,21.4477153 9.44771525,21 10,21 Z"
+                fill="#000000" opacity="0.3" />
+        </g>
+    </svg>
+        </span>
+    </span>
+</a>
+
+<div class="modal fade" id="updatePersonalNote" tabindex="-1" role="dialog" aria-labelledby="staticBackdrop"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable  modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-body p-20">
+                <div data-scroll="true" data-height="auto">
+                    <div class="mt-0 text-center">
+                        <span class="text-dark font-weight-bolder font-size-h2">Save the World
+                        </span>
+                    </div>
+                    <div class="text-muted font-weight-bold font-size-md mb-4 text-center">
+                        create notes that impact lives</div>
+                    <div class="my-8">
+                        <div class="row justify-content-center">
+                            <span class="image-input image-input-outline mx-2" id="kt_user_add_avatar">
+                                <div class="image-input-wrapper"
+                                    style="background-image: url(/static/assets/media/a-team/01.jpg)"></div>
+                                <label
+                                    class="btn btn-xs btn-icon btn-circle btn-white btn-hover-text-primary btn-shadow"
+                                    data-action="change" data-toggle="tooltip" title="Image">
+                                    <i class="fa fa-pen icon-sm text-muted"></i>
+                                    <input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg" />
+                                    <input type="hidden" name="profile_avatar_remove" />
+                                </label>
+                            </span>
+                            <span class="image-input image-input-outline mx-2" id="kt_user_add_avatar">
+                                <div class="image-input-wrapper"
+                                    style="background-image: url(/static/assets/media/a-team/01.jpg)"></div>
+                                <label
+                                    class="btn btn-xs btn-icon btn-circle btn-white btn-hover-text-primary btn-shadow"
+                                    data-action="change" data-toggle="tooltip" title="GIF">
+                                    <i class="fa fa-pen icon-sm text-muted"></i>
+                                    <input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg" />
+                                    <input type="hidden" name="profile_avatar_remove" />
+                                </label>
+                            </span>
+                            <span class="image-input image-input-outline mx-2" id="kt_user_add_avatar">
+                                <div class="image-input-wrapper"
+                                    style="background-image: url(/static/assets/media/a-team/01.jpg)"></div>
+                                <label
+                                    class="btn btn-xs btn-icon btn-circle btn-white btn-hover-text-primary btn-shadow"
+                                    data-action="change" data-toggle="tooltip" title="Vector">
+                                    <i class="fa fa-pen icon-sm text-muted"></i>
+                                    <input type="file" name="profile_avatar" accept=".png, .jpg, .jpeg" />
+                                    <input type="hidden" name="profile_avatar_remove" />
+                                </label>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="row mb-0 justify-content-center">
+                        <div class="text-center mt-0">
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                ABUSE</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                AGING</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                AIR</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                ANIMAL</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                BIODIVERSITY</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                BULLYING</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                CLIMATE</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                CONFLICT</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                CORRUPTION</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                CYBERSECURITY</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                DEBT</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                DEFORESTATION</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                DEMOCRATIZATION</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                DESERTIFICATION</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                DISCRIMINATION</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                DISEASES</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                DISPLACEMENT</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                DIVERSITY</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                ECOSYSTEM</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                EDUCATION</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                EXPLOITATION</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                FEMINISM</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                FOOD</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                GENDER</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                HEALTHCARE</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                HOMELESSNESS</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                HUNGER</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                INEQUALITY</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                INJUSTICE</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                INSECURITY</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                LITERACY</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                MALNUTRITION</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                MISINFORMATION</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                MORTALITY</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                OBESITY</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                OVERPOPULATION</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                POLLUTION</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                POVERTY</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                PRIVACY</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                RACISM</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                RIGHTS</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                ROBOTICS</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                SAFETY</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                SEXISM</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                SUSTAINABILITY</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                UNEMPLOYMENT</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                VIOLENCE</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                WASTE</span> <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                WATER</span>
+                            <span
+                                class="m-1 label label-secondary text-hover-white bg-hover-primary font-weight-bolder label-inline font-size-sm">
+                                WELFARE</span>
+                        </div>
+                    </div>
+                    <div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

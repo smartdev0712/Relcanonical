@@ -1,0 +1,106 @@
+name,cost,cancer,doctors,nearme
+3DCRT Radiotherapy,3DCRT Radiotherapy Cost,3DCRT Radiotherapy Cancer,3DCRT Radiotherapy Doctors,3DCRT Radiotherapy Near Me
+Adaptive Radiotherapy,Adaptive Radiotherapy Cost,Adaptive Radiotherapy Cancer,Adaptive Radiotherapy Doctors,Adaptive Radiotherapy Near Me
+Adjuvant Radiotherapy,Adjuvant Radiotherapy Cost,Adjuvant Radiotherapy Cancer,Adjuvant Radiotherapy Doctors,Adjuvant Radiotherapy Near Me
+After Radiotherapy,After Radiotherapy Cost,After Radiotherapy Cancer,After Radiotherapy Doctors,After Radiotherapy Near Me
+Beam Radiotherapy,Beam Radiotherapy Cost,Beam Radiotherapy Cancer,Beam Radiotherapy Doctors,Beam Radiotherapy Near Me
+Brachy Radiotherapy,Brachy Radiotherapy Cost,Brachy Radiotherapy Cancer,Brachy Radiotherapy Doctors,Brachy Radiotherapy Near Me
+Brain Radiotherapy,Brain Radiotherapy Cost,Brain Radiotherapy Cancer,Brain Radiotherapy Doctors,Brain Radiotherapy Near Me
+Breast Radiotherapy,Breast Radiotherapy Cost,Breast Radiotherapy Cancer,Breast Radiotherapy Doctors,Breast Radiotherapy Near Me
+Carbon Ion Radiotherapy,Carbon Ion Radiotherapy Cost,Carbon Ion Radiotherapy Cancer,Carbon Ion Radiotherapy Doctors,Carbon Ion Radiotherapy Near Me
+Chemo Radiotherapy,Chemo Radiotherapy Cost,Chemo Radiotherapy Cancer,Chemo Radiotherapy Doctors,Chemo Radiotherapy Near Me
+Chemotherapy Radiotherapy,Chemotherapy Radiotherapy Cost,Chemotherapy Radiotherapy Cancer,Chemotherapy Radiotherapy Doctors,Chemotherapy Radiotherapy Near Me
+Cobalt 60 Radiotherapy,Cobalt 60 Radiotherapy Cost,Cobalt 60 Radiotherapy Cancer,Cobalt 60 Radiotherapy Doctors,Cobalt 60 Radiotherapy Near Me
+Conformal Radiotherapy,Conformal Radiotherapy Cost,Conformal Radiotherapy Cancer,Conformal Radiotherapy Doctors,Conformal Radiotherapy Near Me
+Consolidation Radiotherapy,Consolidation Radiotherapy Cost,Consolidation Radiotherapy Cancer,Consolidation Radiotherapy Doctors,Consolidation Radiotherapy Near Me
+Conventional Radiotherapy,Conventional Radiotherapy Cost,Conventional Radiotherapy Cancer,Conventional Radiotherapy Doctors,Conventional Radiotherapy Near Me
+Curative Radiotherapy,Curative Radiotherapy Cost,Curative Radiotherapy Cancer,Curative Radiotherapy Doctors,Curative Radiotherapy Near Me
+Cyberknife Radiotherapy,Cyberknife Radiotherapy Cost,Cyberknife Radiotherapy Cancer,Cyberknife Radiotherapy Doctors,Cyberknife Radiotherapy Near Me
+DCIS Radiotherapy,DCIS Radiotherapy Cost,DCIS Radiotherapy Cancer,DCIS Radiotherapy Doctors,DCIS Radiotherapy Near Me
+Definitive Radiotherapy,Definitive Radiotherapy Cost,Definitive Radiotherapy Cancer,Definitive Radiotherapy Doctors,Definitive Radiotherapy Near Me
+DIBH Radiotherapy,DIBH Radiotherapy Cost,DIBH Radiotherapy Cancer,DIBH Radiotherapy Doctors,DIBH Radiotherapy Near Me
+DXT Radiotherapy,DXT Radiotherapy Cost,DXT Radiotherapy Cancer,DXT Radiotherapy Doctors,DXT Radiotherapy Near Me
+EBRT Radiotherapy,EBRT Radiotherapy Cost,EBRT Radiotherapy Cancer,EBRT Radiotherapy Doctors,EBRT Radiotherapy Near Me
+Electron Radiotherapy,Electron Radiotherapy Cost,Electron Radiotherapy Cancer,Electron Radiotherapy Doctors,Electron Radiotherapy Near Me
+EPID Radiotherapy,EPID Radiotherapy Cost,EPID Radiotherapy Cancer,EPID Radiotherapy Doctors,EPID Radiotherapy Near Me
+External Beam Radiotherapy,External Beam Radiotherapy Cost,External Beam Radiotherapy Cancer,External Beam Radiotherapy Doctors,External Beam Radiotherapy Near Me
+External Radiotherapy,External Radiotherapy Cost,External Radiotherapy Cancer,External Radiotherapy Doctors,External Radiotherapy Near Me
+Flash Radiotherapy,Flash Radiotherapy Cost,Flash Radiotherapy Cancer,Flash Radiotherapy Doctors,Flash Radiotherapy Near Me
+Fractionated Radiotherapy,Fractionated Radiotherapy Cost,Fractionated Radiotherapy Cancer,Fractionated Radiotherapy Doctors,Fractionated Radiotherapy Near Me
+Fractionated Stereotactic Radiotherapy,Fractionated Stereotactic Radiotherapy Cost,Fractionated Stereotactic Radiotherapy Cancer,Fractionated Stereotactic Radiotherapy Doctors,Fractionated Stereotactic Radiotherapy Near Me
+Gamma Knife Radiotherapy,Gamma Knife Radiotherapy Cost,Gamma Knife Radiotherapy Cancer,Gamma Knife Radiotherapy Doctors,Gamma Knife Radiotherapy Near Me
+Glioblastoma Radiotherapy,Glioblastoma Radiotherapy Cost,Glioblastoma Radiotherapy Cancer,Glioblastoma Radiotherapy Doctors,Glioblastoma Radiotherapy Near Me
+GTV Radiotherapy,GTV Radiotherapy Cost,GTV Radiotherapy Cancer,GTV Radiotherapy Doctors,GTV Radiotherapy Near Me
+Hemostatic Radiotherapy,Hemostatic Radiotherapy Cost,Hemostatic Radiotherapy Cancer,Hemostatic Radiotherapy Doctors,Hemostatic Radiotherapy Near Me
+Hyperfractionated Radiotherapy,Hyperfractionated Radiotherapy Cost,Hyperfractionated Radiotherapy Cancer,Hyperfractionated Radiotherapy Doctors,Hyperfractionated Radiotherapy Near Me
+Hypofractionated Radiotherapy,Hypofractionated Radiotherapy Cost,Hypofractionated Radiotherapy Cancer,Hypofractionated Radiotherapy Doctors,Hypofractionated Radiotherapy Near Me
+IFRT Radiotherapy,IFRT Radiotherapy Cost,IFRT Radiotherapy Cancer,IFRT Radiotherapy Doctors,IFRT Radiotherapy Near Me
+IGRT Radiotherapy,IGRT Radiotherapy Cost,IGRT Radiotherapy Cancer,IGRT Radiotherapy Doctors,IGRT Radiotherapy Near Me
+Image Guided Radiotherapy,Image Guided Radiotherapy Cost,Image Guided Radiotherapy Cancer,Image Guided Radiotherapy Doctors,Image Guided Radiotherapy Near Me
+IMRT Radiotherapy,IMRT Radiotherapy Cost,IMRT Radiotherapy Cancer,IMRT Radiotherapy Doctors,IMRT Radiotherapy Near Me
+Intensity Modulated Radiotherapy,Intensity Modulated Radiotherapy Cost,Intensity Modulated Radiotherapy Cancer,Intensity Modulated Radiotherapy Doctors,Intensity Modulated Radiotherapy Near Me
+Intensity Modulated Radiotherapy,Intensity Modulated Radiotherapy Cost,Intensity Modulated Radiotherapy Cancer,Intensity Modulated Radiotherapy Doctors,Intensity Modulated Radiotherapy Near Me
+Internal Radiotherapy,Internal Radiotherapy Cost,Internal Radiotherapy Cancer,Internal Radiotherapy Doctors,Internal Radiotherapy Near Me
+Intrabeam Radiotherapy,Intrabeam Radiotherapy Cost,Intrabeam Radiotherapy Cancer,Intrabeam Radiotherapy Doctors,Intrabeam Radiotherapy Near Me
+Intraoperative Radiotherapy,Intraoperative Radiotherapy Cost,Intraoperative Radiotherapy Cancer,Intraoperative Radiotherapy Doctors,Intraoperative Radiotherapy Near Me
+Involved Field Radiotherapy,Involved Field Radiotherapy Cost,Involved Field Radiotherapy Cancer,Involved Field Radiotherapy Doctors,Involved Field Radiotherapy Near Me
+Iodine Radiotherapy,Iodine Radiotherapy Cost,Iodine Radiotherapy Cancer,Iodine Radiotherapy Doctors,Iodine Radiotherapy Near Me
+ISRT Radiotherapy,ISRT Radiotherapy Cost,ISRT Radiotherapy Cancer,ISRT Radiotherapy Doctors,ISRT Radiotherapy Near Me
+Keloid Radiotherapy,Keloid Radiotherapy Cost,Keloid Radiotherapy Cancer,Keloid Radiotherapy Doctors,Keloid Radiotherapy Near Me
+Linac Radiotherapy,Linac Radiotherapy Cost,Linac Radiotherapy Cancer,Linac Radiotherapy Doctors,Linac Radiotherapy Near Me
+Mantle Field Radiotherapy,Mantle Field Radiotherapy Cost,Mantle Field Radiotherapy Cancer,Mantle Field Radiotherapy Doctors,Mantle Field Radiotherapy Near Me
+Mantle Radiotherapy,Mantle Radiotherapy Cost,Mantle Radiotherapy Cancer,Mantle Radiotherapy Doctors,Mantle Radiotherapy Near Me
+MD Radiotherapy,MD Radiotherapy Cost,MD Radiotherapy Cancer,MD Radiotherapy Doctors,MD Radiotherapy Near Me
+Melanoma Radiotherapy,Melanoma Radiotherapy Cost,Melanoma Radiotherapy Cancer,Melanoma Radiotherapy Doctors,Melanoma Radiotherapy Near Me
+Meningioma Radiotherapy,Meningioma Radiotherapy Cost,Meningioma Radiotherapy Cancer,Meningioma Radiotherapy Doctors,Meningioma Radiotherapy Near Me
+MLC Radiotherapy,MLC Radiotherapy Cost,MLC Radiotherapy Cancer,MLC Radiotherapy Doctors,MLC Radiotherapy Near Me
+Neck Radiotherapy,Neck Radiotherapy Cost,Neck Radiotherapy Cancer,Neck Radiotherapy Doctors,Neck Radiotherapy Near Me
+Neoadjuvant Radiotherapy,Neoadjuvant Radiotherapy Cost,Neoadjuvant Radiotherapy Cancer,Neoadjuvant Radiotherapy Doctors,Neoadjuvant Radiotherapy Near Me
+NHS Radiotherapy,NHS Radiotherapy Cost,NHS Radiotherapy Cancer,NHS Radiotherapy Doctors,NHS Radiotherapy Near Me
+Palliative Radiotherapy,Palliative Radiotherapy Cost,Palliative Radiotherapy Cancer,Palliative Radiotherapy Doctors,Palliative Radiotherapy Near Me
+Pdd Radiotherapy,Pdd Radiotherapy Cost,Pdd Radiotherapy Cancer,Pdd Radiotherapy Doctors,Pdd Radiotherapy Near Me
+Pelvic Radiotherapy,Pelvic Radiotherapy Cost,Pelvic Radiotherapy Cancer,Pelvic Radiotherapy Doctors,Pelvic Radiotherapy Near Me
+Plaque Radiotherapy,Plaque Radiotherapy Cost,Plaque Radiotherapy Cancer,Plaque Radiotherapy Doctors,Plaque Radiotherapy Near Me
+Precision Radiotherapy,Precision Radiotherapy Cost,Precision Radiotherapy Cancer,Precision Radiotherapy Doctors,Precision Radiotherapy Near Me
+Prostate Radiotherapy,Prostate Radiotherapy Cost,Prostate Radiotherapy Cancer,Prostate Radiotherapy Doctors,Prostate Radiotherapy Near Me
+Proton Beam Radiotherapy,Proton Beam Radiotherapy Cost,Proton Beam Radiotherapy Cancer,Proton Beam Radiotherapy Doctors,Proton Beam Radiotherapy Near Me
+Proton Radiotherapy,Proton Radiotherapy Cost,Proton Radiotherapy Cancer,Proton Radiotherapy Doctors,Proton Radiotherapy Near Me
+PRV Radiotherapy,PRV Radiotherapy Cost,PRV Radiotherapy Cancer,PRV Radiotherapy Doctors,PRV Radiotherapy Near Me
+PTV Radiotherapy,PTV Radiotherapy Cost,PTV Radiotherapy Cancer,PTV Radiotherapy Doctors,PTV Radiotherapy Near Me
+Quad Shot Radiotherapy,Quad Shot Radiotherapy Cost,Quad Shot Radiotherapy Cancer,Quad Shot Radiotherapy Doctors,Quad Shot Radiotherapy Near Me
+Quantec Radiotherapy,Quantec Radiotherapy Cost,Quantec Radiotherapy Cancer,Quantec Radiotherapy Doctors,Quantec Radiotherapy Near Me
+Radical Radiotherapy,Radical Radiotherapy Cost,Radical Radiotherapy Cancer,Radical Radiotherapy Doctors,Radical Radiotherapy Near Me
+Radiotherapy,Radiotherapy Cost,Radiotherapy Cancer,Radiotherapy Doctors,Radiotherapy Near Me
+Radiotherapy Ablation,Radiotherapy Ablation Cost,Radiotherapy Ablation Cancer,Radiotherapy Ablation Doctors,Radiotherapy Ablation Near Me
+Radiotherapy After Chemotherapy,Radiotherapy After Chemotherapy Cost,Radiotherapy After Chemotherapy Cancer,Radiotherapy After Chemotherapy Doctors,Radiotherapy After Chemotherapy Near Me
+Radiotherapy After Mastectomy,Radiotherapy After Mastectomy Cost,Radiotherapy After Mastectomy Cancer,Radiotherapy After Mastectomy Doctors,Radiotherapy After Mastectomy Near Me
+Radiotherapy Cost,Radiotherapy Cost Cost,Radiotherapy Cost Cancer,Radiotherapy Cost Doctors,Radiotherapy Cost Near Me
+Radiotherapy Doctor,Radiotherapy Doctor Cost,Radiotherapy Doctor Cancer,Radiotherapy Doctor Doctors,Radiotherapy Doctor Near Me
+Radiotherapy Near Me,Radiotherapy Near Me Cost,Radiotherapy Near Me Cancer,Radiotherapy Near Me Doctors,Radiotherapy Near Me Near Me
+Radiotherapy Oncology,Radiotherapy Oncology Cost,Radiotherapy Oncology Cancer,Radiotherapy Oncology Doctors,Radiotherapy Oncology Near Me
+Radiotherapy Physics,Radiotherapy Physics Cost,Radiotherapy Physics Cancer,Radiotherapy Physics Doctors,Radiotherapy Physics Near Me
+Radiotherapy Radiation Type,Radiotherapy Radiation Type Cost,Radiotherapy Radiation Type Cancer,Radiotherapy Radiation Type Doctors,Radiotherapy Radiation Type Near Me
+Rapidarc Radiotherapy,Rapidarc Radiotherapy Cost,Rapidarc Radiotherapy Cancer,Rapidarc Radiotherapy Doctors,Rapidarc Radiotherapy Near Me
+Respiratory Controlled Radiotherapy,Respiratory Controlled Radiotherapy Cost,Respiratory Controlled Radiotherapy Cancer,Respiratory Controlled Radiotherapy Doctors,Respiratory Controlled Radiotherapy Near Me
+SABR Radiotherapy,SABR Radiotherapy Cost,SABR Radiotherapy Cancer,SABR Radiotherapy Doctors,SABR Radiotherapy Near Me
+Salvage Radiotherapy,Salvage Radiotherapy Cost,Salvage Radiotherapy Cancer,Salvage Radiotherapy Doctors,Salvage Radiotherapy Near Me
+SBRT Radiotherapy,SBRT Radiotherapy Cost,SBRT Radiotherapy Cancer,SBRT Radiotherapy Doctors,SBRT Radiotherapy Near Me
+SGRT Radiotherapy,SGRT Radiotherapy Cost,SGRT Radiotherapy Cancer,SGRT Radiotherapy Doctors,SGRT Radiotherapy Near Me
+SIRT Radiotherapy,SIRT Radiotherapy Cost,SIRT Radiotherapy Cancer,SIRT Radiotherapy Doctors,SIRT Radiotherapy Near Me
+SRS Radiotherapy,SRS Radiotherapy Cost,SRS Radiotherapy Cancer,SRS Radiotherapy Doctors,SRS Radiotherapy Near Me
+SRT Radiotherapy,SRT Radiotherapy Cost,SRT Radiotherapy Cancer,SRT Radiotherapy Doctors,SRT Radiotherapy Near Me
+Stereotactic Ablative Radiotherapy,Stereotactic Ablative Radiotherapy Cost,Stereotactic Ablative Radiotherapy Cancer,Stereotactic Ablative Radiotherapy Doctors,Stereotactic Ablative Radiotherapy Near Me
+Stereotactic Body Radiotherapy,Stereotactic Body Radiotherapy Cost,Stereotactic Body Radiotherapy Cancer,Stereotactic Body Radiotherapy Doctors,Stereotactic Body Radiotherapy Near Me
+Stereotactic Radiotherapy,Stereotactic Radiotherapy Cost,Stereotactic Radiotherapy Cancer,Stereotactic Radiotherapy Doctors,Stereotactic Radiotherapy Near Me
+Stereotactic Radiotherapy,Stereotactic Radiotherapy Cost,Stereotactic Radiotherapy Cancer,Stereotactic Radiotherapy Doctors,Stereotactic Radiotherapy Near Me
+Stereotactic Radiotherapy Lung Cancer,Stereotactic Radiotherapy Lung Cancer Cost,Stereotactic Radiotherapy Lung Cancer Cancer,Stereotactic Radiotherapy Lung Cancer Doctors,Stereotactic Radiotherapy Lung Cancer Near Me
+Superficial Radiotherapy,Superficial Radiotherapy Cost,Superficial Radiotherapy Cancer,Superficial Radiotherapy Doctors,Superficial Radiotherapy Near Me
+Targeted Radiotherapy,Targeted Radiotherapy Cost,Targeted Radiotherapy Cancer,Targeted Radiotherapy Doctors,Targeted Radiotherapy Near Me
+TBI Radiotherapy,TBI Radiotherapy Cost,TBI Radiotherapy Cancer,TBI Radiotherapy Doctors,TBI Radiotherapy Near Me
+Teletherapy Radiotherapy,Teletherapy Radiotherapy Cost,Teletherapy Radiotherapy Cancer,Teletherapy Radiotherapy Doctors,Teletherapy Radiotherapy Near Me
+Therapeutic Ratio Radiotherapy,Therapeutic Ratio Radiotherapy Cost,Therapeutic Ratio Radiotherapy Cancer,Therapeutic Ratio Radiotherapy Doctors,Therapeutic Ratio Radiotherapy Near Me
+Truebeam Radiotherapy,Truebeam Radiotherapy Cost,Truebeam Radiotherapy Cancer,Truebeam Radiotherapy Doctors,Truebeam Radiotherapy Near Me
+VMAT Radiotherapy,VMAT Radiotherapy Cost,VMAT Radiotherapy Cancer,VMAT Radiotherapy Doctors,VMAT Radiotherapy Near Me
+Volumetric ARC Therapy,Volumetric ARC Therapy Cost,Volumetric ARC Therapy Cancer,Volumetric ARC Therapy Doctors,Volumetric ARC Therapy Near Me
+Whole Brain Radiotherapy,Whole Brain Radiotherapy Cost,Whole Brain Radiotherapy Cancer,Whole Brain Radiotherapy Doctors,Whole Brain Radiotherapy Near Me
+XRT Radiotherapy,XRT Radiotherapy Cost,XRT Radiotherapy Cancer,XRT Radiotherapy Doctors,XRT Radiotherapy Near Me

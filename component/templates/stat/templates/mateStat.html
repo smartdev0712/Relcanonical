@@ -1,0 +1,88 @@
+{% load static %}
+
+<div class="subheader bg-white h-100px" id="kt_subheader">
+    <div class="container flex-wrap flex-sm-nowrap">
+
+        <div class="d-none d-lg-flex align-items-center flex-wrap w-200px">
+            <a href="/">
+                <img alt="KreditRooom Logo" src="/static/assets/media/logos/logo_primary_letter.png"
+                    class="max-h-25px" />
+            </a>
+        </div>
+
+        <div class="subheader-nav nav flex-grow-1">
+
+            <span class="nav-item">
+
+                <!-- ===============================================-->
+                <!--    invitedMate starts here -->
+                <!-- ===============================================-->
+
+                {% include "mate/templates/invitedMate.html" %}
+
+                <!-- ===============================================-->
+                <!--    invitedMate ends here -->
+                <!-- ===============================================-->
+
+            </span>
+
+            <span class="nav-item">
+
+                <!-- ===============================================-->
+                <!--    convertedMate starts here -->
+                <!-- ===============================================-->
+
+                {% include "mate/templates/convertedMate.html" %}
+
+                <!-- ===============================================-->
+                <!--    convertedMate ends here -->
+                <!-- ===============================================-->
+
+            </span>
+
+            <span class="nav-item">
+
+                <!-- ===============================================-->
+                <!--    viewedMate starts here -->
+                <!-- ===============================================-->
+
+                {% include "mate/templates/viewedMate.html" %}
+
+                <!-- ===============================================-->
+                <!--    viewedMate ends here -->
+                <!-- ===============================================-->
+
+            </span>
+
+            <span class="nav-item">
+
+                <!-- ===============================================-->
+                <!--    bouncedMate starts here -->
+                <!-- ===============================================-->
+
+                {% include "mate/templates/bouncedMate.html" %}
+
+                <!-- ===============================================-->
+                <!--    bouncedMate ends here -->
+                <!-- ===============================================-->
+
+            </span>
+
+            <span class="nav-item">
+
+                <!-- ===============================================-->
+                <!--    flaggedMate starts here -->
+                <!-- ===============================================-->
+
+                {% include "mate/templates/flaggedMate.html" %}
+
+                <!-- ===============================================-->
+                <!--    flaggedMate ends here -->
+                <!-- ===============================================-->
+
+            </span>
+
+        </div>
+
+    </div>
+</div>

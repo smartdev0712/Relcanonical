@@ -1,0 +1,1276 @@
+[
+	{
+		"name": "Abdominal Pain Heart Attack",
+		"treatment": "Abdominal Pain Heart Attack Treatment",
+		"diagnosis": "Abdominal Pain Heart Attack Diagnosis",
+		"test": "Abdominal Pain Heart Attack Test",
+		"cure": "Abdominal Pain Heart Attack Cure"
+	},
+	{
+		"name": "Acid Reflux Heart Attack",
+		"treatment": "Acid Reflux Heart Attack Treatment",
+		"diagnosis": "Acid Reflux Heart Attack Diagnosis",
+		"test": "Acid Reflux Heart Attack Test",
+		"cure": "Acid Reflux Heart Attack Cure"
+	},
+	{
+		"name": "Acquired Heart Disease",
+		"treatment": "Acquired Heart Disease Treatment",
+		"diagnosis": "Acquired Heart Disease Diagnosis",
+		"test": "Acquired Heart Disease Test",
+		"cure": "Acquired Heart Disease Cure"
+	},
+	{
+		"name": "Acute Heart Attack",
+		"treatment": "Acute Heart Attack Treatment",
+		"diagnosis": "Acute Heart Attack Diagnosis",
+		"test": "Acute Heart Attack Test",
+		"cure": "Acute Heart Attack Cure"
+	},
+	{
+		"name": "Acute Ischemic Heart Disease",
+		"treatment": "Acute Ischemic Heart Disease Treatment",
+		"diagnosis": "Acute Ischemic Heart Disease Diagnosis",
+		"test": "Acute Ischemic Heart Disease Test",
+		"cure": "Acute Ischemic Heart Disease Cure"
+	},
+	{
+		"name": "Acyanotic Congenital Heart Disease",
+		"treatment": "Acyanotic Congenital Heart Disease Treatment",
+		"diagnosis": "Acyanotic Congenital Heart Disease Diagnosis",
+		"test": "Acyanotic Congenital Heart Disease Test",
+		"cure": "Acyanotic Congenital Heart Disease Cure"
+	},
+	{
+		"name": "Acyanotic Heart Disease",
+		"treatment": "Acyanotic Heart Disease Treatment",
+		"diagnosis": "Acyanotic Heart Disease Diagnosis",
+		"test": "Acyanotic Heart Disease Test",
+		"cure": "Acyanotic Heart Disease Cure"
+	},
+	{
+		"name": "Adrenaline Heart Attack",
+		"treatment": "Adrenaline Heart Attack Treatment",
+		"diagnosis": "Adrenaline Heart Attack Diagnosis",
+		"test": "Adrenaline Heart Attack Test",
+		"cure": "Adrenaline Heart Attack Cure"
+	},
+	{
+		"name": "Adult Congenital Heart Disease",
+		"treatment": "Adult Congenital Heart Disease Treatment",
+		"diagnosis": "Adult Congenital Heart Disease Diagnosis",
+		"test": "Adult Congenital Heart Disease Test",
+		"cure": "Adult Congenital Heart Disease Cure"
+	},
+	{
+		"name": "AF Heart Disease",
+		"treatment": "AF Heart Disease Treatment",
+		"diagnosis": "AF Heart Disease Diagnosis",
+		"test": "AF Heart Disease Test",
+		"cure": "AF Heart Disease Cure"
+	},
+	{
+		"name": "AFIB Heart Attack",
+		"treatment": "AFIB Heart Attack Treatment",
+		"diagnosis": "AFIB Heart Attack Diagnosis",
+		"test": "AFIB Heart Attack Test",
+		"cure": "AFIB Heart Attack Cure"
+	},
+	{
+		"name": "Alcohol Heart Attack",
+		"treatment": "Alcohol Heart Attack Treatment",
+		"diagnosis": "Alcohol Heart Attack Diagnosis",
+		"test": "Alcohol Heart Attack Test",
+		"cure": "Alcohol Heart Attack Cure"
+	},
+	{
+		"name": "Alcohol Heart Disease",
+		"treatment": "Alcohol Heart Disease Treatment",
+		"diagnosis": "Alcohol Heart Disease Diagnosis",
+		"test": "Alcohol Heart Disease Test",
+		"cure": "Alcohol Heart Disease Cure"
+	},
+	{
+		"name": "Alcohol Induced Heart Attack",
+		"treatment": "Alcohol Induced Heart Attack Treatment",
+		"diagnosis": "Alcohol Induced Heart Attack Diagnosis",
+		"test": "Alcohol Induced Heart Attack Test",
+		"cure": "Alcohol Induced Heart Attack Cure"
+	},
+	{
+		"name": "AMI Heart Attack",
+		"treatment": "AMI Heart Attack Treatment",
+		"diagnosis": "AMI Heart Attack Diagnosis",
+		"test": "AMI Heart Attack Test",
+		"cure": "AMI Heart Attack Cure"
+	},
+	{
+		"name": "Amyloid Heart Disease",
+		"treatment": "Amyloid Heart Disease Treatment",
+		"diagnosis": "Amyloid Heart Disease Diagnosis",
+		"test": "Amyloid Heart Disease Test",
+		"cure": "Amyloid Heart Disease Cure"
+	},
+	{
+		"name": "Angina Heart Attack",
+		"treatment": "Angina Heart Attack Treatment",
+		"diagnosis": "Angina Heart Attack Diagnosis",
+		"test": "Angina Heart Attack Test",
+		"cure": "Angina Heart Attack Cure"
+	},
+	{
+		"name": "Anxiety Heart Attack",
+		"treatment": "Anxiety Heart Attack Treatment",
+		"diagnosis": "Anxiety Heart Attack Diagnosis",
+		"test": "Anxiety Heart Attack Test",
+		"cure": "Anxiety Heart Attack Cure"
+	},
+	{
+		"name": "Arteriosclerotic Heart Disease",
+		"treatment": "Arteriosclerotic Heart Disease Treatment",
+		"diagnosis": "Arteriosclerotic Heart Disease Diagnosis",
+		"test": "Arteriosclerotic Heart Disease Test",
+		"cure": "Arteriosclerotic Heart Disease Cure"
+	},
+	{
+		"name": "Atherosclerotic Heart Disease",
+		"treatment": "Atherosclerotic Heart Disease Treatment",
+		"diagnosis": "Atherosclerotic Heart Disease Diagnosis",
+		"test": "Atherosclerotic Heart Disease Test",
+		"cure": "Atherosclerotic Heart Disease Cure"
+	},
+	{
+		"name": "Ativan Heart Attack",
+		"treatment": "Ativan Heart Attack Treatment",
+		"diagnosis": "Ativan Heart Attack Diagnosis",
+		"test": "Ativan Heart Attack Test",
+		"cure": "Ativan Heart Attack Cure"
+	},
+	{
+		"name": "Atrial Fibrillation Heart Attack",
+		"treatment": "Atrial Fibrillation Heart Attack Treatment",
+		"diagnosis": "Atrial Fibrillation Heart Attack Diagnosis",
+		"test": "Atrial Fibrillation Heart Attack Test",
+		"cure": "Atrial Fibrillation Heart Attack Cure"
+	},
+	{
+		"name": "Attack Heart Attack",
+		"treatment": "Attack Heart Attack Treatment",
+		"diagnosis": "Attack Heart Attack Diagnosis",
+		"test": "Attack Heart Attack Test",
+		"cure": "Attack Heart Attack Cure"
+	},
+	{
+		"name": "Belching Heart Attack",
+		"treatment": "Belching Heart Attack Treatment",
+		"diagnosis": "Belching Heart Attack Diagnosis",
+		"test": "Belching Heart Attack Test",
+		"cure": "Belching Heart Attack Cure"
+	},
+	{
+		"name": "Binge Drinking Heart Attack",
+		"treatment": "Binge Drinking Heart Attack Treatment",
+		"diagnosis": "Binge Drinking Heart Attack Diagnosis",
+		"test": "Binge Drinking Heart Attack Test",
+		"cure": "Binge Drinking Heart Attack Cure"
+	},
+	{
+		"name": "Black Widow Heart Attack",
+		"treatment": "Black Widow Heart Attack Treatment",
+		"diagnosis": "Black Widow Heart Attack Diagnosis",
+		"test": "Black Widow Heart Attack Test",
+		"cure": "Black Widow Heart Attack Cure"
+	},
+	{
+		"name": "Blood Clot Heart Attack",
+		"treatment": "Blood Clot Heart Attack Treatment",
+		"diagnosis": "Blood Clot Heart Attack Diagnosis",
+		"test": "Blood Clot Heart Attack Test",
+		"cure": "Blood Clot Heart Attack Cure"
+	},
+	{
+		"name": "Broken Heart Disease",
+		"treatment": "Broken Heart Disease Treatment",
+		"diagnosis": "Broken Heart Disease Diagnosis",
+		"test": "Broken Heart Disease Test",
+		"cure": "Broken Heart Disease Cure"
+	},
+	{
+		"name": "Broken Heart Heart Attack",
+		"treatment": "Broken Heart Heart Attack Treatment",
+		"diagnosis": "Broken Heart Heart Attack Diagnosis",
+		"test": "Broken Heart Heart Attack Test",
+		"cure": "Broken Heart Heart Attack Cure"
+	},
+	{
+		"name": "Cad Heart Disease",
+		"treatment": "Cad Heart Disease Treatment",
+		"diagnosis": "Cad Heart Disease Diagnosis",
+		"test": "Cad Heart Disease Test",
+		"cure": "Cad Heart Disease Cure"
+	},
+	{
+		"name": "Calf Heart Attack",
+		"treatment": "Calf Heart Attack Treatment",
+		"diagnosis": "Calf Heart Attack Diagnosis",
+		"test": "Calf Heart Attack Test",
+		"cure": "Calf Heart Attack Cure"
+	},
+	{
+		"name": "Carcinoid Heart Disease",
+		"treatment": "Carcinoid Heart Disease Treatment",
+		"diagnosis": "Carcinoid Heart Disease Diagnosis",
+		"test": "Carcinoid Heart Disease Test",
+		"cure": "Carcinoid Heart Disease Cure"
+	},
+	{
+		"name": "Cardiac Heart Attack",
+		"treatment": "Cardiac Heart Attack Treatment",
+		"diagnosis": "Cardiac Heart Attack Diagnosis",
+		"test": "Cardiac Heart Attack Test",
+		"cure": "Cardiac Heart Attack Cure"
+	},
+	{
+		"name": "Cardiovascular Heart Disease",
+		"treatment": "Cardiovascular Heart Disease Treatment",
+		"diagnosis": "Cardiovascular Heart Disease Diagnosis",
+		"test": "Cardiovascular Heart Disease Test",
+		"cure": "Cardiovascular Heart Disease Cure"
+	},
+	{
+		"name": "Catastrophic Heart Attack",
+		"treatment": "Catastrophic Heart Attack Treatment",
+		"diagnosis": "Catastrophic Heart Attack Diagnosis",
+		"test": "Catastrophic Heart Attack Test",
+		"cure": "Catastrophic Heart Attack Cure"
+	},
+	{
+		"name": "Cayenne Pepper Heart Attack",
+		"treatment": "Cayenne Pepper Heart Attack Treatment",
+		"diagnosis": "Cayenne Pepper Heart Attack Diagnosis",
+		"test": "Cayenne Pepper Heart Attack Test",
+		"cure": "Cayenne Pepper Heart Attack Cure"
+	},
+	{
+		"name": "CDC Heart Disease",
+		"treatment": "CDC Heart Disease Treatment",
+		"diagnosis": "CDC Heart Disease Diagnosis",
+		"test": "CDC Heart Disease Test",
+		"cure": "CDC Heart Disease Cure"
+	},
+	{
+		"name": "Chest Pain After Heart Attack",
+		"treatment": "Chest Pain After Heart Attack Treatment",
+		"diagnosis": "Chest Pain After Heart Attack Diagnosis",
+		"test": "Chest Pain After Heart Attack Test",
+		"cure": "Chest Pain After Heart Attack Cure"
+	},
+	{
+		"name": "Chest Pain Heart Attack",
+		"treatment": "Chest Pain Heart Attack Treatment",
+		"diagnosis": "Chest Pain Heart Attack Diagnosis",
+		"test": "Chest Pain Heart Attack Test",
+		"cure": "Chest Pain Heart Attack Cure"
+	},
+	{
+		"name": "Cholesterol Heart Attack",
+		"treatment": "Cholesterol Heart Attack Treatment",
+		"diagnosis": "Cholesterol Heart Attack Diagnosis",
+		"test": "Cholesterol Heart Attack Test",
+		"cure": "Cholesterol Heart Attack Cure"
+	},
+	{
+		"name": "Chronic Heart Disease",
+		"treatment": "Chronic Heart Disease Treatment",
+		"diagnosis": "Chronic Heart Disease Diagnosis",
+		"test": "Chronic Heart Disease Test",
+		"cure": "Chronic Heart Disease Cure"
+	},
+	{
+		"name": "Chronic Ischaemic Heart Disease",
+		"treatment": "Chronic Ischaemic Heart Disease Treatment",
+		"diagnosis": "Chronic Ischaemic Heart Disease Diagnosis",
+		"test": "Chronic Ischaemic Heart Disease Test",
+		"cure": "Chronic Ischaemic Heart Disease Cure"
+	},
+	{
+		"name": "Chronic Ischemic Heart Disease",
+		"treatment": "Chronic Ischemic Heart Disease Treatment",
+		"diagnosis": "Chronic Ischemic Heart Disease Diagnosis",
+		"test": "Chronic Ischemic Heart Disease Test",
+		"cure": "Chronic Ischemic Heart Disease Cure"
+	},
+	{
+		"name": "Chronic Rheumatic Heart Disease",
+		"treatment": "Chronic Rheumatic Heart Disease Treatment",
+		"diagnosis": "Chronic Rheumatic Heart Disease Diagnosis",
+		"test": "Chronic Rheumatic Heart Disease Test",
+		"cure": "Chronic Rheumatic Heart Disease Cure"
+	},
+	{
+		"name": "Clogged Ear Heart Attack",
+		"treatment": "Clogged Ear Heart Attack Treatment",
+		"diagnosis": "Clogged Ear Heart Attack Diagnosis",
+		"test": "Clogged Ear Heart Attack Test",
+		"cure": "Clogged Ear Heart Attack Cure"
+	},
+	{
+		"name": "Coffee Heart Attack",
+		"treatment": "Coffee Heart Attack Treatment",
+		"diagnosis": "Coffee Heart Attack Diagnosis",
+		"test": "Coffee Heart Attack Test",
+		"cure": "Coffee Heart Attack Cure"
+	},
+	{
+		"name": "Congenital Heart Disease",
+		"treatment": "Congenital Heart Disease Treatment",
+		"diagnosis": "Congenital Heart Disease Diagnosis",
+		"test": "Congenital Heart Disease Test",
+		"cure": "Congenital Heart Disease Cure"
+	},
+	{
+		"name": "Congestive Heart Disease",
+		"treatment": "Congestive Heart Disease Treatment",
+		"diagnosis": "Congestive Heart Disease Diagnosis",
+		"test": "Congestive Heart Disease Test",
+		"cure": "Congestive Heart Disease Cure"
+	},
+	{
+		"name": "Constipation Heart Attack",
+		"treatment": "Constipation Heart Attack Treatment",
+		"diagnosis": "Constipation Heart Attack Diagnosis",
+		"test": "Constipation Heart Attack Test",
+		"cure": "Constipation Heart Attack Cure"
+	},
+	{
+		"name": "Coronary Heart Attack",
+		"treatment": "Coronary Heart Attack Treatment",
+		"diagnosis": "Coronary Heart Attack Diagnosis",
+		"test": "Coronary Heart Attack Test",
+		"cure": "Coronary Heart Attack Cure"
+	},
+	{
+		"name": "Coronary Heart Disease",
+		"treatment": "Coronary Heart Disease Treatment",
+		"diagnosis": "Coronary Heart Disease Diagnosis",
+		"test": "Coronary Heart Disease Test",
+		"cure": "Coronary Heart Disease Cure"
+	},
+	{
+		"name": "Coughing Heart Attack",
+		"treatment": "Coughing Heart Attack Treatment",
+		"diagnosis": "Coughing Heart Attack Diagnosis",
+		"test": "Coughing Heart Attack Test",
+		"cure": "Coughing Heart Attack Cure"
+	},
+	{
+		"name": "Cyanotic Congenital Heart Disease",
+		"treatment": "Cyanotic Congenital Heart Disease Treatment",
+		"diagnosis": "Cyanotic Congenital Heart Disease Diagnosis",
+		"test": "Cyanotic Congenital Heart Disease Test",
+		"cure": "Cyanotic Congenital Heart Disease Cure"
+	},
+	{
+		"name": "Cyanotic Heart Disease",
+		"treatment": "Cyanotic Heart Disease Treatment",
+		"diagnosis": "Cyanotic Heart Disease Diagnosis",
+		"test": "Cyanotic Heart Disease Test",
+		"cure": "Cyanotic Heart Disease Cure"
+	},
+	{
+		"name": "D Dimer Heart Attack",
+		"treatment": "D Dimer Heart Attack Treatment",
+		"diagnosis": "D Dimer Heart Attack Diagnosis",
+		"test": "D Dimer Heart Attack Test",
+		"cure": "D Dimer Heart Attack Cure"
+	},
+	{
+		"name": "Daylight Savings Heart Attack",
+		"treatment": "Daylight Savings Heart Attack Treatment",
+		"diagnosis": "Daylight Savings Heart Attack Diagnosis",
+		"test": "Daylight Savings Heart Attack Test",
+		"cure": "Daylight Savings Heart Attack Cure"
+	},
+	{
+		"name": "Degenerative Heart Disease",
+		"treatment": "Degenerative Heart Disease Treatment",
+		"diagnosis": "Degenerative Heart Disease Diagnosis",
+		"test": "Degenerative Heart Disease Test",
+		"cure": "Degenerative Heart Disease Cure"
+	},
+	{
+		"name": "Dehydration Heart Attack",
+		"treatment": "Dehydration Heart Attack Treatment",
+		"diagnosis": "Dehydration Heart Attack Diagnosis",
+		"test": "Dehydration Heart Attack Test",
+		"cure": "Dehydration Heart Attack Cure"
+	},
+	{
+		"name": "Diabetes Heart Attack",
+		"treatment": "Diabetes Heart Attack Treatment",
+		"diagnosis": "Diabetes Heart Attack Diagnosis",
+		"test": "Diabetes Heart Attack Test",
+		"cure": "Diabetes Heart Attack Cure"
+	},
+	{
+		"name": "Diarrhea Heart Attack",
+		"treatment": "Diarrhea Heart Attack Treatment",
+		"diagnosis": "Diarrhea Heart Attack Diagnosis",
+		"test": "Diarrhea Heart Attack Test",
+		"cure": "Diarrhea Heart Attack Cure"
+	},
+	{
+		"name": "Dizziness Heart Attack",
+		"treatment": "Dizziness Heart Attack Treatment",
+		"diagnosis": "Dizziness Heart Attack Diagnosis",
+		"test": "Dizziness Heart Attack Test",
+		"cure": "Dizziness Heart Attack Cure"
+	},
+	{
+		"name": "Double Heart Attack",
+		"treatment": "Double Heart Attack Treatment",
+		"diagnosis": "Double Heart Attack Diagnosis",
+		"test": "Double Heart Attack Test",
+		"cure": "Double Heart Attack Cure"
+	},
+	{
+		"name": "Dry Cough Heart Disease",
+		"treatment": "Dry Cough Heart Disease Treatment",
+		"diagnosis": "Dry Cough Heart Disease Diagnosis",
+		"test": "Dry Cough Heart Disease Test",
+		"cure": "Dry Cough Heart Disease Cure"
+	},
+	{
+		"name": "Ductal Dependent Congenital Heart Disease",
+		"treatment": "Ductal Dependent Congenital Heart Disease Treatment",
+		"diagnosis": "Ductal Dependent Congenital Heart Disease Diagnosis",
+		"test": "Ductal Dependent Congenital Heart Disease Test",
+		"cure": "Ductal Dependent Congenital Heart Disease Cure"
+	},
+	{
+		"name": "DVLA Heart Attack",
+		"treatment": "DVLA Heart Attack Treatment",
+		"diagnosis": "DVLA Heart Attack Diagnosis",
+		"test": "DVLA Heart Attack Test",
+		"cure": "DVLA Heart Attack Cure"
+	},
+	{
+		"name": "Ear Pain Heart Attack",
+		"treatment": "Ear Pain Heart Attack Treatment",
+		"diagnosis": "Ear Pain Heart Attack Diagnosis",
+		"test": "Ear Pain Heart Attack Test",
+		"cure": "Ear Pain Heart Attack Cure"
+	},
+	{
+		"name": "ECG Detect Heart Attack",
+		"treatment": "ECG Detect Heart Attack Treatment",
+		"diagnosis": "ECG Detect Heart Attack Diagnosis",
+		"test": "ECG Detect Heart Attack Test",
+		"cure": "ECG Detect Heart Attack Cure"
+	},
+	{
+		"name": "EKG Heart Attack",
+		"treatment": "EKG Heart Attack Treatment",
+		"diagnosis": "EKG Heart Attack Diagnosis",
+		"test": "EKG Heart Attack Test",
+		"cure": "EKG Heart Attack Cure"
+	},
+	{
+		"name": "Elbow Pain Heart Attack",
+		"treatment": "Elbow Pain Heart Attack Treatment",
+		"diagnosis": "Elbow Pain Heart Attack Diagnosis",
+		"test": "Elbow Pain Heart Attack Test",
+		"cure": "Elbow Pain Heart Attack Cure"
+	},
+	{
+		"name": "Empty Syringe Heart Attack",
+		"treatment": "Empty Syringe Heart Attack Treatment",
+		"diagnosis": "Empty Syringe Heart Attack Diagnosis",
+		"test": "Empty Syringe Heart Attack Test",
+		"cure": "Empty Syringe Heart Attack Cure"
+	},
+	{
+		"name": "Energy Drinks Heart Attack",
+		"treatment": "Energy Drinks Heart Attack Treatment",
+		"diagnosis": "Energy Drinks Heart Attack Diagnosis",
+		"test": "Energy Drinks Heart Attack Test",
+		"cure": "Energy Drinks Heart Attack Cure"
+	},
+	{
+		"name": "Fatal Heart Attack",
+		"treatment": "Fatal Heart Attack Treatment",
+		"diagnosis": "Fatal Heart Attack Diagnosis",
+		"test": "Fatal Heart Attack Test",
+		"cure": "Fatal Heart Attack Cure"
+	},
+	{
+		"name": "Female Heart Attack",
+		"treatment": "Female Heart Attack Treatment",
+		"diagnosis": "Female Heart Attack Diagnosis",
+		"test": "Female Heart Attack Test",
+		"cure": "Female Heart Attack Cure"
+	},
+	{
+		"name": "First Heart Attack",
+		"treatment": "First Heart Attack Treatment",
+		"diagnosis": "First Heart Attack Diagnosis",
+		"test": "First Heart Attack Test",
+		"cure": "First Heart Attack Cure"
+	},
+	{
+		"name": "Foot Pain Heart Attack",
+		"treatment": "Foot Pain Heart Attack Treatment",
+		"diagnosis": "Foot Pain Heart Attack Diagnosis",
+		"test": "Foot Pain Heart Attack Test",
+		"cure": "Foot Pain Heart Attack Cure"
+	},
+	{
+		"name": "Genetic Heart Disease",
+		"treatment": "Genetic Heart Disease Treatment",
+		"diagnosis": "Genetic Heart Disease Diagnosis",
+		"test": "Genetic Heart Disease Test",
+		"cure": "Genetic Heart Disease Cure"
+	},
+	{
+		"name": "Gerd Heart Attack",
+		"treatment": "Gerd Heart Attack Treatment",
+		"diagnosis": "Gerd Heart Attack Diagnosis",
+		"test": "Gerd Heart Attack Test",
+		"cure": "Gerd Heart Attack Cure"
+	},
+	{
+		"name": "GOT Heart Attack",
+		"treatment": "GOT Heart Attack Treatment",
+		"diagnosis": "GOT Heart Attack Diagnosis",
+		"test": "GOT Heart Attack Test",
+		"cure": "GOT Heart Attack Cure"
+	},
+	{
+		"name": "Grey Skin Colour Heart Disease",
+		"treatment": "Grey Skin Colour Heart Disease Treatment",
+		"diagnosis": "Grey Skin Colour Heart Disease Diagnosis",
+		"test": "Grey Skin Colour Heart Disease Test",
+		"cure": "Grey Skin Colour Heart Disease Cure"
+	},
+	{
+		"name": "HCM Heart Disease",
+		"treatment": "HCM Heart Disease Treatment",
+		"diagnosis": "HCM Heart Disease Diagnosis",
+		"test": "HCM Heart Disease Test",
+		"cure": "HCM Heart Disease Cure"
+	},
+	{
+		"name": "Heart Attack",
+		"treatment": "Heart Attack Treatment",
+		"diagnosis": "Heart Attack Diagnosis",
+		"test": "Heart Attack Test",
+		"cure": "Heart Attack Cure"
+	},
+	{
+		"name": "Heart Disease",
+		"treatment": "Heart Disease Treatment",
+		"diagnosis": "Heart Disease Diagnosis",
+		"test": "Heart Disease Test",
+		"cure": "Heart Disease Cure"
+	},
+	{
+		"name": "Heart Disease Symptoms",
+		"treatment": "Heart Disease Symptoms Treatment",
+		"diagnosis": "Heart Disease Symptoms Diagnosis",
+		"test": "Heart Disease Symptoms Test",
+		"cure": "Heart Disease Symptoms Cure"
+	},
+	{
+		"name": "Heart Failure Heart Attack",
+		"treatment": "Heart Failure Heart Attack Treatment",
+		"diagnosis": "Heart Failure Heart Attack Diagnosis",
+		"test": "Heart Failure Heart Attack Test",
+		"cure": "Heart Failure Heart Attack Cure"
+	},
+	{
+		"name": "Heart Muscle Disease",
+		"treatment": "Heart Muscle Disease Treatment",
+		"diagnosis": "Heart Muscle Disease Diagnosis",
+		"test": "Heart Muscle Disease Test",
+		"cure": "Heart Muscle Disease Cure"
+	},
+	{
+		"name": "Heart Valve Disease",
+		"treatment": "Heart Valve Disease Treatment",
+		"diagnosis": "Heart Valve Disease Diagnosis",
+		"test": "Heart Valve Disease Test",
+		"cure": "Heart Valve Disease Cure"
+	},
+	{
+		"name": "Hereditary Heart Disease",
+		"treatment": "Hereditary Heart Disease Treatment",
+		"diagnosis": "Hereditary Heart Disease Diagnosis",
+		"test": "Hereditary Heart Disease Test",
+		"cure": "Hereditary Heart Disease Cure"
+	},
+	{
+		"name": "Hiccups Heart Attack",
+		"treatment": "Hiccups Heart Attack Treatment",
+		"diagnosis": "Hiccups Heart Attack Diagnosis",
+		"test": "Hiccups Heart Attack Test",
+		"cure": "Hiccups Heart Attack Cure"
+	},
+	{
+		"name": "High Blood Pressure Heart Attack",
+		"treatment": "High Blood Pressure Heart Attack Treatment",
+		"diagnosis": "High Blood Pressure Heart Attack Diagnosis",
+		"test": "High Blood Pressure Heart Attack Test",
+		"cure": "High Blood Pressure Heart Attack Cure"
+	},
+	{
+		"name": "High Cholesterol Heart Attack",
+		"treatment": "High Cholesterol Heart Attack Treatment",
+		"diagnosis": "High Cholesterol Heart Attack Diagnosis",
+		"test": "High Cholesterol Heart Attack Test",
+		"cure": "High Cholesterol Heart Attack Cure"
+	},
+	{
+		"name": "Hypertension Heart Attack",
+		"treatment": "Hypertension Heart Attack Treatment",
+		"diagnosis": "Hypertension Heart Attack Diagnosis",
+		"test": "Hypertension Heart Attack Test",
+		"cure": "Hypertension Heart Attack Cure"
+	},
+	{
+		"name": "Hypertensive Heart Disease",
+		"treatment": "Hypertensive Heart Disease Treatment",
+		"diagnosis": "Hypertensive Heart Disease Diagnosis",
+		"test": "Hypertensive Heart Disease Test",
+		"cure": "Hypertensive Heart Disease Cure"
+	},
+	{
+		"name": "Hypertrophic Heart Disease",
+		"treatment": "Hypertrophic Heart Disease Treatment",
+		"diagnosis": "Hypertrophic Heart Disease Diagnosis",
+		"test": "Hypertrophic Heart Disease Test",
+		"cure": "Hypertrophic Heart Disease Cure"
+	},
+	{
+		"name": "Impending Heart Attack",
+		"treatment": "Impending Heart Attack Treatment",
+		"diagnosis": "Impending Heart Attack Diagnosis",
+		"test": "Impending Heart Attack Test",
+		"cure": "Impending Heart Attack Cure"
+	},
+	{
+		"name": "Indigestion Heart Attack",
+		"treatment": "Indigestion Heart Attack Treatment",
+		"diagnosis": "Indigestion Heart Attack Diagnosis",
+		"test": "Indigestion Heart Attack Test",
+		"cure": "Indigestion Heart Attack Cure"
+	},
+	{
+		"name": "Induced Heart Attack",
+		"treatment": "Induced Heart Attack Treatment",
+		"diagnosis": "Induced Heart Attack Diagnosis",
+		"test": "Induced Heart Attack Test",
+		"cure": "Induced Heart Attack Cure"
+	},
+	{
+		"name": "Inferior Heart Attack",
+		"treatment": "Inferior Heart Attack Treatment",
+		"diagnosis": "Inferior Heart Attack Diagnosis",
+		"test": "Inferior Heart Attack Test",
+		"cure": "Inferior Heart Attack Cure"
+	},
+	{
+		"name": "Inflammatory Heart Disease",
+		"treatment": "Inflammatory Heart Disease Treatment",
+		"diagnosis": "Inflammatory Heart Disease Diagnosis",
+		"test": "Inflammatory Heart Disease Test",
+		"cure": "Inflammatory Heart Disease Cure"
+	},
+	{
+		"name": "Ischemic Heart Attack",
+		"treatment": "Ischemic Heart Attack Treatment",
+		"diagnosis": "Ischemic Heart Attack Diagnosis",
+		"test": "Ischemic Heart Attack Test",
+		"cure": "Ischemic Heart Attack Cure"
+	},
+	{
+		"name": "Ischemic Heart Disease",
+		"treatment": "Ischemic Heart Disease Treatment",
+		"diagnosis": "Ischemic Heart Disease Diagnosis",
+		"test": "Ischemic Heart Disease Test",
+		"cure": "Ischemic Heart Disease Cure"
+	},
+	{
+		"name": "Jaw Pain Heart Attack",
+		"treatment": "Jaw Pain Heart Attack Treatment",
+		"diagnosis": "Jaw Pain Heart Attack Diagnosis",
+		"test": "Jaw Pain Heart Attack Test",
+		"cure": "Jaw Pain Heart Attack Cure"
+	},
+	{
+		"name": "Lad Heart Attack",
+		"treatment": "Lad Heart Attack Treatment",
+		"diagnosis": "Lad Heart Attack Diagnosis",
+		"test": "Lad Heart Attack Test",
+		"cure": "Lad Heart Attack Cure"
+	},
+	{
+		"name": "Left Leg Numb Heart Attack",
+		"treatment": "Left Leg Numb Heart Attack Treatment",
+		"diagnosis": "Left Leg Numb Heart Attack Diagnosis",
+		"test": "Left Leg Numb Heart Attack Test",
+		"cure": "Left Leg Numb Heart Attack Cure"
+	},
+	{
+		"name": "Left Ring Finger Pain Heart Attack",
+		"treatment": "Left Ring Finger Pain Heart Attack Treatment",
+		"diagnosis": "Left Ring Finger Pain Heart Attack Diagnosis",
+		"test": "Left Ring Finger Pain Heart Attack Test",
+		"cure": "Left Ring Finger Pain Heart Attack Cure"
+	},
+	{
+		"name": "Left Shoulder Blade Pain Heart Attack",
+		"treatment": "Left Shoulder Blade Pain Heart Attack Treatment",
+		"diagnosis": "Left Shoulder Blade Pain Heart Attack Diagnosis",
+		"test": "Left Shoulder Blade Pain Heart Attack Test",
+		"cure": "Left Shoulder Blade Pain Heart Attack Cure"
+	},
+	{
+		"name": "Left Shoulder Pain Heart Attack",
+		"treatment": "Left Shoulder Pain Heart Attack Treatment",
+		"diagnosis": "Left Shoulder Pain Heart Attack Diagnosis",
+		"test": "Left Shoulder Pain Heart Attack Test",
+		"cure": "Left Shoulder Pain Heart Attack Cure"
+	},
+	{
+		"name": "Leg Pain Heart Attack",
+		"treatment": "Leg Pain Heart Attack Treatment",
+		"diagnosis": "Leg Pain Heart Attack Diagnosis",
+		"test": "Leg Pain Heart Attack Test",
+		"cure": "Leg Pain Heart Attack Cure"
+	},
+	{
+		"name": "Low Blood Pressure Heart Attack",
+		"treatment": "Low Blood Pressure Heart Attack Treatment",
+		"diagnosis": "Low Blood Pressure Heart Attack Diagnosis",
+		"test": "Low Blood Pressure Heart Attack Test",
+		"cure": "Low Blood Pressure Heart Attack Cure"
+	},
+	{
+		"name": "Low Bp Heart Attack",
+		"treatment": "Low Bp Heart Attack Treatment",
+		"diagnosis": "Low Bp Heart Attack Diagnosis",
+		"test": "Low Bp Heart Attack Test",
+		"cure": "Low Bp Heart Attack Cure"
+	},
+	{
+		"name": "Low Potassium Heart Attack",
+		"treatment": "Low Potassium Heart Attack Treatment",
+		"diagnosis": "Low Potassium Heart Attack Diagnosis",
+		"test": "Low Potassium Heart Attack Test",
+		"cure": "Low Potassium Heart Attack Cure"
+	},
+	{
+		"name": "Major Heart Attack",
+		"treatment": "Major Heart Attack Treatment",
+		"diagnosis": "Major Heart Attack Diagnosis",
+		"test": "Major Heart Attack Test",
+		"cure": "Major Heart Attack Cure"
+	},
+	{
+		"name": "Massive Heart Attack",
+		"treatment": "Massive Heart Attack Treatment",
+		"diagnosis": "Massive Heart Attack Diagnosis",
+		"test": "Massive Heart Attack Test",
+		"cure": "Massive Heart Attack Cure"
+	},
+	{
+		"name": "MI Heart Attack",
+		"treatment": "MI Heart Attack Treatment",
+		"diagnosis": "MI Heart Attack Diagnosis",
+		"test": "MI Heart Attack Test",
+		"cure": "MI Heart Attack Cure"
+	},
+	{
+		"name": "Micro Heart Attack",
+		"treatment": "Micro Heart Attack Treatment",
+		"diagnosis": "Micro Heart Attack Diagnosis",
+		"test": "Micro Heart Attack Test",
+		"cure": "Micro Heart Attack Cure"
+	},
+	{
+		"name": "Mild Heart Attack",
+		"treatment": "Mild Heart Attack Treatment",
+		"diagnosis": "Mild Heart Attack Diagnosis",
+		"test": "Mild Heart Attack Test",
+		"cure": "Mild Heart Attack Cure"
+	},
+	{
+		"name": "Mini Heart Attack",
+		"treatment": "Mini Heart Attack Treatment",
+		"diagnosis": "Mini Heart Attack Diagnosis",
+		"test": "Mini Heart Attack Test",
+		"cure": "Mini Heart Attack Cure"
+	},
+	{
+		"name": "Minoca Heart Attack",
+		"treatment": "Minoca Heart Attack Treatment",
+		"diagnosis": "Minoca Heart Attack Diagnosis",
+		"test": "Minoca Heart Attack Test",
+		"cure": "Minoca Heart Attack Cure"
+	},
+	{
+		"name": "Minor Heart Attack",
+		"treatment": "Minor Heart Attack Treatment",
+		"diagnosis": "Minor Heart Attack Diagnosis",
+		"test": "Minor Heart Attack Test",
+		"cure": "Minor Heart Attack Cure"
+	},
+	{
+		"name": "Myocarditis Heart Attack",
+		"treatment": "Myocarditis Heart Attack Treatment",
+		"diagnosis": "Myocarditis Heart Attack Diagnosis",
+		"test": "Myocarditis Heart Attack Test",
+		"cure": "Myocarditis Heart Attack Cure"
+	},
+	{
+		"name": "Naproxen Heart Attack",
+		"treatment": "Naproxen Heart Attack Treatment",
+		"diagnosis": "Naproxen Heart Attack Diagnosis",
+		"test": "Naproxen Heart Attack Test",
+		"cure": "Naproxen Heart Attack Cure"
+	},
+	{
+		"name": "Neck Pain Heart Attack",
+		"treatment": "Neck Pain Heart Attack Treatment",
+		"diagnosis": "Neck Pain Heart Attack Diagnosis",
+		"test": "Neck Pain Heart Attack Test",
+		"cure": "Neck Pain Heart Attack Cure"
+	},
+	{
+		"name": "Non Stemi Heart Attack",
+		"treatment": "Non Stemi Heart Attack Treatment",
+		"diagnosis": "Non Stemi Heart Attack Diagnosis",
+		"test": "Non Stemi Heart Attack Test",
+		"cure": "Non Stemi Heart Attack Cure"
+	},
+	{
+		"name": "Nstemi Heart Attack",
+		"treatment": "Nstemi Heart Attack Treatment",
+		"diagnosis": "Nstemi Heart Attack Diagnosis",
+		"test": "Nstemi Heart Attack Test",
+		"cure": "Nstemi Heart Attack Cure"
+	},
+	{
+		"name": "Numb Pinky Finger Heart Attack",
+		"treatment": "Numb Pinky Finger Heart Attack Treatment",
+		"diagnosis": "Numb Pinky Finger Heart Attack Diagnosis",
+		"test": "Numb Pinky Finger Heart Attack Test",
+		"cure": "Numb Pinky Finger Heart Attack Cure"
+	},
+	{
+		"name": "Old Man Heart Attack",
+		"treatment": "Old Man Heart Attack Treatment",
+		"diagnosis": "Old Man Heart Attack Diagnosis",
+		"test": "Old Man Heart Attack Test",
+		"cure": "Old Man Heart Attack Cure"
+	},
+	{
+		"name": "Oximeter Heart Attack",
+		"treatment": "Oximeter Heart Attack Treatment",
+		"diagnosis": "Oximeter Heart Attack Diagnosis",
+		"test": "Oximeter Heart Attack Test",
+		"cure": "Oximeter Heart Attack Cure"
+	},
+	{
+		"name": "Panic Attack Heart Attack",
+		"treatment": "Panic Attack Heart Attack Treatment",
+		"diagnosis": "Panic Attack Heart Attack Diagnosis",
+		"test": "Panic Attack Heart Attack Test",
+		"cure": "Panic Attack Heart Attack Cure"
+	},
+	{
+		"name": "Paracetamol Heart Attack",
+		"treatment": "Paracetamol Heart Attack Treatment",
+		"diagnosis": "Paracetamol Heart Attack Diagnosis",
+		"test": "Paracetamol Heart Attack Test",
+		"cure": "Paracetamol Heart Attack Cure"
+	},
+	{
+		"name": "PCI Heart Attack",
+		"treatment": "PCI Heart Attack Treatment",
+		"diagnosis": "PCI Heart Attack Diagnosis",
+		"test": "PCI Heart Attack Test",
+		"cure": "PCI Heart Attack Cure"
+	},
+	{
+		"name": "Pneumonia Heart Attack",
+		"treatment": "Pneumonia Heart Attack Treatment",
+		"diagnosis": "Pneumonia Heart Attack Diagnosis",
+		"test": "Pneumonia Heart Attack Test",
+		"cure": "Pneumonia Heart Attack Cure"
+	},
+	{
+		"name": "Post Heart Attack",
+		"treatment": "Post Heart Attack Treatment",
+		"diagnosis": "Post Heart Attack Diagnosis",
+		"test": "Post Heart Attack Test",
+		"cure": "Post Heart Attack Cure"
+	},
+	{
+		"name": "Pre Heart Attack",
+		"treatment": "Pre Heart Attack Treatment",
+		"diagnosis": "Pre Heart Attack Diagnosis",
+		"test": "Pre Heart Attack Test",
+		"cure": "Pre Heart Attack Cure"
+	},
+	{
+		"name": "Pulmonary Embolism Heart Attack",
+		"treatment": "Pulmonary Embolism Heart Attack Treatment",
+		"diagnosis": "Pulmonary Embolism Heart Attack Diagnosis",
+		"test": "Pulmonary Embolism Heart Attack Test",
+		"cure": "Pulmonary Embolism Heart Attack Cure"
+	},
+	{
+		"name": "Pulmonary Heart Disease",
+		"treatment": "Pulmonary Heart Disease Treatment",
+		"diagnosis": "Pulmonary Heart Disease Diagnosis",
+		"test": "Pulmonary Heart Disease Test",
+		"cure": "Pulmonary Heart Disease Cure"
+	},
+	{
+		"name": "Rapid Weight Loss Heart Attack",
+		"treatment": "Rapid Weight Loss Heart Attack Treatment",
+		"diagnosis": "Rapid Weight Loss Heart Attack Diagnosis",
+		"test": "Rapid Weight Loss Heart Attack Test",
+		"cure": "Rapid Weight Loss Heart Attack Cure"
+	},
+	{
+		"name": "RCA Heart Attack",
+		"treatment": "RCA Heart Attack Treatment",
+		"diagnosis": "RCA Heart Attack Diagnosis",
+		"test": "RCA Heart Attack Test",
+		"cure": "RCA Heart Attack Cure"
+	},
+	{
+		"name": "Referred Pain Heart Attack",
+		"treatment": "Referred Pain Heart Attack Treatment",
+		"diagnosis": "Referred Pain Heart Attack Diagnosis",
+		"test": "Referred Pain Heart Attack Test",
+		"cure": "Referred Pain Heart Attack Cure"
+	},
+	{
+		"name": "Reverse Heart Disease",
+		"treatment": "Reverse Heart Disease Treatment",
+		"diagnosis": "Reverse Heart Disease Diagnosis",
+		"test": "Reverse Heart Disease Test",
+		"cure": "Reverse Heart Disease Cure"
+	},
+	{
+		"name": "Rheumatic Heart Disease",
+		"treatment": "Rheumatic Heart Disease Treatment",
+		"diagnosis": "Rheumatic Heart Disease Diagnosis",
+		"test": "Rheumatic Heart Disease Test",
+		"cure": "Rheumatic Heart Disease Cure"
+	},
+	{
+		"name": "Right Shoulder Pain Heart Attack",
+		"treatment": "Right Shoulder Pain Heart Attack Treatment",
+		"diagnosis": "Right Shoulder Pain Heart Attack Diagnosis",
+		"test": "Right Shoulder Pain Heart Attack Test",
+		"cure": "Right Shoulder Pain Heart Attack Cure"
+	},
+	{
+		"name": "SCAD Heart Attack",
+		"treatment": "SCAD Heart Attack Treatment",
+		"diagnosis": "SCAD Heart Attack Diagnosis",
+		"test": "SCAD Heart Attack Test",
+		"cure": "SCAD Heart Attack Cure"
+	},
+	{
+		"name": "Second Heart Attack",
+		"treatment": "Second Heart Attack Treatment",
+		"diagnosis": "Second Heart Attack Diagnosis",
+		"test": "Second Heart Attack Test",
+		"cure": "Second Heart Attack Cure"
+	},
+	{
+		"name": "Severe Heart Attack",
+		"treatment": "Severe Heart Attack Treatment",
+		"diagnosis": "Severe Heart Attack Diagnosis",
+		"test": "Severe Heart Attack Test",
+		"cure": "Severe Heart Attack Cure"
+	},
+	{
+		"name": "Shoulder Blade Pain Heart Attack",
+		"treatment": "Shoulder Blade Pain Heart Attack Treatment",
+		"diagnosis": "Shoulder Blade Pain Heart Attack Diagnosis",
+		"test": "Shoulder Blade Pain Heart Attack Test",
+		"cure": "Shoulder Blade Pain Heart Attack Cure"
+	},
+	{
+		"name": "Shoulder Pain Heart Attack",
+		"treatment": "Shoulder Pain Heart Attack Treatment",
+		"diagnosis": "Shoulder Pain Heart Attack Diagnosis",
+		"test": "Shoulder Pain Heart Attack Test",
+		"cure": "Shoulder Pain Heart Attack Cure"
+	},
+	{
+		"name": "Silent Heart Attack",
+		"treatment": "Silent Heart Attack Treatment",
+		"diagnosis": "Silent Heart Attack Diagnosis",
+		"test": "Silent Heart Attack Test",
+		"cure": "Silent Heart Attack Cure"
+	},
+	{
+		"name": "Sintomas Ng Heart Attack",
+		"treatment": "Sintomas Ng Heart Attack Treatment",
+		"diagnosis": "Sintomas Ng Heart Attack Diagnosis",
+		"test": "Sintomas Ng Heart Attack Test",
+		"cure": "Sintomas Ng Heart Attack Cure"
+	},
+	{
+		"name": "Sleep Heart Disease",
+		"treatment": "Sleep Heart Disease Treatment",
+		"diagnosis": "Sleep Heart Disease Diagnosis",
+		"test": "Sleep Heart Disease Test",
+		"cure": "Sleep Heart Disease Cure"
+	},
+	{
+		"name": "Slight Heart Attack",
+		"treatment": "Slight Heart Attack Treatment",
+		"diagnosis": "Slight Heart Attack Diagnosis",
+		"test": "Slight Heart Attack Test",
+		"cure": "Slight Heart Attack Cure"
+	},
+	{
+		"name": "Slow Heart Attack",
+		"treatment": "Slow Heart Attack Treatment",
+		"diagnosis": "Slow Heart Attack Diagnosis",
+		"test": "Slow Heart Attack Test",
+		"cure": "Slow Heart Attack Cure"
+	},
+	{
+		"name": "Small Heart Attack",
+		"treatment": "Small Heart Attack Treatment",
+		"diagnosis": "Small Heart Attack Diagnosis",
+		"test": "Small Heart Attack Test",
+		"cure": "Small Heart Attack Cure"
+	},
+	{
+		"name": "Small Pupils Heart Attack",
+		"treatment": "Small Pupils Heart Attack Treatment",
+		"diagnosis": "Small Pupils Heart Attack Diagnosis",
+		"test": "Small Pupils Heart Attack Test",
+		"cure": "Small Pupils Heart Attack Cure"
+	},
+	{
+		"name": "Smelling Toast Heart Attack",
+		"treatment": "Smelling Toast Heart Attack Treatment",
+		"diagnosis": "Smelling Toast Heart Attack Diagnosis",
+		"test": "Smelling Toast Heart Attack Test",
+		"cure": "Smelling Toast Heart Attack Cure"
+	},
+	{
+		"name": "SMI Heart Attack",
+		"treatment": "SMI Heart Attack Treatment",
+		"diagnosis": "SMI Heart Attack Diagnosis",
+		"test": "SMI Heart Attack Test",
+		"cure": "SMI Heart Attack Cure"
+	},
+	{
+		"name": "Smoking Heart Attack",
+		"treatment": "Smoking Heart Attack Treatment",
+		"diagnosis": "Smoking Heart Attack Diagnosis",
+		"test": "Smoking Heart Attack Test",
+		"cure": "Smoking Heart Attack Cure"
+	},
+	{
+		"name": "Sore Throat Heart Attack",
+		"treatment": "Sore Throat Heart Attack Treatment",
+		"diagnosis": "Sore Throat Heart Attack Diagnosis",
+		"test": "Sore Throat Heart Attack Test",
+		"cure": "Sore Throat Heart Attack Cure"
+	},
+	{
+		"name": "Stable Ischemic Heart Disease",
+		"treatment": "Stable Ischemic Heart Disease Treatment",
+		"diagnosis": "Stable Ischemic Heart Disease Diagnosis",
+		"test": "Stable Ischemic Heart Disease Test",
+		"cure": "Stable Ischemic Heart Disease Cure"
+	},
+	{
+		"name": "Stemi Heart Attack",
+		"treatment": "Stemi Heart Attack Treatment",
+		"diagnosis": "Stemi Heart Attack Diagnosis",
+		"test": "Stemi Heart Attack Test",
+		"cure": "Stemi Heart Attack Cure"
+	},
+	{
+		"name": "Steroids Heart Attack",
+		"treatment": "Steroids Heart Attack Treatment",
+		"diagnosis": "Steroids Heart Attack Diagnosis",
+		"test": "Steroids Heart Attack Test",
+		"cure": "Steroids Heart Attack Cure"
+	},
+	{
+		"name": "Stiff Neck Heart Attack",
+		"treatment": "Stiff Neck Heart Attack Treatment",
+		"diagnosis": "Stiff Neck Heart Attack Diagnosis",
+		"test": "Stiff Neck Heart Attack Test",
+		"cure": "Stiff Neck Heart Attack Cure"
+	},
+	{
+		"name": "Stomach Ache Heart Attack",
+		"treatment": "Stomach Ache Heart Attack Treatment",
+		"diagnosis": "Stomach Ache Heart Attack Diagnosis",
+		"test": "Stomach Ache Heart Attack Test",
+		"cure": "Stomach Ache Heart Attack Cure"
+	},
+	{
+		"name": "Stomach Pain Heart Attack",
+		"treatment": "Stomach Pain Heart Attack Treatment",
+		"diagnosis": "Stomach Pain Heart Attack Diagnosis",
+		"test": "Stomach Pain Heart Attack Test",
+		"cure": "Stomach Pain Heart Attack Cure"
+	},
+	{
+		"name": "Stress Heart Attack",
+		"treatment": "Stress Heart Attack Treatment",
+		"diagnosis": "Stress Heart Attack Diagnosis",
+		"test": "Stress Heart Attack Test",
+		"cure": "Stress Heart Attack Cure"
+	},
+	{
+		"name": "Stress Induced Heart Attack",
+		"treatment": "Stress Induced Heart Attack Treatment",
+		"diagnosis": "Stress Induced Heart Attack Diagnosis",
+		"test": "Stress Induced Heart Attack Test",
+		"cure": "Stress Induced Heart Attack Cure"
+	},
+	{
+		"name": "Stress Related Heart Attack",
+		"treatment": "Stress Related Heart Attack Treatment",
+		"diagnosis": "Stress Related Heart Attack Diagnosis",
+		"test": "Stress Related Heart Attack Test",
+		"cure": "Stress Related Heart Attack Cure"
+	},
+	{
+		"name": "Stroke Heart Attack",
+		"treatment": "Stroke Heart Attack Treatment",
+		"diagnosis": "Stroke Heart Attack Diagnosis",
+		"test": "Stroke Heart Attack Test",
+		"cure": "Stroke Heart Attack Cure"
+	},
+	{
+		"name": "Structural Heart Disease",
+		"treatment": "Structural Heart Disease Treatment",
+		"diagnosis": "Structural Heart Disease Diagnosis",
+		"test": "Structural Heart Disease Test",
+		"cure": "Structural Heart Disease Cure"
+	},
+	{
+		"name": "Sudden Heart Attack",
+		"treatment": "Sudden Heart Attack Treatment",
+		"diagnosis": "Sudden Heart Attack Diagnosis",
+		"test": "Sudden Heart Attack Test",
+		"cure": "Sudden Heart Attack Cure"
+	},
+	{
+		"name": "Suspected Heart Attack",
+		"treatment": "Suspected Heart Attack Treatment",
+		"diagnosis": "Suspected Heart Attack Diagnosis",
+		"test": "Suspected Heart Attack Test",
+		"cure": "Suspected Heart Attack Cure"
+	},
+	{
+		"name": "Tachycardia Heart Attack",
+		"treatment": "Tachycardia Heart Attack Treatment",
+		"diagnosis": "Tachycardia Heart Attack Diagnosis",
+		"test": "Tachycardia Heart Attack Test",
+		"cure": "Tachycardia Heart Attack Cure"
+	},
+	{
+		"name": "The Heart Attack",
+		"treatment": "The Heart Attack Treatment",
+		"diagnosis": "The Heart Attack Diagnosis",
+		"test": "The Heart Attack Test",
+		"cure": "The Heart Attack Cure"
+	},
+	{
+		"name": "Tooth Pain Heart Attack",
+		"treatment": "Tooth Pain Heart Attack Treatment",
+		"diagnosis": "Tooth Pain Heart Attack Diagnosis",
+		"test": "Tooth Pain Heart Attack Test",
+		"cure": "Tooth Pain Heart Attack Cure"
+	},
+	{
+		"name": "Type 2 Heart Attack",
+		"treatment": "Type 2 Heart Attack Treatment",
+		"diagnosis": "Type 2 Heart Attack Diagnosis",
+		"test": "Type 2 Heart Attack Test",
+		"cure": "Type 2 Heart Attack Cure"
+	},
+	{
+		"name": "Untreated Heart Attack",
+		"treatment": "Untreated Heart Attack Treatment",
+		"diagnosis": "Untreated Heart Attack Diagnosis",
+		"test": "Untreated Heart Attack Test",
+		"cure": "Untreated Heart Attack Cure"
+	},
+	{
+		"name": "Valvular Heart Disease",
+		"treatment": "Valvular Heart Disease Treatment",
+		"diagnosis": "Valvular Heart Disease Diagnosis",
+		"test": "Valvular Heart Disease Test",
+		"cure": "Valvular Heart Disease Cure"
+	},
+	{
+		"name": "Vascular Heart Disease",
+		"treatment": "Vascular Heart Disease Treatment",
+		"diagnosis": "Vascular Heart Disease Diagnosis",
+		"test": "Vascular Heart Disease Test",
+		"cure": "Vascular Heart Disease Cure"
+	},
+	{
+		"name": "Walking Heart Attack",
+		"treatment": "Walking Heart Attack Treatment",
+		"diagnosis": "Walking Heart Attack Diagnosis",
+		"test": "Walking Heart Attack Test",
+		"cure": "Walking Heart Attack Cure"
+	},
+	{
+		"name": "Widowmaker Heart Attack",
+		"treatment": "Widowmaker Heart Attack Treatment",
+		"diagnosis": "Widowmaker Heart Attack Diagnosis",
+		"test": "Widowmaker Heart Attack Test",
+		"cure": "Widowmaker Heart Attack Cure"
+	},
+	{
+		"name": "Widowmakers Heart Attack",
+		"treatment": "Widowmakers Heart Attack Treatment",
+		"diagnosis": "Widowmakers Heart Attack Diagnosis",
+		"test": "Widowmakers Heart Attack Test",
+		"cure": "Widowmakers Heart Attack Cure"
+	},
+	{
+		"name": "Wrist Pain Heart Attack",
+		"treatment": "Wrist Pain Heart Attack Treatment",
+		"diagnosis": "Wrist Pain Heart Attack Diagnosis",
+		"test": "Wrist Pain Heart Attack Test",
+		"cure": "Wrist Pain Heart Attack Cure"
+	},
+	{
+		"name": "Yawning Heart Attack",
+		"treatment": "Yawning Heart Attack Treatment",
+		"diagnosis": "Yawning Heart Attack Diagnosis",
+		"test": "Yawning Heart Attack Test",
+		"cure": "Yawning Heart Attack Cure"
+	},
+	{
+		"name": "Young Heart Attack",
+		"treatment": "Young Heart Attack Treatment",
+		"diagnosis": "Young Heart Attack Diagnosis",
+		"test": "Young Heart Attack Test",
+		"cure": "Young Heart Attack Cure"
+	}
+]

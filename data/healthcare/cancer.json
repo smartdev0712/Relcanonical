@@ -1,0 +1,1325 @@
+[
+	{
+		"name": "Lung Cancer",
+		"treatment": "Lung Cancer Treatment",
+		"diagnosis": "Lung Cancer Diagnosis",
+		"test": "Lung Cancer Test",
+		"cure": "Lung Cancer Cure"
+	},
+	{
+		"name": "Breast Cancer",
+		"treatment": "Breast Cancer Treatment",
+		"diagnosis": "Breast Cancer Diagnosis",
+		"test": "Breast Cancer Test",
+		"cure": "Breast Cancer Cure"
+	},
+	{
+		"name": "Neck Cancer",
+		"treatment": "Neck Cancer Treatment",
+		"diagnosis": "Neck Cancer Diagnosis",
+		"test": "Neck Cancer Test",
+		"cure": "Neck Cancer Cure"
+	},
+	{
+		"name": "Head Cancer",
+		"treatment": "Head Cancer Treatment",
+		"diagnosis": "Head Cancer Diagnosis",
+		"test": "Head Cancer Test",
+		"cure": "Head Cancer Cure"
+	},
+	{
+		"name": "Esophageal Cancer",
+		"treatment": "Esophageal Cancer Treatment",
+		"diagnosis": "Esophageal Cancer Diagnosis",
+		"test": "Esophageal Cancer Test",
+		"cure": "Esophageal Cancer Cure"
+	},
+	{
+		"name": "Stomach Cancer",
+		"treatment": "Stomach Cancer Treatment",
+		"diagnosis": "Stomach Cancer Diagnosis",
+		"test": "Stomach Cancer Test",
+		"cure": "Stomach Cancer Cure"
+	},
+	{
+		"name": "Pancreatic Cancer",
+		"treatment": "Pancreatic Cancer Treatment",
+		"diagnosis": "Pancreatic Cancer Diagnosis",
+		"test": "Pancreatic Cancer Test",
+		"cure": "Pancreatic Cancer Cure"
+	},
+	{
+		"name": "Liver Cancer",
+		"treatment": "Liver Cancer Treatment",
+		"diagnosis": "Liver Cancer Diagnosis",
+		"test": "Liver Cancer Test",
+		"cure": "Liver Cancer Cure"
+	},
+	{
+		"name": "Gallbladder Cancer",
+		"treatment": "Gallbladder Cancer Treatment",
+		"diagnosis": "Gallbladder Cancer Diagnosis",
+		"test": "Gallbladder Cancer Test",
+		"cure": "Gallbladder Cancer Cure"
+	},
+	{
+		"name": "Bile Duct Cancer",
+		"treatment": "Bile Duct Cancer Treatment",
+		"diagnosis": "Bile Duct Cancer Diagnosis",
+		"test": "Bile Duct Cancer Test",
+		"cure": "Bile Duct Cancer Cure"
+	},
+	{
+		"name": "Colorectal Cancer",
+		"treatment": "Colorectal Cancer Treatment",
+		"diagnosis": "Colorectal Cancer Diagnosis",
+		"test": "Colorectal Cancer Test",
+		"cure": "Colorectal Cancer Cure"
+	},
+	{
+		"name": "Ovarian Cancer",
+		"treatment": "Ovarian Cancer Treatment",
+		"diagnosis": "Ovarian Cancer Diagnosis",
+		"test": "Ovarian Cancer Test",
+		"cure": "Ovarian Cancer Cure"
+	},
+	{
+		"name": "Cervical Cancer",
+		"treatment": "Cervical Cancer Treatment",
+		"diagnosis": "Cervical Cancer Diagnosis",
+		"test": "Cervical Cancer Test",
+		"cure": "Cervical Cancer Cure"
+	},
+	{
+		"name": "Endometrial Cancer",
+		"treatment": "Endometrial Cancer Treatment",
+		"diagnosis": "Endometrial Cancer Diagnosis",
+		"test": "Endometrial Cancer Test",
+		"cure": "Endometrial Cancer Cure"
+	},
+	{
+		"name": "Uterine Cancer",
+		"treatment": "Uterine Cancer Treatment",
+		"diagnosis": "Uterine Cancer Diagnosis",
+		"test": "Uterine Cancer Test",
+		"cure": "Uterine Cancer Cure"
+	},
+	{
+		"name": "Sarcomas Cancer",
+		"treatment": "Sarcomas Cancer Treatment",
+		"diagnosis": "Sarcomas Cancer Diagnosis",
+		"test": "Sarcomas Cancer Test",
+		"cure": "Sarcomas Cancer Cure"
+	},
+	{
+		"name": "Prostate Cancer",
+		"treatment": "Prostate Cancer Treatment",
+		"diagnosis": "Prostate Cancer Diagnosis",
+		"test": "Prostate Cancer Test",
+		"cure": "Prostate Cancer Cure"
+	},
+	{
+		"name": "Bladder Cancer",
+		"treatment": "Bladder Cancer Treatment",
+		"diagnosis": "Bladder Cancer Diagnosis",
+		"test": "Bladder Cancer Test",
+		"cure": "Bladder Cancer Cure"
+	},
+	{
+		"name": "Testicular Cancer",
+		"treatment": "Testicular Cancer Treatment",
+		"diagnosis": "Testicular Cancer Diagnosis",
+		"test": "Testicular Cancer Test",
+		"cure": "Testicular Cancer Cure"
+	},
+	{
+		"name": "Skin Cancer",
+		"treatment": "Skin Cancer Treatment",
+		"diagnosis": "Skin Cancer Diagnosis",
+		"test": "Skin Cancer Test",
+		"cure": "Skin Cancer Cure"
+	},
+	{
+		"name": "Lymphoma Cancer",
+		"treatment": "Lymphoma Cancer Treatment",
+		"diagnosis": "Lymphoma Cancer Diagnosis",
+		"test": "Lymphoma Cancer Test",
+		"cure": "Lymphoma Cancer Cure"
+	},
+	{
+		"name": "ER Cancer",
+		"treatment": "ER Cancer Treatment",
+		"diagnosis": "ER Cancer Diagnosis",
+		"test": "ER Cancer Test",
+		"cure": "ER Cancer Cure"
+	},
+	{
+		"name": "ALL Cancer",
+		"treatment": "ALL Cancer Treatment",
+		"diagnosis": "ALL Cancer Diagnosis",
+		"test": "ALL Cancer Test",
+		"cure": "ALL Cancer Cure"
+	},
+	{
+		"name": "AML Cancer",
+		"treatment": "AML Cancer Treatment",
+		"diagnosis": "AML Cancer Diagnosis",
+		"test": "AML Cancer Test",
+		"cure": "AML Cancer Cure"
+	},
+	{
+		"name": "ARM Cancer",
+		"treatment": "ARM Cancer Treatment",
+		"diagnosis": "ARM Cancer Diagnosis",
+		"test": "ARM Cancer Test",
+		"cure": "ARM Cancer Cure"
+	},
+	{
+		"name": "BCC Cancer",
+		"treatment": "BCC Cancer Treatment",
+		"diagnosis": "BCC Cancer Diagnosis",
+		"test": "BCC Cancer Test",
+		"cure": "BCC Cancer Cure"
+	},
+	{
+		"name": "CLL Cancer",
+		"treatment": "CLL Cancer Treatment",
+		"diagnosis": "CLL Cancer Diagnosis",
+		"test": "CLL Cancer Test",
+		"cure": "CLL Cancer Cure"
+	},
+	{
+		"name": "CML Cancer",
+		"treatment": "CML Cancer Treatment",
+		"diagnosis": "CML Cancer Diagnosis",
+		"test": "CML Cancer Test",
+		"cure": "CML Cancer Cure"
+	},
+	{
+		"name": "Ear Cancer",
+		"treatment": "Ear Cancer Treatment",
+		"diagnosis": "Ear Cancer Diagnosis",
+		"test": "Ear Cancer Test",
+		"cure": "Ear Cancer Cure"
+	},
+	{
+		"name": "Eye Cancer",
+		"treatment": "Eye Cancer Treatment",
+		"diagnosis": "Eye Cancer Diagnosis",
+		"test": "Eye Cancer Test",
+		"cure": "Eye Cancer Cure"
+	},
+	{
+		"name": "GBM Cancer",
+		"treatment": "GBM Cancer Treatment",
+		"diagnosis": "GBM Cancer Diagnosis",
+		"test": "GBM Cancer Test",
+		"cure": "GBM Cancer Cure"
+	},
+	{
+		"name": "Gum Cancer",
+		"treatment": "Gum Cancer Treatment",
+		"diagnosis": "Gum Cancer Diagnosis",
+		"test": "Gum Cancer Test",
+		"cure": "Gum Cancer Cure"
+	},
+	{
+		"name": "HCC Cancer",
+		"treatment": "HCC Cancer Treatment",
+		"diagnosis": "HCC Cancer Diagnosis",
+		"test": "HCC Cancer Test",
+		"cure": "HCC Cancer Cure"
+	},
+	{
+		"name": "Hip Cancer",
+		"treatment": "Hip Cancer Treatment",
+		"diagnosis": "Hip Cancer Diagnosis",
+		"test": "Hip Cancer Test",
+		"cure": "Hip Cancer Cure"
+	},
+	{
+		"name": "HLH Cancer",
+		"treatment": "HLH Cancer Treatment",
+		"diagnosis": "HLH Cancer Diagnosis",
+		"test": "HLH Cancer Test",
+		"cure": "HLH Cancer Cure"
+	},
+	{
+		"name": "HPV Cancer",
+		"treatment": "HPV Cancer Treatment",
+		"diagnosis": "HPV Cancer Diagnosis",
+		"test": "HPV Cancer Test",
+		"cure": "HPV Cancer Cure"
+	},
+	{
+		"name": "Jaw Cancer",
+		"treatment": "Jaw Cancer Treatment",
+		"diagnosis": "Jaw Cancer Diagnosis",
+		"test": "Jaw Cancer Test",
+		"cure": "Jaw Cancer Cure"
+	},
+	{
+		"name": "LCH Cancer",
+		"treatment": "LCH Cancer Treatment",
+		"diagnosis": "LCH Cancer Diagnosis",
+		"test": "LCH Cancer Test",
+		"cure": "LCH Cancer Cure"
+	},
+	{
+		"name": "Leg Cancer",
+		"treatment": "Leg Cancer Treatment",
+		"diagnosis": "Leg Cancer Diagnosis",
+		"test": "Leg Cancer Test",
+		"cure": "Leg Cancer Cure"
+	},
+	{
+		"name": "Lip Cancer",
+		"treatment": "Lip Cancer Treatment",
+		"diagnosis": "Lip Cancer Diagnosis",
+		"test": "Lip Cancer Test",
+		"cure": "Lip Cancer Cure"
+	},
+	{
+		"name": "MDS Cancer",
+		"treatment": "MDS Cancer Treatment",
+		"diagnosis": "MDS Cancer Diagnosis",
+		"test": "MDS Cancer Test",
+		"cure": "MDS Cancer Cure"
+	},
+	{
+		"name": "Men Cancer",
+		"treatment": "Men Cancer Treatment",
+		"diagnosis": "Men Cancer Diagnosis",
+		"test": "Men Cancer Test",
+		"cure": "Men Cancer Cure"
+	},
+	{
+		"name": "NHL Cancer",
+		"treatment": "NHL Cancer Treatment",
+		"diagnosis": "NHL Cancer Diagnosis",
+		"test": "NHL Cancer Test",
+		"cure": "NHL Cancer Cure"
+	},
+	{
+		"name": "PSA Cancer",
+		"treatment": "PSA Cancer Treatment",
+		"diagnosis": "PSA Cancer Diagnosis",
+		"test": "PSA Cancer Test",
+		"cure": "PSA Cancer Cure"
+	},
+	{
+		"name": "Anal Cancer",
+		"treatment": "Anal Cancer Treatment",
+		"diagnosis": "Anal Cancer Diagnosis",
+		"test": "Anal Cancer Test",
+		"cure": "Anal Cancer Cure"
+	},
+	{
+		"name": "ATRT Cancer",
+		"treatment": "ATRT Cancer Treatment",
+		"diagnosis": "ATRT Cancer Diagnosis",
+		"test": "ATRT Cancer Test",
+		"cure": "ATRT Cancer Cure"
+	},
+	{
+		"name": "Back Cancer",
+		"treatment": "Back Cancer Treatment",
+		"diagnosis": "Back Cancer Diagnosis",
+		"test": "Back Cancer Test",
+		"cure": "Back Cancer Cure"
+	},
+	{
+		"name": "Ball Cancer",
+		"treatment": "Ball Cancer Treatment",
+		"diagnosis": "Ball Cancer Diagnosis",
+		"test": "Ball Cancer Test",
+		"cure": "Ball Cancer Cure"
+	},
+	{
+		"name": "Body Cancer",
+		"treatment": "Body Cancer Treatment",
+		"diagnosis": "Body Cancer Diagnosis",
+		"test": "Body Cancer Test",
+		"cure": "Body Cancer Cure"
+	},
+	{
+		"name": "Bone Cancer",
+		"treatment": "Bone Cancer Treatment",
+		"diagnosis": "Bone Cancer Diagnosis",
+		"test": "Bone Cancer Test",
+		"cure": "Bone Cancer Cure"
+	},
+	{
+		"name": "Cell Cancer",
+		"treatment": "Cell Cancer Treatment",
+		"diagnosis": "Cell Cancer Diagnosis",
+		"test": "Cell Cancer Test",
+		"cure": "Cell Cancer Cure"
+	},
+	{
+		"name": "DCIS Cancer",
+		"treatment": "DCIS Cancer Treatment",
+		"diagnosis": "DCIS Cancer Diagnosis",
+		"test": "DCIS Cancer Test",
+		"cure": "DCIS Cancer Cure"
+	},
+	{
+		"name": "DIPG Cancer",
+		"treatment": "DIPG Cancer Treatment",
+		"diagnosis": "DIPG Cancer Diagnosis",
+		"test": "DIPG Cancer Test",
+		"cure": "DIPG Cancer Cure"
+	},
+	{
+		"name": "EGFR Cancer",
+		"treatment": "EGFR Cancer Treatment",
+		"diagnosis": "EGFR Cancer Diagnosis",
+		"test": "EGFR Cancer Test",
+		"cure": "EGFR Cancer Cure"
+	},
+	{
+		"name": "Foot Cancer",
+		"treatment": "Foot Cancer Treatment",
+		"diagnosis": "Foot Cancer Diagnosis",
+		"test": "Foot Cancer Test",
+		"cure": "Foot Cancer Cure"
+	},
+	{
+		"name": "Germ Cancer",
+		"treatment": "Germ Cancer Treatment",
+		"diagnosis": "Germ Cancer Diagnosis",
+		"test": "Germ Cancer Test",
+		"cure": "Germ Cancer Cure"
+	},
+	{
+		"name": "Gist Cancer",
+		"treatment": "Gist Cancer Treatment",
+		"diagnosis": "Gist Cancer Diagnosis",
+		"test": "Gist Cancer Test",
+		"cure": "Gist Cancer Cure"
+	},
+	{
+		"name": "Hair Cancer",
+		"treatment": "Hair Cancer Treatment",
+		"diagnosis": "Hair Cancer Diagnosis",
+		"test": "Hair Cancer Test",
+		"cure": "Hair Cancer Cure"
+	},
+	{
+		"name": "Hand Cancer",
+		"treatment": "Hand Cancer Treatment",
+		"diagnosis": "Hand Cancer Diagnosis",
+		"test": "Hand Cancer Test",
+		"cure": "Hand Cancer Cure"
+	},
+	{
+		"name": "Her2 Cancer",
+		"treatment": "Her2 Cancer Treatment",
+		"diagnosis": "Her2 Cancer Diagnosis",
+		"test": "Her2 Cancer Test",
+		"cure": "Her2 Cancer Cure"
+	},
+	{
+		"name": "Knee Cancer",
+		"treatment": "Knee Cancer Treatment",
+		"diagnosis": "Knee Cancer Diagnosis",
+		"test": "Knee Cancer Test",
+		"cure": "Knee Cancer Cure"
+	},
+	{
+		"name": "Male Cancer",
+		"treatment": "Male Cancer Treatment",
+		"diagnosis": "Male Cancer Diagnosis",
+		"test": "Male Cancer Test",
+		"cure": "Male Cancer Cure"
+	},
+	{
+		"name": "Nail Cancer",
+		"treatment": "Nail Cancer Treatment",
+		"diagnosis": "Nail Cancer Diagnosis",
+		"test": "Nail Cancer Test",
+		"cure": "Nail Cancer Cure"
+	},
+	{
+		"name": "Nose Cancer",
+		"treatment": "Nose Cancer Treatment",
+		"diagnosis": "Nose Cancer Diagnosis",
+		"test": "Nose Cancer Test",
+		"cure": "Nose Cancer Cure"
+	},
+	{
+		"name": "Oral Cancer",
+		"treatment": "Oral Cancer Treatment",
+		"diagnosis": "Oral Cancer Diagnosis",
+		"test": "Oral Cancer Test",
+		"cure": "Oral Cancer Cure"
+	},
+	{
+		"name": "Pain Cancer",
+		"treatment": "Pain Cancer Treatment",
+		"diagnosis": "Pain Cancer Diagnosis",
+		"test": "Pain Cancer Test",
+		"cure": "Pain Cancer Cure"
+	},
+	{
+		"name": "Womb Cancer",
+		"treatment": "Womb Cancer Treatment",
+		"diagnosis": "Womb Cancer Diagnosis",
+		"test": "Womb Cancer Test",
+		"cure": "Womb Cancer Cure"
+	},
+	{
+		"name": "Adult Cancer",
+		"treatment": "Adult Cancer Treatment",
+		"diagnosis": "Adult Cancer Diagnosis",
+		"test": "Adult Cancer Test",
+		"cure": "Adult Cancer Cure"
+	},
+	{
+		"name": "Basal Cancer",
+		"treatment": "Basal Cancer Treatment",
+		"diagnosis": "Basal Cancer Diagnosis",
+		"test": "Basal Cancer Test",
+		"cure": "Basal Cancer Cure"
+	},
+	{
+		"name": "Blood Cancer",
+		"treatment": "Blood Cancer Treatment",
+		"diagnosis": "Blood Cancer Diagnosis",
+		"test": "Blood Cancer Test",
+		"cure": "Blood Cancer Cure"
+	},
+	{
+		"name": "Bowel Cancer",
+		"treatment": "Bowel Cancer Treatment",
+		"diagnosis": "Bowel Cancer Diagnosis",
+		"test": "Bowel Cancer Test",
+		"cure": "Bowel Cancer Cure"
+	},
+	{
+		"name": "Brain Cancer",
+		"treatment": "Brain Cancer Treatment",
+		"diagnosis": "Brain Cancer Diagnosis",
+		"test": "Brain Cancer Test",
+		"cure": "Brain Cancer Cure"
+	},
+	{
+		"name": "Chest Cancer",
+		"treatment": "Chest Cancer Treatment",
+		"diagnosis": "Chest Cancer Diagnosis",
+		"test": "Chest Cancer Test",
+		"cure": "Chest Cancer Cure"
+	},
+	{
+		"name": "Colon Cancer",
+		"treatment": "Colon Cancer Treatment",
+		"diagnosis": "Colon Cancer Diagnosis",
+		"test": "Colon Cancer Test",
+		"cure": "Colon Cancer Cure"
+	},
+	{
+		"name": "DLBCL Cancer",
+		"treatment": "DLBCL Cancer Treatment",
+		"diagnosis": "DLBCL Cancer Diagnosis",
+		"test": "DLBCL Cancer Test",
+		"cure": "DLBCL Cancer Cure"
+	},
+	{
+		"name": "Gland Cancer",
+		"treatment": "Gland Cancer Treatment",
+		"diagnosis": "Gland Cancer Diagnosis",
+		"test": "Gland Cancer Test",
+		"cure": "Gland Cancer Cure"
+	},
+	{
+		"name": "Heart Cancer",
+		"treatment": "Heart Cancer Treatment",
+		"diagnosis": "Heart Cancer Diagnosis",
+		"test": "Heart Cancer Test",
+		"cure": "Heart Cancer Cure"
+	},
+	{
+		"name": "Mouth Cancer",
+		"treatment": "Mouth Cancer Treatment",
+		"diagnosis": "Mouth Cancer Diagnosis",
+		"test": "Mouth Cancer Test",
+		"cure": "Mouth Cancer Cure"
+	},
+	{
+		"name": "Nasal Cancer",
+		"treatment": "Nasal Cancer Treatment",
+		"diagnosis": "Nasal Cancer Diagnosis",
+		"test": "Nasal Cancer Test",
+		"cure": "Nasal Cancer Cure"
+	},
+	{
+		"name": "NSCLC Cancer",
+		"treatment": "NSCLC Cancer Treatment",
+		"diagnosis": "NSCLC Cancer Diagnosis",
+		"test": "NSCLC Cancer Test",
+		"cure": "NSCLC Cancer Cure"
+	},
+	{
+		"name": "Renal Cancer",
+		"treatment": "Renal Cancer Treatment",
+		"diagnosis": "Renal Cancer Diagnosis",
+		"test": "Renal Cancer Test",
+		"cure": "Renal Cancer Cure"
+	},
+	{
+		"name": "Sinus Cancer",
+		"treatment": "Sinus Cancer Treatment",
+		"diagnosis": "Sinus Cancer Diagnosis",
+		"test": "Sinus Cancer Test",
+		"cure": "Sinus Cancer Cure"
+	},
+	{
+		"name": "Small Cancer",
+		"treatment": "Small Cancer Treatment",
+		"diagnosis": "Small Cancer Diagnosis",
+		"test": "Small Cancer Test",
+		"cure": "Small Cancer Cure"
+	},
+	{
+		"name": "Stage Cancer",
+		"treatment": "Stage Cancer Treatment",
+		"diagnosis": "Stage Cancer Diagnosis",
+		"test": "Stage Cancer Test",
+		"cure": "Stage Cancer Cure"
+	},
+	{
+		"name": "Teeth Cancer",
+		"treatment": "Teeth Cancer Treatment",
+		"diagnosis": "Teeth Cancer Diagnosis",
+		"test": "Teeth Cancer Test",
+		"cure": "Teeth Cancer Cure"
+	},
+	{
+		"name": "Women Cancer",
+		"treatment": "Women Cancer Treatment",
+		"diagnosis": "Women Cancer Diagnosis",
+		"test": "Women Cancer Test",
+		"cure": "Women Cancer Cure"
+	},
+	{
+		"name": "Young Cancer",
+		"treatment": "Young Cancer Treatment",
+		"diagnosis": "Young Cancer Diagnosis",
+		"test": "Young Cancer Test",
+		"cure": "Young Cancer Cure"
+	},
+	{
+		"name": "Benign Cancer",
+		"treatment": "Benign Cancer Treatment",
+		"diagnosis": "Benign Cancer Diagnosis",
+		"test": "Benign Cancer Test",
+		"cure": "Benign Cancer Cure"
+	},
+	{
+		"name": "Breath Cancer",
+		"treatment": "Breath Cancer Treatment",
+		"diagnosis": "Breath Cancer Diagnosis",
+		"test": "Breath Cancer Test",
+		"cure": "Breath Cancer Cure"
+	},
+	{
+		"name": "Eyelid Cancer",
+		"treatment": "Eyelid Cancer Treatment",
+		"diagnosis": "Eyelid Cancer Diagnosis",
+		"test": "Eyelid Cancer Test",
+		"cure": "Eyelid Cancer Cure"
+	},
+	{
+		"name": "Female Cancer",
+		"treatment": "Female Cancer Treatment",
+		"diagnosis": "Female Cancer Diagnosis",
+		"test": "Female Cancer Test",
+		"cure": "Female Cancer Cure"
+	},
+	{
+		"name": "Finger Cancer",
+		"treatment": "Finger Cancer Treatment",
+		"diagnosis": "Finger Cancer Diagnosis",
+		"test": "Finger Cancer Test",
+		"cure": "Finger Cancer Cure"
+	},
+	{
+		"name": "Kidney Cancer",
+		"treatment": "Kidney Cancer Treatment",
+		"diagnosis": "Kidney Cancer Diagnosis",
+		"test": "Kidney Cancer Test",
+		"cure": "Kidney Cancer Cure"
+	},
+	{
+		"name": "Marrow Cancer",
+		"treatment": "Marrow Cancer Treatment",
+		"diagnosis": "Marrow Cancer Diagnosis",
+		"test": "Marrow Cancer Test",
+		"cure": "Marrow Cancer Cure"
+	},
+	{
+		"name": "Muscle Cancer",
+		"treatment": "Muscle Cancer Treatment",
+		"diagnosis": "Muscle Cancer Diagnosis",
+		"test": "Muscle Cancer Test",
+		"cure": "Muscle Cancer Cure"
+	},
+	{
+		"name": "Pelvic Cancer",
+		"treatment": "Pelvic Cancer Treatment",
+		"diagnosis": "Pelvic Cancer Diagnosis",
+		"test": "Pelvic Cancer Test",
+		"cure": "Pelvic Cancer Cure"
+	},
+	{
+		"name": "Penile Cancer",
+		"treatment": "Penile Cancer Treatment",
+		"diagnosis": "Penile Cancer Diagnosis",
+		"test": "Penile Cancer Test",
+		"cure": "Penile Cancer Cure"
+	},
+	{
+		"name": "Powder Cancer",
+		"treatment": "Powder Cancer Treatment",
+		"diagnosis": "Powder Cancer Diagnosis",
+		"test": "Powder Cancer Test",
+		"cure": "Powder Cancer Cure"
+	},
+	{
+		"name": "Rectal Cancer",
+		"treatment": "Rectal Cancer Treatment",
+		"diagnosis": "Rectal Cancer Diagnosis",
+		"test": "Rectal Cancer Test",
+		"cure": "Rectal Cancer Cure"
+	},
+	{
+		"name": "Spinal Cancer",
+		"treatment": "Spinal Cancer Treatment",
+		"diagnosis": "Spinal Cancer Diagnosis",
+		"test": "Spinal Cancer Test",
+		"cure": "Spinal Cancer Cure"
+	},
+	{
+		"name": "Spleen Cancer",
+		"treatment": "Spleen Cancer Treatment",
+		"diagnosis": "Spleen Cancer Diagnosis",
+		"test": "Spleen Cancer Test",
+		"cure": "Spleen Cancer Cure"
+	},
+	{
+		"name": "Talcum Cancer",
+		"treatment": "Talcum Cancer Treatment",
+		"diagnosis": "Talcum Cancer Diagnosis",
+		"test": "Talcum Cancer Test",
+		"cure": "Talcum Cancer Cure"
+	},
+	{
+		"name": "Throat Cancer",
+		"treatment": "Throat Cancer Treatment",
+		"diagnosis": "Throat Cancer Diagnosis",
+		"test": "Throat Cancer Test",
+		"cure": "Throat Cancer Cure"
+	},
+	{
+		"name": "Thymus Cancer",
+		"treatment": "Thymus Cancer Treatment",
+		"diagnosis": "Thymus Cancer Diagnosis",
+		"test": "Thymus Cancer Test",
+		"cure": "Thymus Cancer Cure"
+	},
+	{
+		"name": "Tongue Cancer",
+		"treatment": "Tongue Cancer Treatment",
+		"diagnosis": "Tongue Cancer Diagnosis",
+		"test": "Tongue Cancer Test",
+		"cure": "Tongue Cancer Cure"
+	},
+	{
+		"name": "Tonsil Cancer",
+		"treatment": "Tonsil Cancer Treatment",
+		"diagnosis": "Tonsil Cancer Diagnosis",
+		"test": "Tonsil Cancer Test",
+		"cure": "Tonsil Cancer Cure"
+	},
+	{
+		"name": "Vulvar Cancer",
+		"treatment": "Vulvar Cancer Treatment",
+		"diagnosis": "Vulvar Cancer Diagnosis",
+		"test": "Vulvar Cancer Test",
+		"cure": "Vulvar Cancer Cure"
+	},
+	{
+		"name": "Adrenal Cancer",
+		"treatment": "Adrenal Cancer Treatment",
+		"diagnosis": "Adrenal Cancer Diagnosis",
+		"test": "Adrenal Cancer Test",
+		"cure": "Adrenal Cancer Cure"
+	},
+	{
+		"name": "Gastric Cancer",
+		"treatment": "Gastric Cancer Treatment",
+		"diagnosis": "Gastric Cancer Diagnosis",
+		"test": "Gastric Cancer Test",
+		"cure": "Gastric Cancer Cure"
+	},
+	{
+		"name": "Lobular Cancer",
+		"treatment": "Lobular Cancer Treatment",
+		"diagnosis": "Lobular Cancer Diagnosis",
+		"test": "Lobular Cancer Test",
+		"cure": "Lobular Cancer Cure"
+	},
+	{
+		"name": "Myeloma Cancer",
+		"treatment": "Myeloma Cancer Treatment",
+		"diagnosis": "Myeloma Cancer Diagnosis",
+		"test": "Myeloma Cancer Test",
+		"cure": "Myeloma Cancer Cure"
+	},
+	{
+		"name": "Omentum Cancer",
+		"treatment": "Omentum Cancer Treatment",
+		"diagnosis": "Omentum Cancer Diagnosis",
+		"test": "Omentum Cancer Test",
+		"cure": "Omentum Cancer Cure"
+	},
+	{
+		"name": "Parotid Cancer",
+		"treatment": "Parotid Cancer Treatment",
+		"diagnosis": "Parotid Cancer Diagnosis",
+		"test": "Parotid Cancer Test",
+		"cure": "Parotid Cancer Cure"
+	},
+	{
+		"name": "Sarcoma Cancer",
+		"treatment": "Sarcoma Cancer Treatment",
+		"diagnosis": "Sarcoma Cancer Diagnosis",
+		"test": "Sarcoma Cancer Test",
+		"cure": "Sarcoma Cancer Cure"
+	},
+	{
+		"name": "Thymoma Cancer",
+		"treatment": "Thymoma Cancer Treatment",
+		"diagnosis": "Thymoma Cancer Diagnosis",
+		"test": "Thymoma Cancer Test",
+		"cure": "Thymoma Cancer Cure"
+	},
+	{
+		"name": "Thyroid Cancer",
+		"treatment": "Thyroid Cancer Treatment",
+		"diagnosis": "Thyroid Cancer Diagnosis",
+		"test": "Thyroid Cancer Test",
+		"cure": "Thyroid Cancer Cure"
+	},
+	{
+		"name": "Vaginal Cancer",
+		"treatment": "Vaginal Cancer Treatment",
+		"diagnosis": "Vaginal Cancer Diagnosis",
+		"test": "Vaginal Cancer Test",
+		"cure": "Vaginal Cancer Cure"
+	},
+	{
+		"name": "Appendix Cancer",
+		"treatment": "Appendix Cancer Treatment",
+		"diagnosis": "Appendix Cancer Diagnosis",
+		"test": "Appendix Cancer Test",
+		"cure": "Appendix Cancer Cure"
+	},
+	{
+		"name": "Asbestos Cancer",
+		"treatment": "Asbestos Cancer Treatment",
+		"diagnosis": "Asbestos Cancer Diagnosis",
+		"test": "Asbestos Cancer Test",
+		"cure": "Asbestos Cancer Cure"
+	},
+	{
+		"name": "Clitoral Cancer",
+		"treatment": "Clitoral Cancer Treatment",
+		"diagnosis": "Clitoral Cancer Diagnosis",
+		"test": "Clitoral Cancer Test",
+		"cure": "Clitoral Cancer Cure"
+	},
+	{
+		"name": "Duodenal Cancer",
+		"treatment": "Duodenal Cancer Treatment",
+		"diagnosis": "Duodenal Cancer Diagnosis",
+		"test": "Duodenal Cancer Test",
+		"cure": "Duodenal Cancer Cure"
+	},
+	{
+		"name": "Invasive Cancer",
+		"treatment": "Invasive Cancer Treatment",
+		"diagnosis": "Invasive Cancer Diagnosis",
+		"test": "Invasive Cancer Test",
+		"cure": "Invasive Cancer Cure"
+	},
+	{
+		"name": "Leukemia Cancer",
+		"treatment": "Leukemia Cancer Treatment",
+		"diagnosis": "Leukemia Cancer Diagnosis",
+		"test": "Leukemia Cancer Test",
+		"cure": "Leukemia Cancer Cure"
+	},
+	{
+		"name": "Melanoma Cancer",
+		"treatment": "Melanoma Cancer Treatment",
+		"diagnosis": "Melanoma Cancer Diagnosis",
+		"test": "Melanoma Cancer Test",
+		"cure": "Melanoma Cancer Cure"
+	},
+	{
+		"name": "Pancreas Cancer",
+		"treatment": "Pancreas Cancer Treatment",
+		"diagnosis": "Pancreas Cancer Diagnosis",
+		"test": "Pancreas Cancer Test",
+		"cure": "Pancreas Cancer Cure"
+	},
+	{
+		"name": "Salivary Cancer",
+		"treatment": "Salivary Cancer Treatment",
+		"diagnosis": "Salivary Cancer Diagnosis",
+		"test": "Salivary Cancer Test",
+		"cure": "Salivary Cancer Cure"
+	},
+	{
+		"name": "Shoulder Cancer",
+		"treatment": "Shoulder Cancer Treatment",
+		"diagnosis": "Shoulder Cancer Diagnosis",
+		"test": "Shoulder Cancer Test",
+		"cure": "Shoulder Cancer Cure"
+	},
+	{
+		"name": "Squamous Cancer",
+		"treatment": "Squamous Cancer Treatment",
+		"diagnosis": "Squamous Cancer Diagnosis",
+		"test": "Squamous Cancer Test",
+		"cure": "Squamous Cancer Cure"
+	},
+	{
+		"name": "Urethral Cancer",
+		"treatment": "Urethral Cancer Treatment",
+		"diagnosis": "Urethral Cancer Diagnosis",
+		"test": "Urethral Cancer Test",
+		"cure": "Urethral Cancer Cure"
+	},
+	{
+		"name": "Ampullary Cancer",
+		"treatment": "Ampullary Cancer Treatment",
+		"diagnosis": "Ampullary Cancer Diagnosis",
+		"test": "Ampullary Cancer Test",
+		"cure": "Ampullary Cancer Cure"
+	},
+	{
+		"name": "Anorectal Cancer",
+		"treatment": "Anorectal Cancer Treatment",
+		"diagnosis": "Anorectal Cancer Diagnosis",
+		"test": "Anorectal Cancer Test",
+		"cure": "Anorectal Cancer Cure"
+	},
+	{
+		"name": "Carcinoid Cancer",
+		"treatment": "Carcinoid Cancer Treatment",
+		"diagnosis": "Carcinoid Cancer Diagnosis",
+		"test": "Carcinoid Cancer Test",
+		"cure": "Carcinoid Cancer Cure"
+	},
+	{
+		"name": "Carcinoma Cancer",
+		"treatment": "Carcinoma Cancer Treatment",
+		"diagnosis": "Carcinoma Cancer Diagnosis",
+		"test": "Carcinoma Cancer Test",
+		"cure": "Carcinoma Cancer Cure"
+	},
+	{
+		"name": "Fungating Cancer",
+		"treatment": "Fungating Cancer Treatment",
+		"diagnosis": "Fungating Cancer Diagnosis",
+		"test": "Fungating Cancer Test",
+		"cure": "Fungating Cancer Cure"
+	},
+	{
+		"name": "Intestine Cancer",
+		"treatment": "Intestine Cancer Treatment",
+		"diagnosis": "Intestine Cancer Diagnosis",
+		"test": "Intestine Cancer Test",
+		"cure": "Intestine Cancer Cure"
+	},
+	{
+		"name": "Kalanchoe Cancer",
+		"treatment": "Kalanchoe Cancer Treatment",
+		"diagnosis": "Kalanchoe Cancer Diagnosis",
+		"test": "Kalanchoe Cancer Test",
+		"cure": "Kalanchoe Cancer Cure"
+	},
+	{
+		"name": "Laryngeal Cancer",
+		"treatment": "Laryngeal Cancer Treatment",
+		"diagnosis": "Laryngeal Cancer Diagnosis",
+		"test": "Laryngeal Cancer Test",
+		"cure": "Laryngeal Cancer Cure"
+	},
+	{
+		"name": "Malignant Cancer",
+		"treatment": "Malignant Cancer Treatment",
+		"diagnosis": "Malignant Cancer Diagnosis",
+		"test": "Malignant Cancer Test",
+		"cure": "Malignant Cancer Cure"
+	},
+	{
+		"name": "Medullary Cancer",
+		"treatment": "Medullary Cancer Treatment",
+		"diagnosis": "Medullary Cancer Diagnosis",
+		"test": "Medullary Cancer Test",
+		"cure": "Medullary Cancer Cure"
+	},
+	{
+		"name": "Papillary Cancer",
+		"treatment": "Papillary Cancer Treatment",
+		"diagnosis": "Papillary Cancer Diagnosis",
+		"test": "Papillary Cancer Test",
+		"cure": "Papillary Cancer Cure"
+	},
+	{
+		"name": "Pediatric Cancer",
+		"treatment": "Pediatric Cancer Treatment",
+		"diagnosis": "Pediatric Cancer Diagnosis",
+		"test": "Pediatric Cancer Test",
+		"cure": "Pediatric Cancer Cure"
+	},
+	{
+		"name": "Platelets Cancer",
+		"treatment": "Platelets Cancer Treatment",
+		"diagnosis": "Platelets Cancer Diagnosis",
+		"test": "Platelets Cancer Test",
+		"cure": "Platelets Cancer Cure"
+	},
+	{
+		"name": "Anaplastic Cancer",
+		"treatment": "Anaplastic Cancer Treatment",
+		"diagnosis": "Anaplastic Cancer Diagnosis",
+		"test": "Anaplastic Cancer Test",
+		"cure": "Anaplastic Cancer Cure"
+	},
+	{
+		"name": "Erythritol Cancer",
+		"treatment": "Erythritol Cancer Treatment",
+		"diagnosis": "Erythritol Cancer Diagnosis",
+		"test": "Erythritol Cancer Test",
+		"cure": "Erythritol Cancer Cure"
+	},
+	{
+		"name": "Follicular Cancer",
+		"treatment": "Follicular Cancer Treatment",
+		"diagnosis": "Follicular Cancer Diagnosis",
+		"test": "Follicular Cancer Test",
+		"cure": "Follicular Cancer Cure"
+	},
+	{
+		"name": "Intestinal Cancer",
+		"treatment": "Intestinal Cancer Treatment",
+		"diagnosis": "Intestinal Cancer Diagnosis",
+		"test": "Intestinal Cancer Test",
+		"cure": "Intestinal Cancer Cure"
+	},
+	{
+		"name": "Metastatic Cancer",
+		"treatment": "Metastatic Cancer Treatment",
+		"diagnosis": "Metastatic Cancer Diagnosis",
+		"test": "Metastatic Cancer Test",
+		"cure": "Metastatic Cancer Cure"
+	},
+	{
+		"name": "Peritoneal Cancer",
+		"treatment": "Peritoneal Cancer Treatment",
+		"diagnosis": "Peritoneal Cancer Diagnosis",
+		"test": "Peritoneal Cancer Test",
+		"cure": "Peritoneal Cancer Cure"
+	},
+	{
+		"name": "Urothelial Cancer",
+		"treatment": "Urothelial Cancer Treatment",
+		"diagnosis": "Urothelial Cancer Diagnosis",
+		"test": "Urothelial Cancer Test",
+		"cure": "Urothelial Cancer Cure"
+	},
+	{
+		"name": "Oesophageal Cancer",
+		"treatment": "Oesophageal Cancer Treatment",
+		"diagnosis": "Oesophageal Cancer Diagnosis",
+		"test": "Oesophageal Cancer Test",
+		"cure": "Oesophageal Cancer Cure"
+	},
+	{
+		"name": "Glioblastoma Cancer",
+		"treatment": "Glioblastoma Cancer Treatment",
+		"diagnosis": "Glioblastoma Cancer Diagnosis",
+		"test": "Glioblastoma Cancer Test",
+		"cure": "Glioblastoma Cancer Cure"
+	},
+	{
+		"name": "Mesothelioma Cancer",
+		"treatment": "Mesothelioma Cancer Treatment",
+		"diagnosis": "Mesothelioma Cancer Diagnosis",
+		"test": "Mesothelioma Cancer Test",
+		"cure": "Mesothelioma Cancer Cure"
+	},
+	{
+		"name": "Non-Melanoma Cancer",
+		"treatment": "Non-Melanoma Cancer Treatment",
+		"diagnosis": "Non-Melanoma Cancer Diagnosis",
+		"test": "Non-Melanoma Cancer Test",
+		"cure": "Non-Melanoma Cancer Cure"
+	},
+	{
+		"name": "Osteosarcoma Cancer",
+		"treatment": "Osteosarcoma Cancer Treatment",
+		"diagnosis": "Osteosarcoma Cancer Diagnosis",
+		"test": "Osteosarcoma Cancer Test",
+		"cure": "Osteosarcoma Cancer Cure"
+	},
+	{
+		"name": "Neuroblastoma Cancer",
+		"treatment": "Neuroblastoma Cancer Treatment",
+		"diagnosis": "Neuroblastoma Cancer Diagnosis",
+		"test": "Neuroblastoma Cancer Test",
+		"cure": "Neuroblastoma Cancer Cure"
+	},
+	{
+		"name": "Oropharyngeal Cancer",
+		"treatment": "Oropharyngeal Cancer Treatment",
+		"diagnosis": "Oropharyngeal Cancer Diagnosis",
+		"test": "Oropharyngeal Cancer Test",
+		"cure": "Oropharyngeal Cancer Cure"
+	},
+	{
+		"name": "Adenocarcinoma Cancer",
+		"treatment": "Adenocarcinoma Cancer Treatment",
+		"diagnosis": "Adenocarcinoma Cancer Diagnosis",
+		"test": "Adenocarcinoma Cancer Test",
+		"cure": "Adenocarcinoma Cancer Cure"
+	},
+	{
+		"name": "Hypopharyngeal Cancer",
+		"treatment": "Hypopharyngeal Cancer Treatment",
+		"diagnosis": "Hypopharyngeal Cancer Diagnosis",
+		"test": "Hypopharyngeal Cancer Test",
+		"cure": "Hypopharyngeal Cancer Cure"
+	},
+	{
+		"name": "Nasopharyngeal Cancer",
+		"treatment": "Nasopharyngeal Cancer Treatment",
+		"diagnosis": "Nasopharyngeal Cancer Diagnosis",
+		"test": "Nasopharyngeal Cancer Test",
+		"cure": "Nasopharyngeal Cancer Cure"
+	},
+	{
+		"name": "Neuroendocrine Cancer",
+		"treatment": "Neuroendocrine Cancer Treatment",
+		"diagnosis": "Neuroendocrine Cancer Diagnosis",
+		"test": "Neuroendocrine Cancer Test",
+		"cure": "Neuroendocrine Cancer Cure"
+	},
+	{
+		"name": "Gastrointestinal Cancer",
+		"treatment": "Gastrointestinal Cancer Treatment",
+		"diagnosis": "Gastrointestinal Cancer Diagnosis",
+		"test": "Gastrointestinal Cancer Test",
+		"cure": "Gastrointestinal Cancer Cure"
+	},
+	{
+		"name": "Diagnosing Throat Cancer",
+		"treatment": "Diagnosing Throat Cancer Treatment",
+		"diagnosis": "Diagnosing Throat Cancer Diagnosis",
+		"test": "Diagnosing Throat Cancer Test",
+		"cure": "Diagnosing Throat Cancer Cure"
+	},
+	{
+		"name": "Epiglottic Cancer",
+		"treatment": "Epiglottic Cancer Treatment",
+		"diagnosis": "Epiglottic Cancer Diagnosis",
+		"test": "Epiglottic Cancer Test",
+		"cure": "Epiglottic Cancer Cure"
+	},
+	{
+		"name": "Pharynx Cancer",
+		"treatment": "Pharynx Cancer Treatment",
+		"diagnosis": "Pharynx Cancer Diagnosis",
+		"test": "Pharynx Cancer Test",
+		"cure": "Pharynx Cancer Cure"
+	},
+	{
+		"name": "Chronic Laryngitis Cancer",
+		"treatment": "Chronic Laryngitis Cancer Treatment",
+		"diagnosis": "Chronic Laryngitis Cancer Diagnosis",
+		"test": "Chronic Laryngitis Cancer Test",
+		"cure": "Chronic Laryngitis Cancer Cure"
+	},
+	{
+		"name": "Tonsil Stones Cancer",
+		"treatment": "Tonsil Stones Cancer Treatment",
+		"diagnosis": "Tonsil Stones Cancer Diagnosis",
+		"test": "Tonsil Stones Cancer Test",
+		"cure": "Tonsil Stones Cancer Cure"
+	},
+	{
+		"name": "Persistent Sore Throat Cancer",
+		"treatment": "Persistent Sore Throat Cancer Treatment",
+		"diagnosis": "Persistent Sore Throat Cancer Diagnosis",
+		"test": "Persistent Sore Throat Cancer Test",
+		"cure": "Persistent Sore Throat Cancer Cure"
+	},
+	{
+		"name": "Squamous Cell Throat Cancer",
+		"treatment": "Squamous Cell Throat Cancer Treatment",
+		"diagnosis": "Squamous Cell Throat Cancer Diagnosis",
+		"test": "Squamous Cell Throat Cancer Test",
+		"cure": "Squamous Cell Throat Cancer Cure"
+	},
+	{
+		"name": "Throat Esophagus Cancer",
+		"treatment": "Throat Esophagus Cancer Treatment",
+		"diagnosis": "Throat Esophagus Cancer Diagnosis",
+		"test": "Throat Esophagus Cancer Test",
+		"cure": "Throat Esophagus Cancer Cure"
+	},
+	{
+		"name": "Metastatic Throat Cancer",
+		"treatment": "Metastatic Throat Cancer Treatment",
+		"diagnosis": "Metastatic Throat Cancer Diagnosis",
+		"test": "Metastatic Throat Cancer Test",
+		"cure": "Metastatic Throat Cancer Cure"
+	},
+	{
+		"name": "Laryngopharyngeal Cancer",
+		"treatment": "Laryngopharyngeal Cancer Treatment",
+		"diagnosis": "Laryngopharyngeal Cancer Diagnosis",
+		"test": "Laryngopharyngeal Cancer Test",
+		"cure": "Laryngopharyngeal Cancer Cure"
+	},
+	{
+		"name": "Uvula Cancer",
+		"treatment": "Uvula Cancer Treatment",
+		"diagnosis": "Uvula Cancer Diagnosis",
+		"test": "Uvula Cancer Test",
+		"cure": "Uvula Cancer Cure"
+	},
+	{
+		"name": "Vocal Cord Cancer",
+		"treatment": "Vocal Cord Cancer Treatment",
+		"diagnosis": "Vocal Cord Cancer Diagnosis",
+		"test": "Vocal Cord Cancer Test",
+		"cure": "Vocal Cord Cancer Cure"
+	},
+	{
+		"name": "Pharyngeal Cancer",
+		"treatment": "Pharyngeal Cancer Treatment",
+		"diagnosis": "Pharyngeal Cancer Diagnosis",
+		"test": "Pharyngeal Cancer Test",
+		"cure": "Pharyngeal Cancer Cure"
+	},
+	{
+		"name": "Sore Throat Cancer",
+		"treatment": "Sore Throat Cancer Treatment",
+		"diagnosis": "Sore Throat Cancer Diagnosis",
+		"test": "Sore Throat Cancer Test",
+		"cure": "Sore Throat Cancer Cure"
+	},
+	{
+		"name": "HPV Tongue Cancer",
+		"treatment": "HPV Tongue Cancer Treatment",
+		"diagnosis": "HPV Tongue Cancer Diagnosis",
+		"test": "HPV Tongue Cancer Test",
+		"cure": "HPV Tongue Cancer Cure"
+	},
+	{
+		"name": "Mouth Throat Cancer",
+		"treatment": "Mouth Throat Cancer Treatment",
+		"diagnosis": "Mouth Throat Cancer Diagnosis",
+		"test": "Mouth Throat Cancer Test",
+		"cure": "Mouth Throat Cancer Cure"
+	},
+	{
+		"name": "Diagnosing Throat Cancer",
+		"treatment": "Diagnosing Throat Cancer Treatment",
+		"diagnosis": "Diagnosing Throat Cancer Diagnosis",
+		"test": "Diagnosing Throat Cancer Test",
+		"cure": "Diagnosing Throat Cancer Cure"
+	},
+	{
+		"name": "Epiglottic Cancer",
+		"treatment": "Epiglottic Cancer Treatment",
+		"diagnosis": "Epiglottic Cancer Diagnosis",
+		"test": "Epiglottic Cancer Test",
+		"cure": "Epiglottic Cancer Cure"
+	},
+	{
+		"name": "Larynx Cancer",
+		"treatment": "Larynx Cancer Treatment",
+		"diagnosis": "Larynx Cancer Diagnosis",
+		"test": "Larynx Cancer Test",
+		"cure": "Larynx Cancer Cure"
+	},
+	{
+		"name": "Early Throat Cancer",
+		"treatment": "Early Throat Cancer Treatment",
+		"diagnosis": "Early Throat Cancer Diagnosis",
+		"test": "Early Throat Cancer Test",
+		"cure": "Early Throat Cancer Cure"
+	},
+	{
+		"name": "Childhood Cancer",
+		"treatment": "Childhood Cancer Treatment",
+		"diagnosis": "Childhood Cancer Diagnosis",
+		"test": "Childhood Cancer Test",
+		"cure": "Childhood Cancer Cure"
+	},
+	{
+		"name": "Childhood Skin Cancer",
+		"treatment": "Childhood Skin Cancer Treatment",
+		"diagnosis": "Childhood Skin Cancer Diagnosis",
+		"test": "Childhood Skin Cancer Test",
+		"cure": "Childhood Skin Cancer Cure"
+	},
+	{
+		"name": "Pediatric Brain Cancer",
+		"treatment": "Pediatric Brain Cancer Treatment",
+		"diagnosis": "Pediatric Brain Cancer Diagnosis",
+		"test": "Pediatric Brain Cancer Test",
+		"cure": "Pediatric Brain Cancer Cure"
+	},
+	{
+		"name": "Rare Childhood Cancer",
+		"treatment": "Rare Childhood Cancer Treatment",
+		"diagnosis": "Rare Childhood Cancer Diagnosis",
+		"test": "Rare Childhood Cancer Test",
+		"cure": "Rare Childhood Cancer Cure"
+	},
+	{
+		"name": "Deadliest Childhood Cancer",
+		"treatment": "Deadliest Childhood Cancer Treatment",
+		"diagnosis": "Deadliest Childhood Cancer Diagnosis",
+		"test": "Deadliest Childhood Cancer Test",
+		"cure": "Deadliest Childhood Cancer Cure"
+	},
+	{
+		"name": "Pediatric Kidney Cancer",
+		"treatment": "Pediatric Kidney Cancer Treatment",
+		"diagnosis": "Pediatric Kidney Cancer Diagnosis",
+		"test": "Pediatric Kidney Cancer Test",
+		"cure": "Pediatric Kidney Cancer Cure"
+	},
+	{
+		"name": "Childhood Blood Cancer",
+		"treatment": "Childhood Blood Cancer Treatment",
+		"diagnosis": "Childhood Blood Cancer Diagnosis",
+		"test": "Childhood Blood Cancer Test",
+		"cure": "Childhood Blood Cancer Cure"
+	},
+	{
+		"name": "Childhood Lung Cancer",
+		"treatment": "Childhood Lung Cancer Treatment",
+		"diagnosis": "Childhood Lung Cancer Diagnosis",
+		"test": "Childhood Lung Cancer Test",
+		"cure": "Childhood Lung Cancer Cure"
+	}
+]

@@ -1,0 +1,9 @@
+{% autoescape off %}
+
+Dear , {{user.first_name}}
+
+Click http://{{domain}}{% url 'change' uidb64=uid token=token %} reset your password.
+
+-- Relcanonical
+
+{% endautoescape %}

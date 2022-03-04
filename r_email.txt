@@ -1,0 +1,51 @@
+//////////////////////////////////////////////////////////
+
+If a user requests an account, we will send this email template to the user
+
+firstName, kindly confirm your email
+
+Dear firstName,
+
+Please click [Here] to confirm your email.
+
+-- Relcanonical
+
+/////////////////////////////////////////////////////////
+
+If a user requests a password, we will send this email template to the user
+
+firstName, kindly reset your password
+
+Dear firstName,
+
+Click [Here] to reset your password.
+
+-- Relcanonical
+
+//////////////////////////////////////////////////////////
+
+If a user's password changes, we will send this email template to the user
+
+firstName, your password has changed
+
+Dear firstName,
+
+Your password has been changed.
+If you didn't do this, please contact us.
+
+-- Relcanonical
+
+//////////////////////////////////////////////////////////
+
+If admin changes the account plan of a user, we will send this email template to the user
+
+firstName, your plan has changed
+
+Dear firstName,
+
+Your Account Plan has been changed to {Plan}.
+Kindly contact our sales for further details.
+
+-- Relcanonical
+
+//////////////////////////////////////////////////////////

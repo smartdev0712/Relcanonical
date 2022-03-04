@@ -1,0 +1,1752 @@
+[
+	{
+		"name": "Abdominal Tumor",
+		"treatment": "Abdominal Tumor Treatment",
+		"diagnosis": "Abdominal Tumor Diagnosis",
+		"test": "Abdominal Tumor Test",
+		"cure": "Abdominal Tumor Cure"
+	},
+	{
+		"name": "Adenomatoid Tumor",
+		"treatment": "Adenomatoid Tumor Treatment",
+		"diagnosis": "Adenomatoid Tumor Diagnosis",
+		"test": "Adenomatoid Tumor Test",
+		"cure": "Adenomatoid Tumor Cure"
+	},
+	{
+		"name": "Adnexal Tumor",
+		"treatment": "Adnexal Tumor Treatment",
+		"diagnosis": "Adnexal Tumor Diagnosis",
+		"test": "Adnexal Tumor Test",
+		"cure": "Adnexal Tumor Cure"
+	},
+	{
+		"name": "Adrenal Gland Tumor",
+		"treatment": "Adrenal Gland Tumor Treatment",
+		"diagnosis": "Adrenal Gland Tumor Diagnosis",
+		"test": "Adrenal Gland Tumor Test",
+		"cure": "Adrenal Gland Tumor Cure"
+	},
+	{
+		"name": "Adrenal Tumor",
+		"treatment": "Adrenal Tumor Treatment",
+		"diagnosis": "Adrenal Tumor Diagnosis",
+		"test": "Adrenal Tumor Test",
+		"cure": "Adrenal Tumor Cure"
+	},
+	{
+		"name": "Adult Granulosa Cell Tumor",
+		"treatment": "Adult Granulosa Cell Tumor Treatment",
+		"diagnosis": "Adult Granulosa Cell Tumor Diagnosis",
+		"test": "Adult Granulosa Cell Tumor Test",
+		"cure": "Adult Granulosa Cell Tumor Cure"
+	},
+	{
+		"name": "Anal Tumor",
+		"treatment": "Anal Tumor Treatment",
+		"diagnosis": "Anal Tumor Diagnosis",
+		"test": "Anal Tumor Test",
+		"cure": "Anal Tumor Cure"
+	},
+	{
+		"name": "Androgen Secreting Tumor",
+		"treatment": "Androgen Secreting Tumor Treatment",
+		"diagnosis": "Androgen Secreting Tumor Diagnosis",
+		"test": "Androgen Secreting Tumor Test",
+		"cure": "Androgen Secreting Tumor Cure"
+	},
+	{
+		"name": "Astrocytoma Brain Tumor",
+		"treatment": "Astrocytoma Brain Tumor Treatment",
+		"diagnosis": "Astrocytoma Brain Tumor Diagnosis",
+		"test": "Astrocytoma Brain Tumor Test",
+		"cure": "Astrocytoma Brain Tumor Cure"
+	},
+	{
+		"name": "ATRT Tumor",
+		"treatment": "ATRT Tumor Treatment",
+		"diagnosis": "ATRT Tumor Diagnosis",
+		"test": "ATRT Tumor Test",
+		"cure": "ATRT Tumor Cure"
+	},
+	{
+		"name": "Atypical Lipomatous Tumor",
+		"treatment": "Atypical Lipomatous Tumor Treatment",
+		"diagnosis": "Atypical Lipomatous Tumor Diagnosis",
+		"test": "Atypical Lipomatous Tumor Test",
+		"cure": "Atypical Lipomatous Tumor Cure"
+	},
+	{
+		"name": "Back Tumor",
+		"treatment": "Back Tumor Treatment",
+		"diagnosis": "Back Tumor Diagnosis",
+		"test": "Back Tumor Test",
+		"cure": "Back Tumor Cure"
+	},
+	{
+		"name": "Benign And Malignant Tumor",
+		"treatment": "Benign And Malignant Tumor Treatment",
+		"diagnosis": "Benign And Malignant Tumor Diagnosis",
+		"test": "Benign And Malignant Tumor Test",
+		"cure": "Benign And Malignant Tumor Cure"
+	},
+	{
+		"name": "Benign Bone Tumor",
+		"treatment": "Benign Bone Tumor Treatment",
+		"diagnosis": "Benign Bone Tumor Diagnosis",
+		"test": "Benign Bone Tumor Test",
+		"cure": "Benign Bone Tumor Cure"
+	},
+	{
+		"name": "Benign Brain Tumor",
+		"treatment": "Benign Brain Tumor Treatment",
+		"diagnosis": "Benign Brain Tumor Diagnosis",
+		"test": "Benign Brain Tumor Test",
+		"cure": "Benign Brain Tumor Cure"
+	},
+	{
+		"name": "Benign Liver Tumor",
+		"treatment": "Benign Liver Tumor Treatment",
+		"diagnosis": "Benign Liver Tumor Diagnosis",
+		"test": "Benign Liver Tumor Test",
+		"cure": "Benign Liver Tumor Cure"
+	},
+	{
+		"name": "Benign Ovarian Tumor",
+		"treatment": "Benign Ovarian Tumor Treatment",
+		"diagnosis": "Benign Ovarian Tumor Diagnosis",
+		"test": "Benign Ovarian Tumor Test",
+		"cure": "Benign Ovarian Tumor Cure"
+	},
+	{
+		"name": "Benign Phyllodes Tumor",
+		"treatment": "Benign Phyllodes Tumor Treatment",
+		"diagnosis": "Benign Phyllodes Tumor Diagnosis",
+		"test": "Benign Phyllodes Tumor Test",
+		"cure": "Benign Phyllodes Tumor Cure"
+	},
+	{
+		"name": "Benign Tumor",
+		"treatment": "Benign Tumor Treatment",
+		"diagnosis": "Benign Tumor Diagnosis",
+		"test": "Benign Tumor Test",
+		"cure": "Benign Tumor Cure"
+	},
+	{
+		"name": "Benign Tumor And Malignant Tumor",
+		"treatment": "Benign Tumor And Malignant Tumor Treatment",
+		"diagnosis": "Benign Tumor And Malignant Tumor Diagnosis",
+		"test": "Benign Tumor And Malignant Tumor Test",
+		"cure": "Benign Tumor And Malignant Tumor Cure"
+	},
+	{
+		"name": "Benigni Tumor",
+		"treatment": "Benigni Tumor Treatment",
+		"diagnosis": "Benigni Tumor Diagnosis",
+		"test": "Benigni Tumor Test",
+		"cure": "Benigni Tumor Cure"
+	},
+	{
+		"name": "Bladder Tumor",
+		"treatment": "Bladder Tumor Treatment",
+		"diagnosis": "Bladder Tumor Diagnosis",
+		"test": "Bladder Tumor Test",
+		"cure": "Bladder Tumor Cure"
+	},
+	{
+		"name": "Blood Tumor",
+		"treatment": "Blood Tumor Treatment",
+		"diagnosis": "Blood Tumor Diagnosis",
+		"test": "Blood Tumor Test",
+		"cure": "Blood Tumor Cure"
+	},
+	{
+		"name": "Blue Cell Tumor",
+		"treatment": "Blue Cell Tumor Treatment",
+		"diagnosis": "Blue Cell Tumor Diagnosis",
+		"test": "Blue Cell Tumor Test",
+		"cure": "Blue Cell Tumor Cure"
+	},
+	{
+		"name": "Bone Tumor",
+		"treatment": "Bone Tumor Treatment",
+		"diagnosis": "Bone Tumor Diagnosis",
+		"test": "Bone Tumor Test",
+		"cure": "Bone Tumor Cure"
+	},
+	{
+		"name": "Borderline Ovarian Tumor",
+		"treatment": "Borderline Ovarian Tumor Treatment",
+		"diagnosis": "Borderline Ovarian Tumor Diagnosis",
+		"test": "Borderline Ovarian Tumor Test",
+		"cure": "Borderline Ovarian Tumor Cure"
+	},
+	{
+		"name": "Brain Stem Tumor",
+		"treatment": "Brain Stem Tumor Treatment",
+		"diagnosis": "Brain Stem Tumor Diagnosis",
+		"test": "Brain Stem Tumor Test",
+		"cure": "Brain Stem Tumor Cure"
+	},
+	{
+		"name": "Brain Tumor",
+		"treatment": "Brain Tumor Treatment",
+		"diagnosis": "Brain Tumor Diagnosis",
+		"test": "Brain Tumor Test",
+		"cure": "Brain Tumor Cure"
+	},
+	{
+		"name": "Breast Cancer Tumor",
+		"treatment": "Breast Cancer Tumor Treatment",
+		"diagnosis": "Breast Cancer Tumor Diagnosis",
+		"test": "Breast Cancer Tumor Test",
+		"cure": "Breast Cancer Tumor Cure"
+	},
+	{
+		"name": "Breast Tumor",
+		"treatment": "Breast Tumor Treatment",
+		"diagnosis": "Breast Tumor Diagnosis",
+		"test": "Breast Tumor Test",
+		"cure": "Breast Tumor Cure"
+	},
+	{
+		"name": "Brenner Tumor",
+		"treatment": "Brenner Tumor Treatment",
+		"diagnosis": "Brenner Tumor Diagnosis",
+		"test": "Brenner Tumor Test",
+		"cure": "Brenner Tumor Cure"
+	},
+	{
+		"name": "Brown Tumor",
+		"treatment": "Brown Tumor Treatment",
+		"diagnosis": "Brown Tumor Diagnosis",
+		"test": "Brown Tumor Test",
+		"cure": "Brown Tumor Cure"
+	},
+	{
+		"name": "Buschke Lowenstein Tumor",
+		"treatment": "Buschke Lowenstein Tumor Treatment",
+		"diagnosis": "Buschke Lowenstein Tumor Diagnosis",
+		"test": "Buschke Lowenstein Tumor Test",
+		"cure": "Buschke Lowenstein Tumor Cure"
+	},
+	{
+		"name": "Butterfly Tumor",
+		"treatment": "Butterfly Tumor Treatment",
+		"diagnosis": "Butterfly Tumor Diagnosis",
+		"test": "Butterfly Tumor Test",
+		"cure": "Butterfly Tumor Cure"
+	},
+	{
+		"name": "Calcifying Epithelial Odontogenic Tumor",
+		"treatment": "Calcifying Epithelial Odontogenic Tumor Treatment",
+		"diagnosis": "Calcifying Epithelial Odontogenic Tumor Diagnosis",
+		"test": "Calcifying Epithelial Odontogenic Tumor Test",
+		"cure": "Calcifying Epithelial Odontogenic Tumor Cure"
+	},
+	{
+		"name": "Cancerous Tumor",
+		"treatment": "Cancerous Tumor Treatment",
+		"diagnosis": "Cancerous Tumor Diagnosis",
+		"test": "Cancerous Tumor Test",
+		"cure": "Cancerous Tumor Cure"
+	},
+	{
+		"name": "Carcinoid Tumor",
+		"treatment": "Carcinoid Tumor Treatment",
+		"diagnosis": "Carcinoid Tumor Diagnosis",
+		"test": "Carcinoid Tumor Test",
+		"cure": "Carcinoid Tumor Cure"
+	},
+	{
+		"name": "Carcinoid Tumor Lung",
+		"treatment": "Carcinoid Tumor Lung Treatment",
+		"diagnosis": "Carcinoid Tumor Lung Diagnosis",
+		"test": "Carcinoid Tumor Lung Test",
+		"cure": "Carcinoid Tumor Lung Cure"
+	},
+	{
+		"name": "Cardiac Tumor",
+		"treatment": "Cardiac Tumor Treatment",
+		"diagnosis": "Cardiac Tumor Diagnosis",
+		"test": "Cardiac Tumor Test",
+		"cure": "Cardiac Tumor Cure"
+	},
+	{
+		"name": "Carotid Body Tumor",
+		"treatment": "Carotid Body Tumor Treatment",
+		"diagnosis": "Carotid Body Tumor Diagnosis",
+		"test": "Carotid Body Tumor Test",
+		"cure": "Carotid Body Tumor Cure"
+	},
+	{
+		"name": "Cerebellar Tumor",
+		"treatment": "Cerebellar Tumor Treatment",
+		"diagnosis": "Cerebellar Tumor Diagnosis",
+		"test": "Cerebellar Tumor Test",
+		"cure": "Cerebellar Tumor Cure"
+	},
+	{
+		"name": "Cerebellopontine Angle Tumor",
+		"treatment": "Cerebellopontine Angle Tumor Treatment",
+		"diagnosis": "Cerebellopontine Angle Tumor Diagnosis",
+		"test": "Cerebellopontine Angle Tumor Test",
+		"cure": "Cerebellopontine Angle Tumor Cure"
+	},
+	{
+		"name": "Cervical Tumor",
+		"treatment": "Cervical Tumor Treatment",
+		"diagnosis": "Cervical Tumor Diagnosis",
+		"test": "Cervical Tumor Test",
+		"cure": "Cervical Tumor Cure"
+	},
+	{
+		"name": "Chest Tumor",
+		"treatment": "Chest Tumor Treatment",
+		"diagnosis": "Chest Tumor Diagnosis",
+		"test": "Chest Tumor Test",
+		"cure": "Chest Tumor Cure"
+	},
+	{
+		"name": "Chordoma Tumor",
+		"treatment": "Chordoma Tumor Treatment",
+		"diagnosis": "Chordoma Tumor Diagnosis",
+		"test": "Chordoma Tumor Test",
+		"cure": "Chordoma Tumor Cure"
+	},
+	{
+		"name": "Clivus Tumor",
+		"treatment": "Clivus Tumor Treatment",
+		"diagnosis": "Clivus Tumor Diagnosis",
+		"test": "Clivus Tumor Test",
+		"cure": "Clivus Tumor Cure"
+	},
+	{
+		"name": "Colon Tumor",
+		"treatment": "Colon Tumor Treatment",
+		"diagnosis": "Colon Tumor Diagnosis",
+		"test": "Colon Tumor Test",
+		"cure": "Colon Tumor Cure"
+	},
+	{
+		"name": "CP Angle Tumor",
+		"treatment": "CP Angle Tumor Treatment",
+		"diagnosis": "CP Angle Tumor Diagnosis",
+		"test": "CP Angle Tumor Test",
+		"cure": "CP Angle Tumor Cure"
+	},
+	{
+		"name": "CPA Tumor",
+		"treatment": "CPA Tumor Treatment",
+		"diagnosis": "CPA Tumor Diagnosis",
+		"test": "CPA Tumor Test",
+		"cure": "CPA Tumor Cure"
+	},
+	{
+		"name": "CT Scan Brain Tumor",
+		"treatment": "CT Scan Brain Tumor Treatment",
+		"diagnosis": "CT Scan Brain Tumor Diagnosis",
+		"test": "CT Scan Brain Tumor Test",
+		"cure": "CT Scan Brain Tumor Cure"
+	},
+	{
+		"name": "Cystic Tumor",
+		"treatment": "Cystic Tumor Treatment",
+		"diagnosis": "Cystic Tumor Diagnosis",
+		"test": "Cystic Tumor Test",
+		"cure": "Cystic Tumor Cure"
+	},
+	{
+		"name": "Dermoid Tumor",
+		"treatment": "Dermoid Tumor Treatment",
+		"diagnosis": "Dermoid Tumor Diagnosis",
+		"test": "Dermoid Tumor Test",
+		"cure": "Dermoid Tumor Cure"
+	},
+	{
+		"name": "Desmoid Tumor",
+		"treatment": "Desmoid Tumor Treatment",
+		"diagnosis": "Desmoid Tumor Diagnosis",
+		"test": "Desmoid Tumor Test",
+		"cure": "Desmoid Tumor Cure"
+	},
+	{
+		"name": "Desmoplastic Round Cell Tumor",
+		"treatment": "Desmoplastic Round Cell Tumor Treatment",
+		"diagnosis": "Desmoplastic Round Cell Tumor Diagnosis",
+		"test": "Desmoplastic Round Cell Tumor Test",
+		"cure": "Desmoplastic Round Cell Tumor Cure"
+	},
+	{
+		"name": "Desmoplastic Small Round Cell Tumor",
+		"treatment": "Desmoplastic Small Round Cell Tumor Treatment",
+		"diagnosis": "Desmoplastic Small Round Cell Tumor Diagnosis",
+		"test": "Desmoplastic Small Round Cell Tumor Test",
+		"cure": "Desmoplastic Small Round Cell Tumor Cure"
+	},
+	{
+		"name": "Dipg Brain Tumor",
+		"treatment": "Dipg Brain Tumor Treatment",
+		"diagnosis": "Dipg Brain Tumor Diagnosis",
+		"test": "Dipg Brain Tumor Test",
+		"cure": "Dipg Brain Tumor Cure"
+	},
+	{
+		"name": "DIPG Tumor",
+		"treatment": "DIPG Tumor Treatment",
+		"diagnosis": "DIPG Tumor Diagnosis",
+		"test": "DIPG Tumor Test",
+		"cure": "DIPG Tumor Cure"
+	},
+	{
+		"name": "DNET Tumor",
+		"treatment": "DNET Tumor Treatment",
+		"diagnosis": "DNET Tumor Diagnosis",
+		"test": "DNET Tumor Test",
+		"cure": "DNET Tumor Cure"
+	},
+	{
+		"name": "Dysembryoplastic Neuroepithelial Tumor",
+		"treatment": "Dysembryoplastic Neuroepithelial Tumor Treatment",
+		"diagnosis": "Dysembryoplastic Neuroepithelial Tumor Diagnosis",
+		"test": "Dysembryoplastic Neuroepithelial Tumor Test",
+		"cure": "Dysembryoplastic Neuroepithelial Tumor Cure"
+	},
+	{
+		"name": "Ear Tumor",
+		"treatment": "Ear Tumor Treatment",
+		"diagnosis": "Ear Tumor Diagnosis",
+		"test": "Ear Tumor Test",
+		"cure": "Ear Tumor Cure"
+	},
+	{
+		"name": "Encapsulated Tumor",
+		"treatment": "Encapsulated Tumor Treatment",
+		"diagnosis": "Encapsulated Tumor Diagnosis",
+		"test": "Encapsulated Tumor Test",
+		"cure": "Encapsulated Tumor Cure"
+	},
+	{
+		"name": "Endodermal Sinus Tumor",
+		"treatment": "Endodermal Sinus Tumor Treatment",
+		"diagnosis": "Endodermal Sinus Tumor Diagnosis",
+		"test": "Endodermal Sinus Tumor Test",
+		"cure": "Endodermal Sinus Tumor Cure"
+	},
+	{
+		"name": "Endolymphatic Sac Tumor",
+		"treatment": "Endolymphatic Sac Tumor Treatment",
+		"diagnosis": "Endolymphatic Sac Tumor Diagnosis",
+		"test": "Endolymphatic Sac Tumor Test",
+		"cure": "Endolymphatic Sac Tumor Cure"
+	},
+	{
+		"name": "Ependymoma Tumor",
+		"treatment": "Ependymoma Tumor Treatment",
+		"diagnosis": "Ependymoma Tumor Diagnosis",
+		"test": "Ependymoma Tumor Test",
+		"cure": "Ependymoma Tumor Cure"
+	},
+	{
+		"name": "Esophageal Tumor",
+		"treatment": "Esophageal Tumor Treatment",
+		"diagnosis": "Esophageal Tumor Diagnosis",
+		"test": "Esophageal Tumor Test",
+		"cure": "Esophageal Tumor Cure"
+	},
+	{
+		"name": "Ewing Tumor",
+		"treatment": "Ewing Tumor Treatment",
+		"diagnosis": "Ewing Tumor Diagnosis",
+		"test": "Ewing Tumor Test",
+		"cure": "Ewing Tumor Cure"
+	},
+	{
+		"name": "Extragonadal Germ Cell Tumor",
+		"treatment": "Extragonadal Germ Cell Tumor Treatment",
+		"diagnosis": "Extragonadal Germ Cell Tumor Diagnosis",
+		"test": "Extragonadal Germ Cell Tumor Test",
+		"cure": "Extragonadal Germ Cell Tumor Cure"
+	},
+	{
+		"name": "Eye Tumor",
+		"treatment": "Eye Tumor Treatment",
+		"diagnosis": "Eye Tumor Diagnosis",
+		"test": "Eye Tumor Test",
+		"cure": "Eye Tumor Cure"
+	},
+	{
+		"name": "Face Tumor",
+		"treatment": "Face Tumor Treatment",
+		"diagnosis": "Face Tumor Diagnosis",
+		"test": "Face Tumor Test",
+		"cure": "Face Tumor Cure"
+	},
+	{
+		"name": "Fatty Tumor",
+		"treatment": "Fatty Tumor Treatment",
+		"diagnosis": "Fatty Tumor Diagnosis",
+		"test": "Fatty Tumor Test",
+		"cure": "Fatty Tumor Cure"
+	},
+	{
+		"name": "Fibrous Tumor",
+		"treatment": "Fibrous Tumor Treatment",
+		"diagnosis": "Fibrous Tumor Diagnosis",
+		"test": "Fibrous Tumor Test",
+		"cure": "Fibrous Tumor Cure"
+	},
+	{
+		"name": "Foot Tumor",
+		"treatment": "Foot Tumor Treatment",
+		"diagnosis": "Foot Tumor Diagnosis",
+		"test": "Foot Tumor Test",
+		"cure": "Foot Tumor Cure"
+	},
+	{
+		"name": "Frontal Lobe Brain Tumor",
+		"treatment": "Frontal Lobe Brain Tumor Treatment",
+		"diagnosis": "Frontal Lobe Brain Tumor Diagnosis",
+		"test": "Frontal Lobe Brain Tumor Test",
+		"cure": "Frontal Lobe Brain Tumor Cure"
+	},
+	{
+		"name": "Frontal Lobe Tumor",
+		"treatment": "Frontal Lobe Tumor Treatment",
+		"diagnosis": "Frontal Lobe Tumor Diagnosis",
+		"test": "Frontal Lobe Tumor Test",
+		"cure": "Frontal Lobe Tumor Cure"
+	},
+	{
+		"name": "Fungating Tumor",
+		"treatment": "Fungating Tumor Treatment",
+		"diagnosis": "Fungating Tumor Diagnosis",
+		"test": "Fungating Tumor Test",
+		"cure": "Fungating Tumor Cure"
+	},
+	{
+		"name": "Gallbladder Tumor",
+		"treatment": "Gallbladder Tumor Treatment",
+		"diagnosis": "Gallbladder Tumor Diagnosis",
+		"test": "Gallbladder Tumor Test",
+		"cure": "Gallbladder Tumor Cure"
+	},
+	{
+		"name": "Gastrointestinal Stromal Tumor",
+		"treatment": "Gastrointestinal Stromal Tumor Treatment",
+		"diagnosis": "Gastrointestinal Stromal Tumor Diagnosis",
+		"test": "Gastrointestinal Stromal Tumor Test",
+		"cure": "Gastrointestinal Stromal Tumor Cure"
+	},
+	{
+		"name": "GBM Brain Tumor",
+		"treatment": "GBM Brain Tumor Treatment",
+		"diagnosis": "GBM Brain Tumor Diagnosis",
+		"test": "GBM Brain Tumor Test",
+		"cure": "GBM Brain Tumor Cure"
+	},
+	{
+		"name": "GBM Tumor",
+		"treatment": "GBM Tumor Treatment",
+		"diagnosis": "GBM Tumor Diagnosis",
+		"test": "GBM Tumor Test",
+		"cure": "GBM Tumor Cure"
+	},
+	{
+		"name": "GCT Tumor",
+		"treatment": "GCT Tumor Treatment",
+		"diagnosis": "GCT Tumor Diagnosis",
+		"test": "GCT Tumor Test",
+		"cure": "GCT Tumor Cure"
+	},
+	{
+		"name": "Germ Cell Tumor",
+		"treatment": "Germ Cell Tumor Treatment",
+		"diagnosis": "Germ Cell Tumor Diagnosis",
+		"test": "Germ Cell Tumor Test",
+		"cure": "Germ Cell Tumor Cure"
+	},
+	{
+		"name": "GI Stromal Tumor",
+		"treatment": "GI Stromal Tumor Treatment",
+		"diagnosis": "GI Stromal Tumor Diagnosis",
+		"test": "GI Stromal Tumor Test",
+		"cure": "GI Stromal Tumor Cure"
+	},
+	{
+		"name": "Giant Cell Tumor",
+		"treatment": "Giant Cell Tumor Treatment",
+		"diagnosis": "Giant Cell Tumor Diagnosis",
+		"test": "Giant Cell Tumor Test",
+		"cure": "Giant Cell Tumor Cure"
+	},
+	{
+		"name": "Gist Tumor",
+		"treatment": "Gist Tumor Treatment",
+		"diagnosis": "Gist Tumor Diagnosis",
+		"test": "Gist Tumor Test",
+		"cure": "Gist Tumor Cure"
+	},
+	{
+		"name": "GLIAL Tumor",
+		"treatment": "GLIAL Tumor Treatment",
+		"diagnosis": "GLIAL Tumor Diagnosis",
+		"test": "GLIAL Tumor Test",
+		"cure": "GLIAL Tumor Cure"
+	},
+	{
+		"name": "Glioblastoma Brain Tumor",
+		"treatment": "Glioblastoma Brain Tumor Treatment",
+		"diagnosis": "Glioblastoma Brain Tumor Diagnosis",
+		"test": "Glioblastoma Brain Tumor Test",
+		"cure": "Glioblastoma Brain Tumor Cure"
+	},
+	{
+		"name": "Glioblastoma Tumor",
+		"treatment": "Glioblastoma Tumor Treatment",
+		"diagnosis": "Glioblastoma Tumor Diagnosis",
+		"test": "Glioblastoma Tumor Test",
+		"cure": "Glioblastoma Tumor Cure"
+	},
+	{
+		"name": "Glioma Brain Tumor",
+		"treatment": "Glioma Brain Tumor Treatment",
+		"diagnosis": "Glioma Brain Tumor Diagnosis",
+		"test": "Glioma Brain Tumor Test",
+		"cure": "Glioma Brain Tumor Cure"
+	},
+	{
+		"name": "Glioma Tumor",
+		"treatment": "Glioma Tumor Treatment",
+		"diagnosis": "Glioma Tumor Diagnosis",
+		"test": "Glioma Tumor Test",
+		"cure": "Glioma Tumor Cure"
+	},
+	{
+		"name": "Glomus Jugulare Tumor",
+		"treatment": "Glomus Jugulare Tumor Treatment",
+		"diagnosis": "Glomus Jugulare Tumor Diagnosis",
+		"test": "Glomus Jugulare Tumor Test",
+		"cure": "Glomus Jugulare Tumor Cure"
+	},
+	{
+		"name": "Glomus Tumor",
+		"treatment": "Glomus Tumor Treatment",
+		"diagnosis": "Glomus Tumor Diagnosis",
+		"test": "Glomus Tumor Test",
+		"cure": "Glomus Tumor Cure"
+	},
+	{
+		"name": "Granular Cell Tumor",
+		"treatment": "Granular Cell Tumor Treatment",
+		"diagnosis": "Granular Cell Tumor Diagnosis",
+		"test": "Granular Cell Tumor Test",
+		"cure": "Granular Cell Tumor Cure"
+	},
+	{
+		"name": "Granulosa Cell Tumor",
+		"treatment": "Granulosa Cell Tumor Treatment",
+		"diagnosis": "Granulosa Cell Tumor Diagnosis",
+		"test": "Granulosa Cell Tumor Test",
+		"cure": "Granulosa Cell Tumor Cure"
+	},
+	{
+		"name": "Grawitz Tumor",
+		"treatment": "Grawitz Tumor Treatment",
+		"diagnosis": "Grawitz Tumor Diagnosis",
+		"test": "Grawitz Tumor Test",
+		"cure": "Grawitz Tumor Cure"
+	},
+	{
+		"name": "Gum Tumor",
+		"treatment": "Gum Tumor Treatment",
+		"diagnosis": "Gum Tumor Diagnosis",
+		"test": "Gum Tumor Test",
+		"cure": "Gum Tumor Cure"
+	},
+	{
+		"name": "Hand Tumor",
+		"treatment": "Hand Tumor Treatment",
+		"diagnosis": "Hand Tumor Diagnosis",
+		"test": "Hand Tumor Test",
+		"cure": "Hand Tumor Cure"
+	},
+	{
+		"name": "Head Tumor",
+		"treatment": "Head Tumor Treatment",
+		"diagnosis": "Head Tumor Diagnosis",
+		"test": "Head Tumor Test",
+		"cure": "Head Tumor Cure"
+	},
+	{
+		"name": "Heart Tumor",
+		"treatment": "Heart Tumor Treatment",
+		"diagnosis": "Heart Tumor Diagnosis",
+		"test": "Heart Tumor Test",
+		"cure": "Heart Tumor Cure"
+	},
+	{
+		"name": "Hemangioma Tumor",
+		"treatment": "Hemangioma Tumor Treatment",
+		"diagnosis": "Hemangioma Tumor Diagnosis",
+		"test": "Hemangioma Tumor Test",
+		"cure": "Hemangioma Tumor Cure"
+	},
+	{
+		"name": "Hypnic Jerk Brain Tumor",
+		"treatment": "Hypnic Jerk Brain Tumor Treatment",
+		"diagnosis": "Hypnic Jerk Brain Tumor Diagnosis",
+		"test": "Hypnic Jerk Brain Tumor Test",
+		"cure": "Hypnic Jerk Brain Tumor Cure"
+	},
+	{
+		"name": "Hypothalamus Tumor",
+		"treatment": "Hypothalamus Tumor Treatment",
+		"diagnosis": "Hypothalamus Tumor Diagnosis",
+		"test": "Hypothalamus Tumor Test",
+		"cure": "Hypothalamus Tumor Cure"
+	},
+	{
+		"name": "Inflammatory Myofibroblastic Tumor",
+		"treatment": "Inflammatory Myofibroblastic Tumor Treatment",
+		"diagnosis": "Inflammatory Myofibroblastic Tumor Diagnosis",
+		"test": "Inflammatory Myofibroblastic Tumor Test",
+		"cure": "Inflammatory Myofibroblastic Tumor Cure"
+	},
+	{
+		"name": "Inoperable Brain Tumor",
+		"treatment": "Inoperable Brain Tumor Treatment",
+		"diagnosis": "Inoperable Brain Tumor Diagnosis",
+		"test": "Inoperable Brain Tumor Test",
+		"cure": "Inoperable Brain Tumor Cure"
+	},
+	{
+		"name": "Intradural Extramedullary Tumor",
+		"treatment": "Intradural Extramedullary Tumor Treatment",
+		"diagnosis": "Intradural Extramedullary Tumor Diagnosis",
+		"test": "Intradural Extramedullary Tumor Test",
+		"cure": "Intradural Extramedullary Tumor Cure"
+	},
+	{
+		"name": "Intramedullary Tumor",
+		"treatment": "Intramedullary Tumor Treatment",
+		"diagnosis": "Intramedullary Tumor Diagnosis",
+		"test": "Intramedullary Tumor Test",
+		"cure": "Intramedullary Tumor Cure"
+	},
+	{
+		"name": "Islet Cell Tumor",
+		"treatment": "Islet Cell Tumor Treatment",
+		"diagnosis": "Islet Cell Tumor Diagnosis",
+		"test": "Islet Cell Tumor Test",
+		"cure": "Islet Cell Tumor Cure"
+	},
+	{
+		"name": "Jaw Tumor",
+		"treatment": "Jaw Tumor Treatment",
+		"diagnosis": "Jaw Tumor Diagnosis",
+		"test": "Jaw Tumor Test",
+		"cure": "Jaw Tumor Cure"
+	},
+	{
+		"name": "Julie Hanna Brain Tumor",
+		"treatment": "Julie Hanna Brain Tumor Treatment",
+		"diagnosis": "Julie Hanna Brain Tumor Diagnosis",
+		"test": "Julie Hanna Brain Tumor Test",
+		"cure": "Julie Hanna Brain Tumor Cure"
+	},
+	{
+		"name": "Keratocystic Odontogenic Tumor",
+		"treatment": "Keratocystic Odontogenic Tumor Treatment",
+		"diagnosis": "Keratocystic Odontogenic Tumor Diagnosis",
+		"test": "Keratocystic Odontogenic Tumor Test",
+		"cure": "Keratocystic Odontogenic Tumor Cure"
+	},
+	{
+		"name": "Kidney Tumor",
+		"treatment": "Kidney Tumor Treatment",
+		"diagnosis": "Kidney Tumor Diagnosis",
+		"test": "Kidney Tumor Test",
+		"cure": "Kidney Tumor Cure"
+	},
+	{
+		"name": "Klatskin Tumor",
+		"treatment": "Klatskin Tumor Treatment",
+		"diagnosis": "Klatskin Tumor Diagnosis",
+		"test": "Klatskin Tumor Test",
+		"cure": "Klatskin Tumor Cure"
+	},
+	{
+		"name": "Knee Tumor",
+		"treatment": "Knee Tumor Treatment",
+		"diagnosis": "Knee Tumor Diagnosis",
+		"test": "Knee Tumor Test",
+		"cure": "Knee Tumor Cure"
+	},
+	{
+		"name": "Koenen Tumor",
+		"treatment": "Koenen Tumor Treatment",
+		"diagnosis": "Koenen Tumor Diagnosis",
+		"test": "Koenen Tumor Test",
+		"cure": "Koenen Tumor Cure"
+	},
+	{
+		"name": "Krukenberg Tumor",
+		"treatment": "Krukenberg Tumor Treatment",
+		"diagnosis": "Krukenberg Tumor Diagnosis",
+		"test": "Krukenberg Tumor Test",
+		"cure": "Krukenberg Tumor Cure"
+	},
+	{
+		"name": "Kuttner Tumor",
+		"treatment": "Kuttner Tumor Treatment",
+		"diagnosis": "Kuttner Tumor Diagnosis",
+		"test": "Kuttner Tumor Test",
+		"cure": "Kuttner Tumor Cure"
+	},
+	{
+		"name": "Lacrimal Gland Tumor",
+		"treatment": "Lacrimal Gland Tumor Treatment",
+		"diagnosis": "Lacrimal Gland Tumor Diagnosis",
+		"test": "Lacrimal Gland Tumor Test",
+		"cure": "Lacrimal Gland Tumor Cure"
+	},
+	{
+		"name": "Leg Tumor",
+		"treatment": "Leg Tumor Treatment",
+		"diagnosis": "Leg Tumor Diagnosis",
+		"test": "Leg Tumor Test",
+		"cure": "Leg Tumor Cure"
+	},
+	{
+		"name": "Leydig Cell Tumor",
+		"treatment": "Leydig Cell Tumor Treatment",
+		"diagnosis": "Leydig Cell Tumor Diagnosis",
+		"test": "Leydig Cell Tumor Test",
+		"cure": "Leydig Cell Tumor Cure"
+	},
+	{
+		"name": "Lipoma Tumor",
+		"treatment": "Lipoma Tumor Treatment",
+		"diagnosis": "Lipoma Tumor Diagnosis",
+		"test": "Lipoma Tumor Test",
+		"cure": "Lipoma Tumor Cure"
+	},
+	{
+		"name": "Liposclerosing Myxofibrous Tumor",
+		"treatment": "Liposclerosing Myxofibrous Tumor Treatment",
+		"diagnosis": "Liposclerosing Myxofibrous Tumor Diagnosis",
+		"test": "Liposclerosing Myxofibrous Tumor Test",
+		"cure": "Liposclerosing Myxofibrous Tumor Cure"
+	},
+	{
+		"name": "Liver Tumor",
+		"treatment": "Liver Tumor Treatment",
+		"diagnosis": "Liver Tumor Diagnosis",
+		"test": "Liver Tumor Test",
+		"cure": "Liver Tumor Cure"
+	},
+	{
+		"name": "Lung Tumor",
+		"treatment": "Lung Tumor Treatment",
+		"diagnosis": "Lung Tumor Diagnosis",
+		"test": "Lung Tumor Test",
+		"cure": "Lung Tumor Cure"
+	},
+	{
+		"name": "Lymphoma Tumor",
+		"treatment": "Lymphoma Tumor Treatment",
+		"diagnosis": "Lymphoma Tumor Diagnosis",
+		"test": "Lymphoma Tumor Test",
+		"cure": "Lymphoma Tumor Cure"
+	},
+	{
+		"name": "Malignant Bone Tumor",
+		"treatment": "Malignant Bone Tumor Treatment",
+		"diagnosis": "Malignant Bone Tumor Diagnosis",
+		"test": "Malignant Bone Tumor Test",
+		"cure": "Malignant Bone Tumor Cure"
+	},
+	{
+		"name": "Malignant Brain Tumor",
+		"treatment": "Malignant Brain Tumor Treatment",
+		"diagnosis": "Malignant Brain Tumor Diagnosis",
+		"test": "Malignant Brain Tumor Test",
+		"cure": "Malignant Brain Tumor Cure"
+	},
+	{
+		"name": "Malignant Peripheral Nerve Sheath Tumor",
+		"treatment": "Malignant Peripheral Nerve Sheath Tumor Treatment",
+		"diagnosis": "Malignant Peripheral Nerve Sheath Tumor Diagnosis",
+		"test": "Malignant Peripheral Nerve Sheath Tumor Test",
+		"cure": "Malignant Peripheral Nerve Sheath Tumor Cure"
+	},
+	{
+		"name": "Malignant Phyllodes Tumor",
+		"treatment": "Malignant Phyllodes Tumor Treatment",
+		"diagnosis": "Malignant Phyllodes Tumor Diagnosis",
+		"test": "Malignant Phyllodes Tumor Test",
+		"cure": "Malignant Phyllodes Tumor Cure"
+	},
+	{
+		"name": "Malignant Rhabdoid Tumor",
+		"treatment": "Malignant Rhabdoid Tumor Treatment",
+		"diagnosis": "Malignant Rhabdoid Tumor Diagnosis",
+		"test": "Malignant Rhabdoid Tumor Test",
+		"cure": "Malignant Rhabdoid Tumor Cure"
+	},
+	{
+		"name": "Malignant Tumor",
+		"treatment": "Malignant Tumor Treatment",
+		"diagnosis": "Malignant Tumor Diagnosis",
+		"test": "Malignant Tumor Test",
+		"cure": "Malignant Tumor Cure"
+	},
+	{
+		"name": "Maligni Tumor",
+		"treatment": "Maligni Tumor Treatment",
+		"diagnosis": "Maligni Tumor Diagnosis",
+		"test": "Maligni Tumor Test",
+		"cure": "Maligni Tumor Cure"
+	},
+	{
+		"name": "Mammary Tumor",
+		"treatment": "Mammary Tumor Treatment",
+		"diagnosis": "Mammary Tumor Diagnosis",
+		"test": "Mammary Tumor Test",
+		"cure": "Mammary Tumor Cure"
+	},
+	{
+		"name": "Mediastinal Germ Cell Tumor",
+		"treatment": "Mediastinal Germ Cell Tumor Treatment",
+		"diagnosis": "Mediastinal Germ Cell Tumor Diagnosis",
+		"test": "Mediastinal Germ Cell Tumor Test",
+		"cure": "Mediastinal Germ Cell Tumor Cure"
+	},
+	{
+		"name": "Mediastinal Tumor",
+		"treatment": "Mediastinal Tumor Treatment",
+		"diagnosis": "Mediastinal Tumor Diagnosis",
+		"test": "Mediastinal Tumor Test",
+		"cure": "Mediastinal Tumor Cure"
+	},
+	{
+		"name": "Melanoma Tumor",
+		"treatment": "Melanoma Tumor Treatment",
+		"diagnosis": "Melanoma Tumor Diagnosis",
+		"test": "Melanoma Tumor Test",
+		"cure": "Melanoma Tumor Cure"
+	},
+	{
+		"name": "Meningioma Brain Tumor",
+		"treatment": "Meningioma Brain Tumor Treatment",
+		"diagnosis": "Meningioma Brain Tumor Diagnosis",
+		"test": "Meningioma Brain Tumor Test",
+		"cure": "Meningioma Brain Tumor Cure"
+	},
+	{
+		"name": "Meningioma Tumor",
+		"treatment": "Meningioma Tumor Treatment",
+		"diagnosis": "Meningioma Tumor Diagnosis",
+		"test": "Meningioma Tumor Test",
+		"cure": "Meningioma Tumor Cure"
+	},
+	{
+		"name": "Metastatic Brain Tumor",
+		"treatment": "Metastatic Brain Tumor Treatment",
+		"diagnosis": "Metastatic Brain Tumor Diagnosis",
+		"test": "Metastatic Brain Tumor Test",
+		"cure": "Metastatic Brain Tumor Cure"
+	},
+	{
+		"name": "Metastatic Tumor",
+		"treatment": "Metastatic Tumor Treatment",
+		"diagnosis": "Metastatic Tumor Diagnosis",
+		"test": "Metastatic Tumor Test",
+		"cure": "Metastatic Tumor Cure"
+	},
+	{
+		"name": "Mixed Germ Cell Tumor",
+		"treatment": "Mixed Germ Cell Tumor Treatment",
+		"diagnosis": "Mixed Germ Cell Tumor Diagnosis",
+		"test": "Mixed Germ Cell Tumor Test",
+		"cure": "Mixed Germ Cell Tumor Cure"
+	},
+	{
+		"name": "Mixed Tumor",
+		"treatment": "Mixed Tumor Treatment",
+		"diagnosis": "Mixed Tumor Diagnosis",
+		"test": "Mixed Tumor Test",
+		"cure": "Mixed Tumor Cure"
+	},
+	{
+		"name": "Mouth Tumor",
+		"treatment": "Mouth Tumor Treatment",
+		"diagnosis": "Mouth Tumor Diagnosis",
+		"test": "Mouth Tumor Test",
+		"cure": "Mouth Tumor Cure"
+	},
+	{
+		"name": "Mucinous Tumor",
+		"treatment": "Mucinous Tumor Treatment",
+		"diagnosis": "Mucinous Tumor Diagnosis",
+		"test": "Mucinous Tumor Test",
+		"cure": "Mucinous Tumor Cure"
+	},
+	{
+		"name": "Muscle Tumor",
+		"treatment": "Muscle Tumor Treatment",
+		"diagnosis": "Muscle Tumor Diagnosis",
+		"test": "Muscle Tumor Test",
+		"cure": "Muscle Tumor Cure"
+	},
+	{
+		"name": "Myofibroblastic Tumor",
+		"treatment": "Myofibroblastic Tumor Treatment",
+		"diagnosis": "Myofibroblastic Tumor Diagnosis",
+		"test": "Myofibroblastic Tumor Test",
+		"cure": "Myofibroblastic Tumor Cure"
+	},
+	{
+		"name": "Myxoma Tumor",
+		"treatment": "Myxoma Tumor Treatment",
+		"diagnosis": "Myxoma Tumor Diagnosis",
+		"test": "Myxoma Tumor Test",
+		"cure": "Myxoma Tumor Cure"
+	},
+	{
+		"name": "Nasal Tumor",
+		"treatment": "Nasal Tumor Treatment",
+		"diagnosis": "Nasal Tumor Diagnosis",
+		"test": "Nasal Tumor Test",
+		"cure": "Nasal Tumor Cure"
+	},
+	{
+		"name": "Neck Tumor",
+		"treatment": "Neck Tumor Treatment",
+		"diagnosis": "Neck Tumor Diagnosis",
+		"test": "Neck Tumor Test",
+		"cure": "Neck Tumor Cure"
+	},
+	{
+		"name": "Nerve Sheath Tumor",
+		"treatment": "Nerve Sheath Tumor Treatment",
+		"diagnosis": "Nerve Sheath Tumor Diagnosis",
+		"test": "Nerve Sheath Tumor Test",
+		"cure": "Nerve Sheath Tumor Cure"
+	},
+	{
+		"name": "Nerve Tumor",
+		"treatment": "Nerve Tumor Treatment",
+		"diagnosis": "Nerve Tumor Diagnosis",
+		"test": "Nerve Tumor Test",
+		"cure": "Nerve Tumor Cure"
+	},
+	{
+		"name": "Net Tumor",
+		"treatment": "Net Tumor Treatment",
+		"diagnosis": "Net Tumor Diagnosis",
+		"test": "Net Tumor Test",
+		"cure": "Net Tumor Cure"
+	},
+	{
+		"name": "Neuroectodermal Tumor",
+		"treatment": "Neuroectodermal Tumor Treatment",
+		"diagnosis": "Neuroectodermal Tumor Diagnosis",
+		"test": "Neuroectodermal Tumor Test",
+		"cure": "Neuroectodermal Tumor Cure"
+	},
+	{
+		"name": "Neuroendocrine Tumor",
+		"treatment": "Neuroendocrine Tumor Treatment",
+		"diagnosis": "Neuroendocrine Tumor Diagnosis",
+		"test": "Neuroendocrine Tumor Test",
+		"cure": "Neuroendocrine Tumor Cure"
+	},
+	{
+		"name": "Neuroendokrin Tumor",
+		"treatment": "Neuroendokrin Tumor Treatment",
+		"diagnosis": "Neuroendokrin Tumor Diagnosis",
+		"test": "Neuroendokrin Tumor Test",
+		"cure": "Neuroendokrin Tumor Cure"
+	},
+	{
+		"name": "Neurogenic Tumor",
+		"treatment": "Neurogenic Tumor Treatment",
+		"diagnosis": "Neurogenic Tumor Diagnosis",
+		"test": "Neurogenic Tumor Test",
+		"cure": "Neurogenic Tumor Cure"
+	},
+	{
+		"name": "Non Cancerous Brain Tumor",
+		"treatment": "Non Cancerous Brain Tumor Treatment",
+		"diagnosis": "Non Cancerous Brain Tumor Diagnosis",
+		"test": "Non Cancerous Brain Tumor Test",
+		"cure": "Non Cancerous Brain Tumor Cure"
+	},
+	{
+		"name": "Non Cancerous Tumor",
+		"treatment": "Non Cancerous Tumor Treatment",
+		"diagnosis": "Non Cancerous Tumor Diagnosis",
+		"test": "Non Cancerous Tumor Test",
+		"cure": "Non Cancerous Tumor Cure"
+	},
+	{
+		"name": "Non Malignant Tumor",
+		"treatment": "Non Malignant Tumor Treatment",
+		"diagnosis": "Non Malignant Tumor Diagnosis",
+		"test": "Non Malignant Tumor Test",
+		"cure": "Non Malignant Tumor Cure"
+	},
+	{
+		"name": "Nonseminomatous Germ Cell Tumor",
+		"treatment": "Nonseminomatous Germ Cell Tumor Treatment",
+		"diagnosis": "Nonseminomatous Germ Cell Tumor Diagnosis",
+		"test": "Nonseminomatous Germ Cell Tumor Test",
+		"cure": "Nonseminomatous Germ Cell Tumor Cure"
+	},
+	{
+		"name": "Nose Tumor",
+		"treatment": "Nose Tumor Treatment",
+		"diagnosis": "Nose Tumor Diagnosis",
+		"test": "Nose Tumor Test",
+		"cure": "Nose Tumor Cure"
+	},
+	{
+		"name": "Occipital Lobe Tumor",
+		"treatment": "Occipital Lobe Tumor Treatment",
+		"diagnosis": "Occipital Lobe Tumor Diagnosis",
+		"test": "Occipital Lobe Tumor Test",
+		"cure": "Occipital Lobe Tumor Cure"
+	},
+	{
+		"name": "Ocular Migraine Brain Tumor",
+		"treatment": "Ocular Migraine Brain Tumor Treatment",
+		"diagnosis": "Ocular Migraine Brain Tumor Diagnosis",
+		"test": "Ocular Migraine Brain Tumor Test",
+		"cure": "Ocular Migraine Brain Tumor Cure"
+	},
+	{
+		"name": "Optic Nerve Tumor",
+		"treatment": "Optic Nerve Tumor Treatment",
+		"diagnosis": "Optic Nerve Tumor Diagnosis",
+		"test": "Optic Nerve Tumor Test",
+		"cure": "Optic Nerve Tumor Cure"
+	},
+	{
+		"name": "Orbital Tumor",
+		"treatment": "Orbital Tumor Treatment",
+		"diagnosis": "Orbital Tumor Diagnosis",
+		"test": "Orbital Tumor Test",
+		"cure": "Orbital Tumor Cure"
+	},
+	{
+		"name": "Ovary Tumor",
+		"treatment": "Ovary Tumor Treatment",
+		"diagnosis": "Ovary Tumor Diagnosis",
+		"test": "Ovary Tumor Test",
+		"cure": "Ovary Tumor Cure"
+	},
+	{
+		"name": "Pancoast Tumor",
+		"treatment": "Pancoast Tumor Treatment",
+		"diagnosis": "Pancoast Tumor Diagnosis",
+		"test": "Pancoast Tumor Test",
+		"cure": "Pancoast Tumor Cure"
+	},
+	{
+		"name": "Pancreatic Neuroendocrine Tumor",
+		"treatment": "Pancreatic Neuroendocrine Tumor Treatment",
+		"diagnosis": "Pancreatic Neuroendocrine Tumor Diagnosis",
+		"test": "Pancreatic Neuroendocrine Tumor Test",
+		"cure": "Pancreatic Neuroendocrine Tumor Cure"
+	},
+	{
+		"name": "Pancreatic Tumor",
+		"treatment": "Pancreatic Tumor Treatment",
+		"diagnosis": "Pancreatic Tumor Diagnosis",
+		"test": "Pancreatic Tumor Test",
+		"cure": "Pancreatic Tumor Cure"
+	},
+	{
+		"name": "Paraganglioma Tumor",
+		"treatment": "Paraganglioma Tumor Treatment",
+		"diagnosis": "Paraganglioma Tumor Diagnosis",
+		"test": "Paraganglioma Tumor Test",
+		"cure": "Paraganglioma Tumor Cure"
+	},
+	{
+		"name": "Parathyroid Tumor",
+		"treatment": "Parathyroid Tumor Treatment",
+		"diagnosis": "Parathyroid Tumor Diagnosis",
+		"test": "Parathyroid Tumor Test",
+		"cure": "Parathyroid Tumor Cure"
+	},
+	{
+		"name": "Parotid Gland Tumor",
+		"treatment": "Parotid Gland Tumor Treatment",
+		"diagnosis": "Parotid Gland Tumor Diagnosis",
+		"test": "Parotid Gland Tumor Test",
+		"cure": "Parotid Gland Tumor Cure"
+	},
+	{
+		"name": "Parotid Tumor",
+		"treatment": "Parotid Tumor Treatment",
+		"diagnosis": "Parotid Tumor Diagnosis",
+		"test": "Parotid Tumor Test",
+		"cure": "Parotid Tumor Cure"
+	},
+	{
+		"name": "Pelvic Tumor",
+		"treatment": "Pelvic Tumor Treatment",
+		"diagnosis": "Pelvic Tumor Diagnosis",
+		"test": "Pelvic Tumor Test",
+		"cure": "Pelvic Tumor Cure"
+	},
+	{
+		"name": "Penis Tumor",
+		"treatment": "Penis Tumor Treatment",
+		"diagnosis": "Penis Tumor Diagnosis",
+		"test": "Penis Tumor Test",
+		"cure": "Penis Tumor Cure"
+	},
+	{
+		"name": "Periampullary Tumor",
+		"treatment": "Periampullary Tumor Treatment",
+		"diagnosis": "Periampullary Tumor Diagnosis",
+		"test": "Periampullary Tumor Test",
+		"cure": "Periampullary Tumor Cure"
+	},
+	{
+		"name": "Peripheral Nerve Sheath Tumor",
+		"treatment": "Peripheral Nerve Sheath Tumor Treatment",
+		"diagnosis": "Peripheral Nerve Sheath Tumor Diagnosis",
+		"test": "Peripheral Nerve Sheath Tumor Test",
+		"cure": "Peripheral Nerve Sheath Tumor Cure"
+	},
+	{
+		"name": "Phantom Tumor",
+		"treatment": "Phantom Tumor Treatment",
+		"diagnosis": "Phantom Tumor Diagnosis",
+		"test": "Phantom Tumor Test",
+		"cure": "Phantom Tumor Cure"
+	},
+	{
+		"name": "Phantosmia Brain Tumor",
+		"treatment": "Phantosmia Brain Tumor Treatment",
+		"diagnosis": "Phantosmia Brain Tumor Diagnosis",
+		"test": "Phantosmia Brain Tumor Test",
+		"cure": "Phantosmia Brain Tumor Cure"
+	},
+	{
+		"name": "Phyllodes Tumor",
+		"treatment": "Phyllodes Tumor Treatment",
+		"diagnosis": "Phyllodes Tumor Diagnosis",
+		"test": "Phyllodes Tumor Test",
+		"cure": "Phyllodes Tumor Cure"
+	},
+	{
+		"name": "Phylloid Tumor",
+		"treatment": "Phylloid Tumor Treatment",
+		"diagnosis": "Phylloid Tumor Diagnosis",
+		"test": "Phylloid Tumor Test",
+		"cure": "Phylloid Tumor Cure"
+	},
+	{
+		"name": "Pindborg Tumor",
+		"treatment": "Pindborg Tumor Treatment",
+		"diagnosis": "Pindborg Tumor Diagnosis",
+		"test": "Pindborg Tumor Test",
+		"cure": "Pindborg Tumor Cure"
+	},
+	{
+		"name": "Pineal Gland Tumor",
+		"treatment": "Pineal Gland Tumor Treatment",
+		"diagnosis": "Pineal Gland Tumor Diagnosis",
+		"test": "Pineal Gland Tumor Test",
+		"cure": "Pineal Gland Tumor Cure"
+	},
+	{
+		"name": "Pineal Tumor",
+		"treatment": "Pineal Tumor Treatment",
+		"diagnosis": "Pineal Tumor Diagnosis",
+		"test": "Pineal Tumor Test",
+		"cure": "Pineal Tumor Cure"
+	},
+	{
+		"name": "Pituitary Gland Tumor",
+		"treatment": "Pituitary Gland Tumor Treatment",
+		"diagnosis": "Pituitary Gland Tumor Diagnosis",
+		"test": "Pituitary Gland Tumor Test",
+		"cure": "Pituitary Gland Tumor Cure"
+	},
+	{
+		"name": "Pituitary Tumor",
+		"treatment": "Pituitary Tumor Treatment",
+		"diagnosis": "Pituitary Tumor Diagnosis",
+		"test": "Pituitary Tumor Test",
+		"cure": "Pituitary Tumor Cure"
+	},
+	{
+		"name": "Placental Site Trophoblastic Tumor",
+		"treatment": "Placental Site Trophoblastic Tumor Treatment",
+		"diagnosis": "Placental Site Trophoblastic Tumor Diagnosis",
+		"test": "Placental Site Trophoblastic Tumor Test",
+		"cure": "Placental Site Trophoblastic Tumor Cure"
+	},
+	{
+		"name": "PNET Tumor",
+		"treatment": "PNET Tumor Treatment",
+		"diagnosis": "PNET Tumor Diagnosis",
+		"test": "PNET Tumor Test",
+		"cure": "PNET Tumor Cure"
+	},
+	{
+		"name": "Posterior Fossa Tumor",
+		"treatment": "Posterior Fossa Tumor Treatment",
+		"diagnosis": "Posterior Fossa Tumor Diagnosis",
+		"test": "Posterior Fossa Tumor Test",
+		"cure": "Posterior Fossa Tumor Cure"
+	},
+	{
+		"name": "Pott'S Puffy Tumor",
+		"treatment": "Pott'S Puffy Tumor Treatment",
+		"diagnosis": "Pott'S Puffy Tumor Diagnosis",
+		"test": "Pott'S Puffy Tumor Test",
+		"cure": "Pott'S Puffy Tumor Cure"
+	},
+	{
+		"name": "Primary Brain Tumor",
+		"treatment": "Primary Brain Tumor Treatment",
+		"diagnosis": "Primary Brain Tumor Diagnosis",
+		"test": "Primary Brain Tumor Test",
+		"cure": "Primary Brain Tumor Cure"
+	},
+	{
+		"name": "Primary Tumor",
+		"treatment": "Primary Tumor Treatment",
+		"diagnosis": "Primary Tumor Diagnosis",
+		"test": "Primary Tumor Test",
+		"cure": "Primary Tumor Cure"
+	},
+	{
+		"name": "Primitive Neuroectodermal Tumor",
+		"treatment": "Primitive Neuroectodermal Tumor Treatment",
+		"diagnosis": "Primitive Neuroectodermal Tumor Diagnosis",
+		"test": "Primitive Neuroectodermal Tumor Test",
+		"cure": "Primitive Neuroectodermal Tumor Cure"
+	},
+	{
+		"name": "Prolactin Tumor",
+		"treatment": "Prolactin Tumor Treatment",
+		"diagnosis": "Prolactin Tumor Diagnosis",
+		"test": "Prolactin Tumor Test",
+		"cure": "Prolactin Tumor Cure"
+	},
+	{
+		"name": "Prostate Tumor",
+		"treatment": "Prostate Tumor Treatment",
+		"diagnosis": "Prostate Tumor Diagnosis",
+		"test": "Prostate Tumor Test",
+		"cure": "Prostate Tumor Cure"
+	},
+	{
+		"name": "Pseudo Tumor",
+		"treatment": "Pseudo Tumor Treatment",
+		"diagnosis": "Pseudo Tumor Diagnosis",
+		"test": "Pseudo Tumor Test",
+		"cure": "Pseudo Tumor Cure"
+	},
+	{
+		"name": "PVNS Tumor",
+		"treatment": "PVNS Tumor Treatment",
+		"diagnosis": "PVNS Tumor Diagnosis",
+		"test": "PVNS Tumor Test",
+		"cure": "PVNS Tumor Cure"
+	},
+	{
+		"name": "Rectal Tumor",
+		"treatment": "Rectal Tumor Treatment",
+		"diagnosis": "Rectal Tumor Diagnosis",
+		"test": "Rectal Tumor Test",
+		"cure": "Rectal Tumor Cure"
+	},
+	{
+		"name": "Renal Tumor",
+		"treatment": "Renal Tumor Treatment",
+		"diagnosis": "Renal Tumor Diagnosis",
+		"test": "Renal Tumor Test",
+		"cure": "Renal Tumor Cure"
+	},
+	{
+		"name": "Retroperitoneal Tumor",
+		"treatment": "Retroperitoneal Tumor Treatment",
+		"diagnosis": "Retroperitoneal Tumor Diagnosis",
+		"test": "Retroperitoneal Tumor Test",
+		"cure": "Retroperitoneal Tumor Cure"
+	},
+	{
+		"name": "Rhabdoid Brain Tumor",
+		"treatment": "Rhabdoid Brain Tumor Treatment",
+		"diagnosis": "Rhabdoid Brain Tumor Diagnosis",
+		"test": "Rhabdoid Brain Tumor Test",
+		"cure": "Rhabdoid Brain Tumor Cure"
+	},
+	{
+		"name": "Rhabdoid Tumor",
+		"treatment": "Rhabdoid Tumor Treatment",
+		"diagnosis": "Rhabdoid Tumor Diagnosis",
+		"test": "Rhabdoid Tumor Test",
+		"cure": "Rhabdoid Tumor Cure"
+	},
+	{
+		"name": "Round Cell Tumor",
+		"treatment": "Round Cell Tumor Treatment",
+		"diagnosis": "Round Cell Tumor Diagnosis",
+		"test": "Round Cell Tumor Test",
+		"cure": "Round Cell Tumor Cure"
+	},
+	{
+		"name": "Salivary Gland Tumor",
+		"treatment": "Salivary Gland Tumor Treatment",
+		"diagnosis": "Salivary Gland Tumor Diagnosis",
+		"test": "Salivary Gland Tumor Test",
+		"cure": "Salivary Gland Tumor Cure"
+	},
+	{
+		"name": "Sarcoma Tumor",
+		"treatment": "Sarcoma Tumor Treatment",
+		"diagnosis": "Sarcoma Tumor Diagnosis",
+		"test": "Sarcoma Tumor Test",
+		"cure": "Sarcoma Tumor Cure"
+	},
+	{
+		"name": "Schwannoma Tumor",
+		"treatment": "Schwannoma Tumor Treatment",
+		"diagnosis": "Schwannoma Tumor Diagnosis",
+		"test": "Schwannoma Tumor Test",
+		"cure": "Schwannoma Tumor Cure"
+	},
+	{
+		"name": "Sertoli Cell Tumor",
+		"treatment": "Sertoli Cell Tumor Treatment",
+		"diagnosis": "Sertoli Cell Tumor Diagnosis",
+		"test": "Sertoli Cell Tumor Test",
+		"cure": "Sertoli Cell Tumor Cure"
+	},
+	{
+		"name": "Sertoli Leydig Cell Tumor",
+		"treatment": "Sertoli Leydig Cell Tumor Treatment",
+		"diagnosis": "Sertoli Leydig Cell Tumor Diagnosis",
+		"test": "Sertoli Leydig Cell Tumor Test",
+		"cure": "Sertoli Leydig Cell Tumor Cure"
+	},
+	{
+		"name": "Sintomas Ng Brain Tumor",
+		"treatment": "Sintomas Ng Brain Tumor Treatment",
+		"diagnosis": "Sintomas Ng Brain Tumor Diagnosis",
+		"test": "Sintomas Ng Brain Tumor Test",
+		"cure": "Sintomas Ng Brain Tumor Cure"
+	},
+	{
+		"name": "Sinus Tumor",
+		"treatment": "Sinus Tumor Treatment",
+		"diagnosis": "Sinus Tumor Diagnosis",
+		"test": "Sinus Tumor Test",
+		"cure": "Sinus Tumor Cure"
+	},
+	{
+		"name": "Skin Tumor",
+		"treatment": "Skin Tumor Treatment",
+		"diagnosis": "Skin Tumor Diagnosis",
+		"test": "Skin Tumor Test",
+		"cure": "Skin Tumor Cure"
+	},
+	{
+		"name": "Skull Base Tumor",
+		"treatment": "Skull Base Tumor Treatment",
+		"diagnosis": "Skull Base Tumor Diagnosis",
+		"test": "Skull Base Tumor Test",
+		"cure": "Skull Base Tumor Cure"
+	},
+	{
+		"name": "Skull Tumor",
+		"treatment": "Skull Tumor Treatment",
+		"diagnosis": "Skull Tumor Diagnosis",
+		"test": "Skull Tumor Test",
+		"cure": "Skull Tumor Cure"
+	},
+	{
+		"name": "Small Round Blue Cell Tumor",
+		"treatment": "Small Round Blue Cell Tumor Treatment",
+		"diagnosis": "Small Round Blue Cell Tumor Diagnosis",
+		"test": "Small Round Blue Cell Tumor Test",
+		"cure": "Small Round Blue Cell Tumor Cure"
+	},
+	{
+		"name": "Small Round Cell Tumor",
+		"treatment": "Small Round Cell Tumor Treatment",
+		"diagnosis": "Small Round Cell Tumor Diagnosis",
+		"test": "Small Round Cell Tumor Test",
+		"cure": "Small Round Cell Tumor Cure"
+	},
+	{
+		"name": "Soft Tissue Tumor",
+		"treatment": "Soft Tissue Tumor Treatment",
+		"diagnosis": "Soft Tissue Tumor Diagnosis",
+		"test": "Soft Tissue Tumor Test",
+		"cure": "Soft Tissue Tumor Cure"
+	},
+	{
+		"name": "Solid Pseudopapillary Tumor",
+		"treatment": "Solid Pseudopapillary Tumor Treatment",
+		"diagnosis": "Solid Pseudopapillary Tumor Diagnosis",
+		"test": "Solid Pseudopapillary Tumor Test",
+		"cure": "Solid Pseudopapillary Tumor Cure"
+	},
+	{
+		"name": "Solid Tumor",
+		"treatment": "Solid Tumor Treatment",
+		"diagnosis": "Solid Tumor Diagnosis",
+		"test": "Solid Tumor Test",
+		"cure": "Solid Tumor Cure"
+	},
+	{
+		"name": "Solitary Fibrous Tumor",
+		"treatment": "Solitary Fibrous Tumor Treatment",
+		"diagnosis": "Solitary Fibrous Tumor Diagnosis",
+		"test": "Solitary Fibrous Tumor Test",
+		"cure": "Solitary Fibrous Tumor Cure"
+	},
+	{
+		"name": "Spinal Cord Tumor",
+		"treatment": "Spinal Cord Tumor Treatment",
+		"diagnosis": "Spinal Cord Tumor Diagnosis",
+		"test": "Spinal Cord Tumor Test",
+		"cure": "Spinal Cord Tumor Cure"
+	},
+	{
+		"name": "Spinal Tumor",
+		"treatment": "Spinal Tumor Treatment",
+		"diagnosis": "Spinal Tumor Diagnosis",
+		"test": "Spinal Tumor Test",
+		"cure": "Spinal Tumor Cure"
+	},
+	{
+		"name": "Spindle Cell Tumor",
+		"treatment": "Spindle Cell Tumor Treatment",
+		"diagnosis": "Spindle Cell Tumor Diagnosis",
+		"test": "Spindle Cell Tumor Test",
+		"cure": "Spindle Cell Tumor Cure"
+	},
+	{
+		"name": "Staging Tumor",
+		"treatment": "Staging Tumor Treatment",
+		"diagnosis": "Staging Tumor Diagnosis",
+		"test": "Staging Tumor Test",
+		"cure": "Staging Tumor Cure"
+	},
+	{
+		"name": "Sternomastoid Tumor",
+		"treatment": "Sternomastoid Tumor Treatment",
+		"diagnosis": "Sternomastoid Tumor Diagnosis",
+		"test": "Sternomastoid Tumor Test",
+		"cure": "Sternomastoid Tumor Cure"
+	},
+	{
+		"name": "Stromal Tumor",
+		"treatment": "Stromal Tumor Treatment",
+		"diagnosis": "Stromal Tumor Diagnosis",
+		"test": "Stromal Tumor Test",
+		"cure": "Stromal Tumor Cure"
+	},
+	{
+		"name": "Superior Sulcus Tumor",
+		"treatment": "Superior Sulcus Tumor Treatment",
+		"diagnosis": "Superior Sulcus Tumor Diagnosis",
+		"test": "Superior Sulcus Tumor Test",
+		"cure": "Superior Sulcus Tumor Cure"
+	},
+	{
+		"name": "Suprasellar Tumor",
+		"treatment": "Suprasellar Tumor Treatment",
+		"diagnosis": "Suprasellar Tumor Diagnosis",
+		"test": "Suprasellar Tumor Test",
+		"cure": "Suprasellar Tumor Cure"
+	},
+	{
+		"name": "Swollen Optic Nerve Brain Tumor",
+		"treatment": "Swollen Optic Nerve Brain Tumor Treatment",
+		"diagnosis": "Swollen Optic Nerve Brain Tumor Diagnosis",
+		"test": "Swollen Optic Nerve Brain Tumor Test",
+		"cure": "Swollen Optic Nerve Brain Tumor Cure"
+	},
+	{
+		"name": "Temporal Lobe Tumor",
+		"treatment": "Temporal Lobe Tumor Treatment",
+		"diagnosis": "Temporal Lobe Tumor Diagnosis",
+		"test": "Temporal Lobe Tumor Test",
+		"cure": "Temporal Lobe Tumor Cure"
+	},
+	{
+		"name": "Tenosynovial Giant Cell Tumor",
+		"treatment": "Tenosynovial Giant Cell Tumor Treatment",
+		"diagnosis": "Tenosynovial Giant Cell Tumor Diagnosis",
+		"test": "Tenosynovial Giant Cell Tumor Test",
+		"cure": "Tenosynovial Giant Cell Tumor Cure"
+	},
+	{
+		"name": "Teratoma Tumor",
+		"treatment": "Teratoma Tumor Treatment",
+		"diagnosis": "Teratoma Tumor Diagnosis",
+		"test": "Teratoma Tumor Test",
+		"cure": "Teratoma Tumor Cure"
+	},
+	{
+		"name": "Testicular Tumor",
+		"treatment": "Testicular Tumor Treatment",
+		"diagnosis": "Testicular Tumor Diagnosis",
+		"test": "Testicular Tumor Test",
+		"cure": "Testicular Tumor Cure"
+	},
+	{
+		"name": "Throat Tumor",
+		"treatment": "Throat Tumor Treatment",
+		"diagnosis": "Throat Tumor Diagnosis",
+		"test": "Throat Tumor Test",
+		"cure": "Throat Tumor Cure"
+	},
+	{
+		"name": "Thymus Tumor",
+		"treatment": "Thymus Tumor Treatment",
+		"diagnosis": "Thymus Tumor Diagnosis",
+		"test": "Thymus Tumor Test",
+		"cure": "Thymus Tumor Cure"
+	},
+	{
+		"name": "Thyroid Tumor",
+		"treatment": "Thyroid Tumor Treatment",
+		"diagnosis": "Thyroid Tumor Diagnosis",
+		"test": "Thyroid Tumor Test",
+		"cure": "Thyroid Tumor Cure"
+	},
+	{
+		"name": "Tinnitus Brain Tumor",
+		"treatment": "Tinnitus Brain Tumor Treatment",
+		"diagnosis": "Tinnitus Brain Tumor Diagnosis",
+		"test": "Tinnitus Brain Tumor Test",
+		"cure": "Tinnitus Brain Tumor Cure"
+	},
+	{
+		"name": "Tongue Tumor",
+		"treatment": "Tongue Tumor Treatment",
+		"diagnosis": "Tongue Tumor Diagnosis",
+		"test": "Tongue Tumor Test",
+		"cure": "Tongue Tumor Cure"
+	},
+	{
+		"name": "Tonsil Tumor",
+		"treatment": "Tonsil Tumor Treatment",
+		"diagnosis": "Tonsil Tumor Diagnosis",
+		"test": "Tonsil Tumor Test",
+		"cure": "Tonsil Tumor Cure"
+	},
+	{
+		"name": "Tracheal Tumor",
+		"treatment": "Tracheal Tumor Treatment",
+		"diagnosis": "Tracheal Tumor Diagnosis",
+		"test": "Tracheal Tumor Test",
+		"cure": "Tracheal Tumor Cure"
+	},
+	{
+		"name": "Trophoblastic Tumor",
+		"treatment": "Trophoblastic Tumor Treatment",
+		"diagnosis": "Trophoblastic Tumor Diagnosis",
+		"test": "Trophoblastic Tumor Test",
+		"cure": "Trophoblastic Tumor Cure"
+	},
+	{
+		"name": "Turban Tumor",
+		"treatment": "Turban Tumor Treatment",
+		"diagnosis": "Turban Tumor Diagnosis",
+		"test": "Turban Tumor Test",
+		"cure": "Turban Tumor Cure"
+	},
+	{
+		"name": "Ulcerating Tumor",
+		"treatment": "Ulcerating Tumor Treatment",
+		"diagnosis": "Ulcerating Tumor Diagnosis",
+		"test": "Ulcerating Tumor Test",
+		"cure": "Ulcerating Tumor Cure"
+	},
+	{
+		"name": "Uterus Tumor",
+		"treatment": "Uterus Tumor Treatment",
+		"diagnosis": "Uterus Tumor Diagnosis",
+		"test": "Uterus Tumor Test",
+		"cure": "Uterus Tumor Cure"
+	},
+	{
+		"name": "Vaginal Tumor",
+		"treatment": "Vaginal Tumor Treatment",
+		"diagnosis": "Vaginal Tumor Diagnosis",
+		"test": "Vaginal Tumor Test",
+		"cure": "Vaginal Tumor Cure"
+	},
+	{
+		"name": "Vascular Tumor",
+		"treatment": "Vascular Tumor Treatment",
+		"diagnosis": "Vascular Tumor Diagnosis",
+		"test": "Vascular Tumor Test",
+		"cure": "Vascular Tumor Cure"
+	},
+	{
+		"name": "Vic Reeves Brain Tumor",
+		"treatment": "Vic Reeves Brain Tumor Treatment",
+		"diagnosis": "Vic Reeves Brain Tumor Diagnosis",
+		"test": "Vic Reeves Brain Tumor Test",
+		"cure": "Vic Reeves Brain Tumor Cure"
+	},
+	{
+		"name": "Warthin Tumor",
+		"treatment": "Warthin Tumor Treatment",
+		"diagnosis": "Warthin Tumor Diagnosis",
+		"test": "Warthin Tumor Test",
+		"cure": "Warthin Tumor Cure"
+	},
+	{
+		"name": "Warthins Tumor",
+		"treatment": "Warthins Tumor Treatment",
+		"diagnosis": "Warthins Tumor Diagnosis",
+		"test": "Warthins Tumor Test",
+		"cure": "Warthins Tumor Cure"
+	},
+	{
+		"name": "Well Differentiated Neuroendocrine Tumor",
+		"treatment": "Well Differentiated Neuroendocrine Tumor Treatment",
+		"diagnosis": "Well Differentiated Neuroendocrine Tumor Diagnosis",
+		"test": "Well Differentiated Neuroendocrine Tumor Test",
+		"cure": "Well Differentiated Neuroendocrine Tumor Cure"
+	},
+	{
+		"name": "Wilms Tumor",
+		"treatment": "Wilms Tumor Treatment",
+		"diagnosis": "Wilms Tumor Diagnosis",
+		"test": "Wilms Tumor Test",
+		"cure": "Wilms Tumor Cure"
+	},
+	{
+		"name": "Xiphoid Process Tumor",
+		"treatment": "Xiphoid Process Tumor Treatment",
+		"diagnosis": "Xiphoid Process Tumor Diagnosis",
+		"test": "Xiphoid Process Tumor Test",
+		"cure": "Xiphoid Process Tumor Cure"
+	},
+	{
+		"name": "Yolk Sac Tumor",
+		"treatment": "Yolk Sac Tumor Treatment",
+		"diagnosis": "Yolk Sac Tumor Diagnosis",
+		"test": "Yolk Sac Tumor Test",
+		"cure": "Yolk Sac Tumor Cure"
+	}
+]

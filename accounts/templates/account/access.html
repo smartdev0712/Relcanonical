@@ -1,0 +1,87 @@
+{% load static %}
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<!-- ===============================================-->
+<!--    header starts here -->
+<!-- ===============================================-->
+
+<head>
+    <base href="../../">
+    <meta charset="utf-8" />
+    <title>Access Account :: Relcanonical</title>
+    <meta name="description"
+    content="In ~10 seconds, you can build your own Automated API, Business API, and Custom API without limitations. Save money, time, and resources. Generate an API." />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
+    <link href="/static/assets/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css" />
+    <link href="/static/assets/plugins/custom/prismjs/prismjs.bundle.css" rel="stylesheet" type="text/css" />
+    <link href="/static/assets/css/style.bundle.css" rel="stylesheet" type="text/css" />
+    <link href="/static/assets/css/goat.css" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" href="/static/assets/media/logos/logo_primary_letter.png" />
+</head>
+
+<!-- ===============================================-->
+<!--    header ends here -->
+<!-- ===============================================-->
+
+<div class="d-flex flex-column flex-root">
+    <div class="login login-1 login-signin-on d-flex flex-column flex-lg-row flex-column-fluid bg-white" id="kt_login">
+        <div
+            class="login-content flex-row-fluid d-flex flex-column justify-content-center position-relative overflow-hidden p-7 mx-auto">
+            <div class="d-flex flex-column-fluid flex-center">
+                <div class="login-form login-signup">
+                    <form class="container" id="form" method="post">
+                        {% csrf_token %}
+                        <div class="text-center pb-8"><img alt="Relcanonical Logo"
+                                src="/static/assets/media/logos/logo_primary_letter.png" class="max-h-20px" />
+                        </div>
+                        <div class="pb-4 text-center">
+                            <h3 class="font-weight-boldest text-dark font-size-h2 display-4">Access Account
+                            </h3>
+                            <p class="text-muted font-weight-bold font-size-h4">it only takes a few seconds
+                            </p>
+                        </div>
+                        <div class="row mb-4">
+                            <div class="col-md-12-goat">
+                                <input type="email"
+                                    class="form-control text-center font-weigth-bolder text-dark-50 form-control-solid h-auto p-6 rounded-lg font-size-h6"
+                                    placeholder="Account Email" name="account_email" required />
+                            </div>
+                        </div>
+                        <div class="row mb-4">
+                            <div class="col-md-12-goat">
+                                <input type="password"
+                                    class="form-control text-center font-weigth-bolder text-dark-50 form-control-solid h-auto p-6 rounded-lg font-size-h6"
+                                    placeholder="Account Password" name="account_password" required />
+                            </div>
+                        </div>
+                        <div class="text-center">
+                            <button class="btn btn-dark font-weight-boldest font-size-h6 px-8 py-5 btn-block"
+                                type="submit">ACCESS</button>
+                        </div>
+                        <div class="pt-5 text-center">
+                            <span class="text-muted font-weight-bolder font-size-h6"><a href="/account/request/">request
+                                    account</a> / <a href="/password/request/">request password</a>
+                        </div>
+
+                        <!-- ===============================================-->
+                        <!--    footer starts here -->
+                        <!-- ===============================================-->
+
+                        {% include "main/templates/footer.html" %}
+
+                        <!-- ===============================================-->
+                        <!--    footer ends here -->
+                        <!-- ===============================================-->
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</html>

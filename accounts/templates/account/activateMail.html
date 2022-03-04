@@ -1,0 +1,9 @@
+{% autoescape off %}
+
+Dear , {{new_request.first_name}}
+
+Please click http://{{domain}}{% url 'activate' uidb64=uid token=token %} to confirm your email.
+
+-- Relcanonical
+
+{% endautoescape %}
